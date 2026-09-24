@@ -2344,6 +2344,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25"
     },
+    "bubilet:16168": {
+      "event": {
+        "source": "Bubilet",
+        "id": "16168",
+        "title": "Özgür Turhan - Yepyenisi",
+        "venue": "Kayseri İl Kültür Sanat Merkezi",
+        "date": "2026-10-07T17:30:00Z",
+        "category": "Etkinlik",
+        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/ozgur-turhan-yepyenisi",
+        "tiers": {
+          "En uygun bilet": 110000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 110000
+      },
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25"
+    },
     "bubilet:18649": {
       "event": {
         "source": "Bubilet",
