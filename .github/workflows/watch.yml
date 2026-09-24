@@ -1,0 +1,56 @@
+name: Bilet Takip
+
+on:
+  schedule:
+    - cron: "*/20 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bilet-takip
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      # Derlenmiş programı önbellekte tut: kod değişmedikçe her çalıştırmada yeniden derlenmez.
+      - name: Önbellekteki programı al
+        id: bin
+        uses: actions/cache@v4
+        with:
+          path: bin/bilet-takip
+          key: bin-${{ runner.os }}-${{ hashFiles('Cargo.lock', 'Cargo.toml', 'src/**') }}
+
+      - name: Derle (sadece kod değiştiyse)
+        if: steps.bin.outputs.cache-hit != 'true'
+        run: |
+          cargo test --release --locked
+          cargo build --release --locked
+          mkdir -p bin && cp target/release/bilet-takip bin/
+
+      # Önce tarar, sonra bir sonraki çalıştırmaya kadar Telegram komutlarını anında cevaplar.
+      - name: Tara, bildir ve Telegram'ı dinle
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: ./bin/bilet-takip --listen 17
+
+      - name: Durumu kaydet
+        if: always()
+        run: |
+          git config user.name "Ethem Demirkaya"
+          git config user.email "42803357+ethemdemirkaya@users.noreply.github.com"
+          git add state/state.json
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok"
+          else
+            git commit -m "state: güncelle [skip ci]"
+            git pull --rebase
+            git push
+          fi

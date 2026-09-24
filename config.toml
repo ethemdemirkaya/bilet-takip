@@ -1,0 +1,29 @@
+# Bilet Takip ayarları
+
+# Takip edilen şehir (sitelerde göründüğü hâliyle) ve URL'lerdeki kısa adı
+city = "Kayseri"
+city_slug = "kayseri"
+
+[thresholds]
+# Bir fiyat, bu yüzde KADAR ya da bu TL KADAR düşerse bildirim gider (hangisi önce sağlanırsa).
+# Telegram'dan /esik 10 yazarak yüzdeyi değiştirebilirsin.
+min_drop_percent = 5.0
+min_drop_tl = 50.0
+
+[notify]
+price_drop = true
+new_event = true
+back_in_stock = true
+
+[sources]
+bubilet = true
+biletinial = true
+biletix = true
+
+# Biletinial'da taranacak kategoriler (stand-up'lar "tiyatro" altında)
+biletinial_categories = ["tiyatro", "muzik"]
+
+[http]
+# Aynı siteye art arda istekler arasında bekleme (milisaniye)
+delay_ms = 800
+timeout_secs = 30
