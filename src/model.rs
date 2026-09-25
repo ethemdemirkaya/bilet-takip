@@ -40,6 +40,9 @@ pub struct Event {
     /// Kategori adı -> fiyat (kuruş)
     pub tiers: BTreeMap<String, i64>,
     pub sold_out: bool,
+    /// Sitenin indirimden önceki (üstü çizili) fiyatı, kuruş. Sadece site indirim gösteriyorsa dolu.
+    #[serde(default, skip_serializing_if = "Option::is_none")]
+    pub list_price: Option<i64>,
 }
 
 impl Event {
@@ -49,6 +52,12 @@ impl Event {
 
     pub fn min_price(&self) -> Option<i64> {
         self.tiers.values().copied().min()
+    }
+
+    /// Site indirim gösteriyorsa (eski fiyat, indirimli fiyat).
+    pub fn discount(&self) -> Option<(i64, i64)> {
+        let now = self.min_price()?;
+        self.list_price.filter(|l| *l > now && !self.sold_out).map(|l| (l, now))
     }
 }
 

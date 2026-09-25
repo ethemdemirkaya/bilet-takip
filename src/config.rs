@@ -32,8 +32,14 @@ impl Thresholds {
 #[derive(Debug, Clone, Deserialize)]
 pub struct Notify {
     pub price_drop: bool,
+    #[serde(default = "yes")]
+    pub discount: bool,
     pub new_event: bool,
     pub back_in_stock: bool,
+}
+
+fn yes() -> bool {
+    true
 }
 
 #[derive(Debug, Clone, Deserialize)]

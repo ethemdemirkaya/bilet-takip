@@ -61,6 +61,15 @@ pub fn change(c: &Change, state: &State) -> String {
             }
             s + &other_sites(e, state) + &link(e)
         }
+        Change::Discount(e) => {
+            let mut s = format!("🔥 <b>İndirimde</b> — {}", header(e));
+            if let Some((old, new)) = e.discount() {
+                let pct = (old - new) as f64 * 100.0 / old as f64;
+                s += &format!("💸 <s>{}</s> → <b>{}</b> (−%{:.0})
+", fmt_tl(old), fmt_tl(new), pct);
+            }
+            s + &other_sites(e, state) + &link(e)
+        }
         Change::New(e) => {
             let mut s = format!("🆕 <b>Yeni etkinlik</b> — {}", header(e));
             match e.min_price() {
@@ -118,6 +127,40 @@ pub fn list(state: &State, today: NaiveDate, filter: Option<&str>) -> String {
     s
 }
 
+/// /indirim: şu an sitede indirimli görünen yaklaşan etkinlikler, en büyük indirim önce.
+pub fn discounts(state: &State, today: NaiveDate) -> String {
+    let mut events: Vec<(&Event, i64, i64)> = state
+        .events
+        .values()
+        .map(|t| &t.event)
+        .filter(|e| e.date.map(|d| d.date_naive() >= today).unwrap_or(true))
+        .filter_map(|e| e.discount().map(|(old, new)| (e, old, new)))
+        .collect();
+    if events.is_empty() {
+        return "Şu an indirimli etkinlik yok.".into();
+    }
+    events.sort_by_key(|(_, old, new)| std::cmp::Reverse((old - new) * 1000 / old));
+
+    let mut s = format!("🔥 <b>İndirimdekiler</b> ({})
+
+", events.len());
+    for (e, old, new) in events {
+        let date = e.date.as_ref().map(fmt_date_short).unwrap_or_default();
+        let pct = (old - new) as f64 * 100.0 / old as f64;
+        s += &format!(
+            "• {date} — {} — <s>{}</s> <a href=\"{}\">{}</a> (−%{:.0}, {})
+",
+            esc(&e.title),
+            fmt_tl(old),
+            esc(&e.url),
+            fmt_tl(new),
+            pct,
+            e.source
+        );
+    }
+    s
+}
+
 pub fn status(state: &State, sources: &[SourceId], percent: f64, min_tl: f64) -> String {
     let mut s = String::from("📊 <b>Durum</b>\n\n");
     let mut per_source: BTreeMap<SourceId, usize> = BTreeMap::new();
@@ -151,7 +194,8 @@ pub fn source_up(src: SourceId) -> String {
 
 pub const HELP: &str = "🤖 <b>Bilet Takip</b>\n\n\
 Kayseri'deki etkinliklerin bilet fiyatlarını Bubilet, Biletinial ve Biletix'ten takip ediyorum. \
-Fiyat düşünce, yeni etkinlik eklenince ya da tükenen bilet tekrar satışa çıkınca haber veririm.\n\n\
+Bir etkinlik indirime girince, fiyat düşünce ya da tükenen bilet tekrar satışa çıkınca haber veririm.\n\n\
+/indirim — şu an indirimdeki etkinlikler\n\
 /liste — yaklaşan etkinlikler ve en ucuz fiyatlar\n\
 /ara kelime — etkinlik ara (ör. /ara karsu)\n\
 /tara — beklemeden hemen tara\n\

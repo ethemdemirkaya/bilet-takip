@@ -212,6 +212,7 @@ impl App {
             .into_iter()
             .filter(|c| match c {
                 Change::PriceDrop(..) => notify.price_drop,
+                Change::Discount(_) => notify.discount,
                 Change::New(_) => notify.new_event,
                 Change::BackInStock(_) => notify.back_in_stock,
             })
@@ -221,7 +222,7 @@ impl App {
         if !started.is_empty() {
             let list: Vec<String> = started.iter().map(|(s, n)| format!("{s}: {n} etkinlik")).collect();
             self.tg.send(&format!(
-                "✅ <b>Takip başladı</b> ({})\n{}\n\nBundan sonra fiyat düşüşlerini, yeni etkinlikleri ve tekrar satışa çıkan biletleri bildireceğim. /yardim",
+                "✅ <b>Takip başladı</b> ({})\n{}\n\nBundan sonra indirimleri, fiyat düşüşlerini ve tekrar satışa çıkan biletleri bildireceğim. /yardim",
                 self.cfg.city,
                 list.join("\n")
             ))?;
@@ -261,6 +262,7 @@ impl App {
             let reply = match cmd.as_str() {
                 "/start" | "/yardim" | "/help" => messages::HELP.to_string(),
                 "/liste" => messages::list(&self.state, today, None),
+                "/indirim" => messages::discounts(&self.state, today),
                 "/ara" => match arg {
                     Some(q) => messages::list(&self.state, today, Some(q)),
                     None => "Kullanım: /ara karsu".into(),

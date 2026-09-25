@@ -74,6 +74,7 @@ pub fn parse(html: &str, city_slug: &str) -> Result<Vec<Event>> {
                 url: format!("https://www.bubilet.com.tr/{city_slug}/etkinlik/{}", e.slug),
                 tiers,
                 sold_out: e.is_sold_out || e.is_marked_sold_out,
+                list_price: Some(e.price).filter(|p| !e.is_free_ticket && *p > current).map(tl_to_kurus),
             }
         })
         .collect())
@@ -93,5 +94,8 @@ mod tests {
         assert_eq!(blok3.url, "https://www.bubilet.com.tr/kayseri/etkinlik/-blok3-");
         assert!(blok3.venue.starts_with("Kumsmall"));
         assert!(blok3.date.is_some());
+        assert_eq!(blok3.discount(), Some((100_000, 70_000)));
+        let karsu = events.iter().find(|e| e.title == "Karsu").unwrap();
+        assert_eq!(karsu.discount(), None);
     }
 }

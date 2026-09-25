@@ -12,7 +12,9 @@ min_drop_tl = 50.0
 
 [notify]
 price_drop = true
-new_event = true
+# Site bir etkinliğe indirim koyunca (üstü çizili fiyat). Şimdilik sadece Bubilet gösteriyor.
+discount = true
+new_event = false
 back_in_stock = true
 
 [sources]

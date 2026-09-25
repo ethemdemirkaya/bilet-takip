@@ -2,8 +2,8 @@
 
 Kayseri'deki konser, tiyatro ve stand-up etkinliklerinin bilet fiyatlarını **Bubilet**, **Biletinial** ve **Biletix**'ten takip eder. Telegram'dan linkiyle birlikte şu durumlarda haber verir:
 
+- 🔥 site bir etkinliğe indirim koyunca (üstü çizili fiyat; şimdilik Bubilet)
 - 📉 bir kategorinin fiyatı düşünce (varsayılan: en az %5 ya da en az 50 ₺)
-- 🆕 şehre yeni etkinlik eklenince
 - 🎟️ tükenen bilet tekrar satışa çıkınca
 
 Aynı etkinlik birden fazla sitede satılıyorsa mesajda diğer sitelerdeki fiyatlar da gösterilir.
@@ -36,6 +36,7 @@ Sunucu gerekmez, ücretsizdir.
 
 | Komut | Ne yapar |
 |---|---|
+| `/indirim` | Şu an indirimdeki etkinlikler |
 | `/liste` | Yaklaşan etkinlikler ve en ucuz fiyatlar |
 | `/ara karsu` | Etkinlik arama |
 | `/tara` | Beklemeden hemen tarar |
@@ -68,7 +69,7 @@ cargo run --release -- chat-id     # bota yazanların chat ID'lerini gösterir
 cargo run --release -- --loop 20   # sürekli mod
 ```
 
-Ayarlar (şehir, eşikler, açık/kapalı kaynaklar) `config.toml` dosyasında.
+Ayarlar (şehir, eşikler, açık/kapalı kaynaklar, hangi bildirimlerin gideceği) `config.toml` dosyasında. Yeni etkinlik bildirimleri varsayılan olarak kapalı; açmak için `new_event = true`.
 
 ## Kaynaklar nasıl okunuyor
 

@@ -8,6 +8,8 @@ pub enum Change {
     New(Event),
     /// (kategori, eski fiyat, yeni fiyat)
     PriceDrop(Event, Vec<(String, i64, i64)>),
+    /// Site etkinliğe indirim koydu (üstü çizili fiyat göründü).
+    Discount(Event),
     BackInStock(Event),
 }
 
@@ -24,7 +26,7 @@ pub fn apply(state: &mut State, source: SourceId, current: Vec<Event>, th: &Thre
         let key = ev.key();
         let Some(t) = state.events.get_mut(&key) else {
             if !first_scan {
-                changes.push(Change::New(ev.clone()));
+                changes.push(if ev.discount().is_some() { Change::Discount(ev.clone()) } else { Change::New(ev.clone()) });
             }
             state.events.insert(
                 key,
@@ -50,7 +52,9 @@ pub fn apply(state: &mut State, source: SourceId, current: Vec<Event>, th: &Thre
             }
         }
 
-        if t.event.sold_out && !ev.sold_out {
+        if ev.discount().is_some() && t.event.discount().is_none() {
+            changes.push(Change::Discount(ev.clone()));
+        } else if t.event.sold_out && !ev.sold_out {
             changes.push(Change::BackInStock(ev.clone()));
         } else if !drops.is_empty() {
             changes.push(Change::PriceDrop(ev.clone(), drops));
@@ -88,7 +92,12 @@ mod tests {
             url: format!("https://x/{id}"),
             tiers: prices.iter().map(|(n, p)| (n.to_string(), *p)).collect::<BTreeMap<_, _>>(),
             sold_out,
+            list_price: None,
         }
+    }
+
+    fn discounted(id: &str, list: i64, now: i64) -> Event {
+        Event { list_price: Some(list), ..ev(id, &[("En uygun bilet", now)], false) }
     }
 
     fn run(state: &mut State, events: Vec<Event>) -> Vec<Change> {
@@ -129,6 +138,23 @@ mod tests {
         assert!(run(&mut s, vec![ev("a", &[("Tam", 80_000)], false)]).is_empty());
         let c = run(&mut s, vec![ev("a", &[("Tam", 50_000)], false)]);
         assert!(matches!(&c[0], Change::PriceDrop(_, d) if d[0] == ("Tam".into(), 80_000, 50_000)));
+    }
+
+    #[test]
+    fn discount_notifies_once_instead_of_price_drop() {
+        let mut s = State::default();
+        run(&mut s, vec![ev("a", &[("En uygun bilet", 100_000)], false)]);
+        let c = run(&mut s, vec![discounted("a", 100_000, 70_000)]);
+        assert_eq!(c, vec![Change::Discount(discounted("a", 100_000, 70_000))]);
+        assert!(run(&mut s, vec![discounted("a", 100_000, 70_000)]).is_empty(), "aynı indirim tekrar bildirilmemeli");
+    }
+
+    #[test]
+    fn new_event_already_discounted() {
+        let mut s = State::default();
+        run(&mut s, vec![ev("a", &[("Tam", 100_000)], false)]);
+        let c = run(&mut s, vec![ev("a", &[("Tam", 100_000)], false), discounted("b", 90_000, 45_000)]);
+        assert!(matches!(&c[..], [Change::Discount(e)] if e.id == "b"));
     }
 
     #[test]
