@@ -482,6 +482,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25"
     },
+    "biletinial:icimizdeki-seytan@2026-09-26T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "icimizdeki-seytan@2026-09-26T23:00",
+        "title": "İçimizdeki Şeytan",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-09-26T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/icimizdeki-seytan",
+        "tiers": {
+          "En uygun bilet": 160800
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 160800
+      },
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25"
+    },
     "biletinial:ister-soyle-ister-dinle@2026-10-09T19:00": {
       "event": {
         "source": "Biletinial",
@@ -532,16 +552,19 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/kara-kiz-ecem-erkek",
         "tiers": {
-          "1. Kategori": 200000,
-          "2. Kategori": 180000,
-          "3. Kategori": 165000
+          "Category 1": 200000,
+          "Category 2": 180000,
+          "Category 3": 165000
         },
         "sold_out": false
       },
       "reference": {
         "1. Kategori": 200000,
         "2. Kategori": 180000,
-        "3. Kategori": 165000
+        "3. Kategori": 165000,
+        "Category 1": 200000,
+        "Category 2": 180000,
+        "Category 3": 165000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25"
@@ -986,12 +1009,13 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ruh-okuzum-ss",
         "tiers": {
-          "Balkon": 80000,
+          "Balcony": 80000,
           "Salon": 100000
         },
         "sold_out": false
       },
       "reference": {
+        "Balcony": 80000,
         "Balkon": 80000,
         "Salon": 100000
       },
