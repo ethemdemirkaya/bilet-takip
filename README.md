@@ -2,7 +2,7 @@
 
 Kayseri'deki konser, tiyatro ve stand-up etkinliklerinin bilet fiyatlarını **Bubilet**, **Biletinial** ve **Biletix**'ten takip eder. Telegram'dan linkiyle birlikte şu durumlarda haber verir:
 
-- 🔥 site bir etkinliğe indirim koyunca (üstü çizili fiyat; şimdilik Bubilet)
+- 🔥 site bir etkinliğin herhangi bir kategorisine indirim koyunca (üstü çizili fiyat; şimdilik Bubilet)
 - 📉 bir kategorinin fiyatı düşünce (varsayılan: en az %5 ya da en az 50 ₺)
 - 🎟️ tükenen bilet tekrar satışa çıkınca
 
@@ -75,7 +75,7 @@ Ayarlar (şehir, eşikler, açık/kapalı kaynaklar, hangi bildirimlerin gidece�
 
 | Site | Yöntem |
 |---|---|
-| Bubilet | Şehir sayfasındaki Next.js verisinde tüm etkinlikler ve indirimli fiyatlar hazır |
+| Bubilet | Şehir sayfasındaki Next.js verisinden etkinlik listesi → etkinlik başına seanslar → seans başına bilet kategorileri (eski ve indirimli fiyatlarıyla) |
 | Biletinial | Kategori listesi → etkinlik sayfası → şehirdeki seansların kategori fiyatları |
 | Biletix | Solr arama servisi → etkinlik başına kategori fiyatları |
 

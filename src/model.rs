@@ -40,9 +40,9 @@ pub struct Event {
     /// Kategori adı -> fiyat (kuruş)
     pub tiers: BTreeMap<String, i64>,
     pub sold_out: bool,
-    /// Sitenin indirimden önceki (üstü çizili) fiyatı, kuruş. Sadece site indirim gösteriyorsa dolu.
-    #[serde(default, skip_serializing_if = "Option::is_none")]
-    pub list_price: Option<i64>,
+    /// Kategori adı -> sitenin indirimden önceki (üstü çizili) fiyatı, kuruş. Sadece indirimli kategoriler.
+    #[serde(default, skip_serializing_if = "BTreeMap::is_empty")]
+    pub list_prices: BTreeMap<String, i64>,
 }
 
 impl Event {
@@ -54,10 +54,18 @@ impl Event {
         self.tiers.values().copied().min()
     }
 
-    /// Site indirim gösteriyorsa (eski fiyat, indirimli fiyat).
-    pub fn discount(&self) -> Option<(i64, i64)> {
-        let now = self.min_price()?;
-        self.list_price.filter(|l| *l > now && !self.sold_out).map(|l| (l, now))
+    /// Sitede indirimli görünen kategoriler: (kategori, eski fiyat, indirimli fiyat), ucuzdan pahalıya.
+    pub fn discounts(&self) -> Vec<(String, i64, i64)> {
+        if self.sold_out {
+            return Vec::new();
+        }
+        let mut v: Vec<(String, i64, i64)> = self
+            .tiers
+            .iter()
+            .filter_map(|(tier, &now)| self.list_prices.get(tier).filter(|l| **l > now).map(|&l| (tier.clone(), l, now)))
+            .collect();
+        v.sort_by_key(|(tier, _, now)| (*now, tier.clone()));
+        v
     }
 }
 

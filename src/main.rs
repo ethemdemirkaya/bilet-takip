@@ -212,7 +212,7 @@ impl App {
             .into_iter()
             .filter(|c| match c {
                 Change::PriceDrop(..) => notify.price_drop,
-                Change::Discount(_) => notify.discount,
+                Change::Discount(..) => notify.discount,
                 Change::New(_) => notify.new_event,
                 Change::BackInStock(_) => notify.back_in_stock,
             })

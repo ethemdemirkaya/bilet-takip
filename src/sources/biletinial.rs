@@ -150,7 +150,7 @@ pub fn parse_detail(html: &str, url: &str, cat: &str, city: &str) -> Vec<Event> 
             url: url.to_string(),
             tiers,
             sold_out,
-            list_price: None,
+            list_prices: Default::default(),
         });
     }
     out

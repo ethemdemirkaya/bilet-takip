@@ -8,8 +8,9 @@ pub enum Change {
     New(Event),
     /// (kategori, eski fiyat, yeni fiyat)
     PriceDrop(Event, Vec<(String, i64, i64)>),
-    /// Site etkinliğe indirim koydu (üstü çizili fiyat göründü).
-    Discount(Event),
+    /// Site bazı kategorilere indirim koydu (üstü çizili fiyat göründü). (kategori, eski fiyat, yeni fiyat);
+    /// aynı taramadaki diğer fiyat düşüşleri de bu listededir.
+    Discount(Event, Vec<(String, i64, i64)>),
     BackInStock(Event),
 }
 
@@ -26,7 +27,8 @@ pub fn apply(state: &mut State, source: SourceId, current: Vec<Event>, th: &Thre
         let key = ev.key();
         let Some(t) = state.events.get_mut(&key) else {
             if !first_scan {
-                changes.push(if ev.discount().is_some() { Change::Discount(ev.clone()) } else { Change::New(ev.clone()) });
+                let d = ev.discounts();
+                changes.push(if d.is_empty() { Change::New(ev.clone()) } else { Change::Discount(ev.clone(), d) });
             }
             state.events.insert(
                 key,
@@ -52,8 +54,14 @@ pub fn apply(state: &mut State, source: SourceId, current: Vec<Event>, th: &Thre
             }
         }
 
-        if ev.discount().is_some() && t.event.discount().is_none() {
-            changes.push(Change::Discount(ev.clone()));
+        // Yeni indirime giren kategoriler (önceki taramada indirimli değildi)
+        let was = t.event.discounts();
+        let mut fresh: Vec<(String, i64, i64)> =
+            ev.discounts().into_iter().filter(|(tier, ..)| !was.iter().any(|(w, ..)| w == tier)).collect();
+
+        if !fresh.is_empty() {
+            fresh.extend(drops.into_iter().filter(|(tier, ..)| !fresh.iter().any(|(f, ..)| f == tier)).collect::<Vec<_>>());
+            changes.push(Change::Discount(ev.clone(), fresh));
         } else if t.event.sold_out && !ev.sold_out {
             changes.push(Change::BackInStock(ev.clone()));
         } else if !drops.is_empty() {
@@ -92,12 +100,12 @@ mod tests {
             url: format!("https://x/{id}"),
             tiers: prices.iter().map(|(n, p)| (n.to_string(), *p)).collect::<BTreeMap<_, _>>(),
             sold_out,
-            list_price: None,
+            list_prices: BTreeMap::new(),
         }
     }
 
     fn discounted(id: &str, list: i64, now: i64) -> Event {
-        Event { list_price: Some(list), ..ev(id, &[("En uygun bilet", now)], false) }
+        Event { list_prices: [("VIP".to_string(), list)].into(), ..ev(id, &[("VIP", now), ("Tam", 50_000)], false) }
     }
 
     fn run(state: &mut State, events: Vec<Event>) -> Vec<Change> {
@@ -143,10 +151,27 @@ mod tests {
     #[test]
     fn discount_notifies_once_instead_of_price_drop() {
         let mut s = State::default();
-        run(&mut s, vec![ev("a", &[("En uygun bilet", 100_000)], false)]);
+        run(&mut s, vec![ev("a", &[("VIP", 100_000), ("Tam", 80_000)], false)]);
+        // VIP indirime girdi, Tam da aynı anda düştü: tek mesaj
         let c = run(&mut s, vec![discounted("a", 100_000, 70_000)]);
-        assert_eq!(c, vec![Change::Discount(discounted("a", 100_000, 70_000))]);
+        assert_eq!(
+            c,
+            vec![Change::Discount(
+                discounted("a", 100_000, 70_000),
+                vec![("VIP".into(), 100_000, 70_000), ("Tam".into(), 80_000, 50_000)]
+            )]
+        );
         assert!(run(&mut s, vec![discounted("a", 100_000, 70_000)]).is_empty(), "aynı indirim tekrar bildirilmemeli");
+    }
+
+    #[test]
+    fn another_category_discounted_later() {
+        let mut s = State::default();
+        run(&mut s, vec![discounted("a", 100_000, 70_000)]);
+        let mut e = discounted("a", 100_000, 70_000);
+        e.list_prices.insert("Tam".into(), 60_000);
+        let c = run(&mut s, vec![e]);
+        assert!(matches!(&c[..], [Change::Discount(_, d)] if *d == vec![("Tam".to_string(), 60_000, 50_000)]), "{c:?}");
     }
 
     #[test]
@@ -154,7 +179,7 @@ mod tests {
         let mut s = State::default();
         run(&mut s, vec![ev("a", &[("Tam", 100_000)], false)]);
         let c = run(&mut s, vec![ev("a", &[("Tam", 100_000)], false), discounted("b", 90_000, 45_000)]);
-        assert!(matches!(&c[..], [Change::Discount(e)] if e.id == "b"));
+        assert!(matches!(&c[..], [Change::Discount(e, d)] if e.id == "b" && d.len() == 1));
     }
 
     #[test]

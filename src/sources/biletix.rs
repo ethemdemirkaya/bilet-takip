@@ -44,7 +44,7 @@ pub fn parse_solr(v: &Value) -> Result<Vec<Event>> {
                 date: d["start"].as_str().and_then(|s| DateTime::parse_from_rfc3339(s).ok()),
                 category: category(d["category"].as_str().unwrap_or(""), d["subcategory"].as_str().unwrap_or(""), &title),
                 sold_out: status.to_lowercase().contains("sold"),
-                list_price: None,
+                list_prices: Default::default(),
                 tiers: BTreeMap::new(),
                 id,
                 title,

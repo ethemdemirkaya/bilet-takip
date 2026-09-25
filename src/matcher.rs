@@ -53,7 +53,7 @@ mod tests {
             url: String::new(),
             tiers: Default::default(),
             sold_out: false,
-            list_price: None,
+            list_prices: Default::default(),
         }
     }
 

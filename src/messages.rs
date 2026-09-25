@@ -51,24 +51,27 @@ fn link(e: &Event) -> String {
     format!("🔗 <a href=\"{}\">{}{suffix} aç</a>", esc(&e.url), e.source)
 }
 
+/// "💸 VIP: <s>1.000 ₺</s> → <b>700 ₺</b> (−%30)" satırları; çok kategori varsa ilk birkaçı.
+fn price_lines(items: &[(String, i64, i64)]) -> String {
+    const MAX: usize = 8;
+    let mut s = String::new();
+    for (tier, old, new) in items.iter().take(MAX) {
+        let pct = (old - new) as f64 * 100.0 / *old as f64;
+        s += &format!("💸 {}: <s>{}</s> → <b>{}</b> (−%{:.0})\n", esc(tier), fmt_tl(*old), fmt_tl(*new), pct);
+    }
+    if items.len() > MAX {
+        s += &format!("…ve {} kategori daha\n", items.len() - MAX);
+    }
+    s
+}
+
 pub fn change(c: &Change, state: &State) -> String {
     match c {
         Change::PriceDrop(e, drops) => {
-            let mut s = format!("📉 <b>Fiyat düştü</b> — {}", header(e));
-            for (tier, old, new) in drops {
-                let pct = (old - new) as f64 * 100.0 / *old as f64;
-                s += &format!("💸 {}: <s>{}</s> → <b>{}</b> (−%{:.0})\n", esc(tier), fmt_tl(*old), fmt_tl(*new), pct);
-            }
-            s + &other_sites(e, state) + &link(e)
+            format!("📉 <b>Fiyat düştü</b> — {}", header(e)) + &price_lines(drops) + &other_sites(e, state) + &link(e)
         }
-        Change::Discount(e) => {
-            let mut s = format!("🔥 <b>İndirimde</b> — {}", header(e));
-            if let Some((old, new)) = e.discount() {
-                let pct = (old - new) as f64 * 100.0 / old as f64;
-                s += &format!("💸 <s>{}</s> → <b>{}</b> (−%{:.0})
-", fmt_tl(old), fmt_tl(new), pct);
-            }
-            s + &other_sites(e, state) + &link(e)
+        Change::Discount(e, items) => {
+            format!("🔥 <b>İndirimde</b> — {}", header(e)) + &price_lines(items) + &other_sites(e, state) + &link(e)
         }
         Change::New(e) => {
             let mut s = format!("🆕 <b>Yeni etkinlik</b> — {}", header(e));
@@ -128,32 +131,35 @@ pub fn list(state: &State, today: NaiveDate, filter: Option<&str>) -> String {
 }
 
 /// /indirim: şu an sitede indirimli görünen yaklaşan etkinlikler, en büyük indirim önce.
+/// Her etkinlikte en ucuz indirimli kategori gösterilir.
 pub fn discounts(state: &State, today: NaiveDate) -> String {
-    let mut events: Vec<(&Event, i64, i64)> = state
+    let mut events: Vec<(&Event, Vec<(String, i64, i64)>)> = state
         .events
         .values()
         .map(|t| &t.event)
         .filter(|e| e.date.map(|d| d.date_naive() >= today).unwrap_or(true))
-        .filter_map(|e| e.discount().map(|(old, new)| (e, old, new)))
+        .map(|e| (e, e.discounts()))
+        .filter(|(_, d)| !d.is_empty())
         .collect();
     if events.is_empty() {
         return "Şu an indirimli etkinlik yok.".into();
     }
-    events.sort_by_key(|(_, old, new)| std::cmp::Reverse((old - new) * 1000 / old));
+    let best_pct = |d: &[(String, i64, i64)]| d.iter().map(|(_, old, new)| (old - new) * 1000 / old).max().unwrap_or(0);
+    events.sort_by_key(|(_, d)| std::cmp::Reverse(best_pct(d)));
 
-    let mut s = format!("🔥 <b>İndirimdekiler</b> ({})
-
-", events.len());
-    for (e, old, new) in events {
+    let mut s = format!("🔥 <b>İndirimdekiler</b> ({})\n\n", events.len());
+    for (e, d) in events {
         let date = e.date.as_ref().map(fmt_date_short).unwrap_or_default();
-        let pct = (old - new) as f64 * 100.0 / old as f64;
+        let (tier, old, new) = &d[0];
+        let pct = (old - new) as f64 * 100.0 / *old as f64;
+        let more = if d.len() > 1 { format!(" · {} kategoride indirim", d.len()) } else { String::new() };
         s += &format!(
-            "• {date} — {} — <s>{}</s> <a href=\"{}\">{}</a> (−%{:.0}, {})
-",
+            "• {date} — {} — {}: <s>{}</s> <a href=\"{}\">{}</a> (−%{:.0}, {}){more}\n",
             esc(&e.title),
-            fmt_tl(old),
+            esc(tier),
+            fmt_tl(*old),
             esc(&e.url),
-            fmt_tl(new),
+            fmt_tl(*new),
             pct,
             e.source
         );
