@@ -502,6 +502,28 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25"
     },
+    "biletinial:insan-kaynaklari@2026-10-31T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "insan-kaynaklari@2026-10-31T20:00",
+        "title": "İnsan Kaynakları",
+        "venue": "Kayseri Kültür Merkezi 1. Alaaddin Keykubat Salonu",
+        "date": "2026-10-31T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/insan-kaynaklari",
+        "tiers": {
+          "Balkon": 50000,
+          "Salon": 60000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Balkon": 50000,
+        "Salon": 60000
+      },
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25"
+    },
     "biletinial:ister-soyle-ister-dinle@2026-10-09T19:00": {
       "event": {
         "source": "Biletinial",
@@ -595,6 +617,26 @@
         "4. Kategori": 195000,
         "5. Kategori": 145000,
         "VIP": 425000
+      },
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25"
+    },
+    "biletinial:karsu-konseri@2026-11-28T00:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "karsu-konseri@2026-11-28T00:00",
+        "title": "Karsu",
+        "venue": "Kayseri Erciyes Kültür Merkezi",
+        "date": "2026-11-28T00:00:00+03:00",
+        "category": "Konser",
+        "url": "https://biletinial.com/tr-tr/muzik/karsu-konseri",
+        "tiers": {
+          "En uygun bilet": 145000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 145000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25"
@@ -1068,6 +1110,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25"
     },
+    "biletinial:ozgur-turhan-yepyenisi@2026-10-07T23:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "ozgur-turhan-yepyenisi@2026-10-07T23:30",
+        "title": "Özgür Turhan - Yepyenisi",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-10-07T23:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/ozgur-turhan-yepyenisi",
+        "tiers": {
+          "En uygun bilet": 112000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 112000
+      },
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25"
+    },
     "biletinial:ran-entropi@2026-10-10T20:00": {
       "event": {
         "source": "Biletinial",
@@ -1100,7 +1162,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ruh-okuzum-ss",
         "tiers": {
-          "Balkon": 80000,
+          "Balcony": 80000,
           "Salon": 100000
         },
         "sold_out": false
@@ -2293,17 +2355,16 @@
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5YHE0/TURKIYE/tr",
         "tiers": {
-          "Genel Giriş Arka Alan": 99000,
-          "Genel Giriş Orta Alan": 150000,
-          "Genel Giriş Ön Alan": 300000,
-          "VIP Bistro": 700000
+          "Genel Giriş": 50000,
+          "Genel Giriş Ön Alan": 150000
         },
         "sold_out": false
       },
       "reference": {
+        "Genel Giriş": 50000,
         "Genel Giriş Arka Alan": 99000,
         "Genel Giriş Orta Alan": 150000,
-        "Genel Giriş Ön Alan": 300000,
+        "Genel Giriş Ön Alan": 150000,
         "VIP Bistro": 700000
       },
       "first_seen": "2026-09-25",
@@ -2439,6 +2500,26 @@
       },
       "reference": {
         "En uygun bilet": 30000
+      },
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25"
+    },
+    "bubilet:14446": {
+      "event": {
+        "source": "Bubilet",
+        "id": "14446",
+        "title": "Soner Arıca Konseri",
+        "venue": "Kayseri Kadir Has Gösteri ve Sanat Merkezi",
+        "date": "2026-12-12T17:30:00Z",
+        "category": "Konser",
+        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/soner-arica-konseri-",
+        "tiers": {
+          "En uygun bilet": 95000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 95000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25"
@@ -2593,12 +2674,12 @@
         "category": "Konser",
         "url": "https://www.bubilet.com.tr/kayseri/etkinlik/poizikonseri",
         "tiers": {
-          "En uygun bilet": 75000
+          "En uygun bilet": 50000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 75000
+        "En uygun bilet": 50000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25"
@@ -2753,12 +2834,12 @@
         "category": "Etkinlik",
         "url": "https://www.bubilet.com.tr/kayseri/etkinlik/-blok3-",
         "tiers": {
-          "En uygun bilet": 100000
+          "En uygun bilet": 90000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 100000
+        "En uygun bilet": 90000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25"
@@ -2913,12 +2994,12 @@
         "category": "Etkinlik",
         "url": "https://www.bubilet.com.tr/kayseri/etkinlik/bagjan-oktabr-ruh-terapisi",
         "tiers": {
-          "En uygun bilet": 126000
+          "En uygun bilet": 180000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 126000
+        "En uygun bilet": 180000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25"
@@ -3039,7 +3120,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 59,
+      "last_count": 60,
       "last_error": null
     },
     "Biletix": {
