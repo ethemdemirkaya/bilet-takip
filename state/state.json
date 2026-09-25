@@ -552,9 +552,9 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/kara-kiz-ecem-erkek",
         "tiers": {
-          "Category 1": 200000,
-          "Category 2": 180000,
-          "Category 3": 165000
+          "1. Kategori": 200000,
+          "2. Kategori": 180000,
+          "3. Kategori": 165000
         },
         "sold_out": false
       },
@@ -713,6 +713,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25"
     },
+    "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-08T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-08T23:00",
+        "title": "ÖĞLE KAHVESİ (BİR ANNE OĞUL HİKAYESİ)",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-10-08T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/ogle-kahvesi-bir-anne-ogul-hikayesi-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25"
+    },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-09T20:00": {
       "event": {
         "source": "Biletinial",
@@ -720,6 +740,26 @@
         "title": "ÖĞLE KAHVESİ (BİR ANNE OĞUL HİKAYESİ)",
         "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
         "date": "2026-10-09T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/ogle-kahvesi-bir-anne-ogul-hikayesi-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25"
+    },
+    "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-09T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-09T23:00",
+        "title": "ÖĞLE KAHVESİ (BİR ANNE OĞUL HİKAYESİ)",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-10-09T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ogle-kahvesi-bir-anne-ogul-hikayesi-dt",
         "tiers": {
@@ -753,6 +793,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25"
     },
+    "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-10T18:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-10T18:00",
+        "title": "ÖĞLE KAHVESİ (BİR ANNE OĞUL HİKAYESİ)",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-10-10T18:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/ogle-kahvesi-bir-anne-ogul-hikayesi-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25"
+    },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-10T20:00": {
       "event": {
         "source": "Biletinial",
@@ -760,6 +820,26 @@
         "title": "ÖĞLE KAHVESİ (BİR ANNE OĞUL HİKAYESİ)",
         "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
         "date": "2026-10-10T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/ogle-kahvesi-bir-anne-ogul-hikayesi-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25"
+    },
+    "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-10T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-10T23:00",
+        "title": "ÖĞLE KAHVESİ (BİR ANNE OĞUL HİKAYESİ)",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-10-10T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ogle-kahvesi-bir-anne-ogul-hikayesi-dt",
         "tiers": {
@@ -1022,6 +1102,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25"
     },
+    "biletinial:ruh-okuzum-ss@2026-10-13T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "ruh-okuzum-ss@2026-10-13T23:00",
+        "title": "Ruh Öküzüm",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-10-13T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/ruh-okuzum-ss",
+        "tiers": {
+          "En uygun bilet": 89600
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 89600
+      },
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25"
+    },
     "biletinial:sesler-salih-bademci@2026-10-24T20:30": {
       "event": {
         "source": "Biletinial",
@@ -1032,10 +1132,10 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/sesler-salih-bademci",
         "tiers": {
-          "1. Kategori": 225000,
-          "2. Kategori": 150000,
-          "3. Kategori": 125000,
-          "4. Kategori": 100000
+          "Category 1": 225000,
+          "Category 2": 150000,
+          "Category 3": 125000,
+          "Category 4": 100000
         },
         "sold_out": false
       },
@@ -1043,7 +1143,11 @@
         "1. Kategori": 225000,
         "2. Kategori": 150000,
         "3. Kategori": 125000,
-        "4. Kategori": 100000
+        "4. Kategori": 100000,
+        "Category 1": 225000,
+        "Category 2": 150000,
+        "Category 3": 125000,
+        "Category 4": 100000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25"
@@ -2464,6 +2568,26 @@
       },
       "reference": {
         "En uygun bilet": 185000
+      },
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25"
+    },
+    "bubilet:22613": {
+      "event": {
+        "source": "Bubilet",
+        "id": "22613",
+        "title": "Yung Ouzo Konseri",
+        "venue": "EKM Erciyes Kültür Merkezi",
+        "date": "2027-01-15T17:00:00Z",
+        "category": "Konser",
+        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/yung-ouzo-konseri-",
+        "tiers": {
+          "En uygun bilet": 75000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 75000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25"
