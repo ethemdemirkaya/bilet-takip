@@ -707,6 +707,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25"
     },
+    "biletinial:lumera-trio-sezen-aksu-sarkilari@2026-10-23T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "lumera-trio-sezen-aksu-sarkilari@2026-10-23T23:00",
+        "title": "Lumera - Sezen Aksu Şarkıları",
+        "venue": "I. Alaeddin Keykubat Salonu",
+        "date": "2026-10-23T23:00:00+03:00",
+        "category": "Konser",
+        "url": "https://biletinial.com/tr-tr/muzik/lumera-trio-sezen-aksu-sarkilari",
+        "tiers": {
+          "En uygun bilet": 82200
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 82200
+      },
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-25"
+    },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T20:00": {
       "event": {
         "source": "Biletinial",
@@ -1182,7 +1202,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ruh-okuzum-ss",
         "tiers": {
-          "Balcony": 80000,
+          "Balkon": 80000,
           "Salon": 100000
         },
         "sold_out": false
@@ -2556,7 +2576,8 @@
         "tiers": {
           "En uygun bilet": 108500
         },
-        "sold_out": false
+        "sold_out": false,
+        "list_price": 155000
       },
       "reference": {
         "En uygun bilet": 108500
@@ -2716,7 +2737,8 @@
         "tiers": {
           "En uygun bilet": 59500
         },
-        "sold_out": false
+        "sold_out": false,
+        "list_price": 119000
       },
       "reference": {
         "En uygun bilet": 59500
@@ -2876,7 +2898,8 @@
         "tiers": {
           "En uygun bilet": 90000
         },
-        "sold_out": false
+        "sold_out": false,
+        "list_price": 150000
       },
       "reference": {
         "En uygun bilet": 90000
