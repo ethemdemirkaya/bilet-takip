@@ -242,6 +242,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-26"
     },
+    "biletinial:cizmeli-kedi-tebesir@2026-09-27T15:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "cizmeli-kedi-tebesir@2026-09-27T15:00",
+        "title": "Çizmeli Kedi",
+        "venue": "Kayseri Gültepe Kültür Merkezi",
+        "date": "2026-09-27T15:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/cizmeli-kedi-tebesir",
+        "tiers": {
+          "En uygun bilet": 22400
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 22400
+      },
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26"
+    },
     "biletinial:deli-bayrami-cat-kapi@2026-09-27T19:00": {
       "event": {
         "source": "Biletinial",
@@ -260,6 +280,26 @@
         "Tam": 30000
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-09-26"
+    },
+    "biletinial:deli-bayrami-cat-kapi@2026-10-04T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "deli-bayrami-cat-kapi@2026-10-04T19:00",
+        "title": "Deli Bayramı",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-04T19:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/deli-bayrami-cat-kapi",
+        "tiers": {
+          "Tam": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 30000
+      },
+      "first_seen": "2026-09-26",
       "last_seen": "2026-09-26"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-01T20:00": {
@@ -512,7 +552,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/icimizdeki-seytan",
         "tiers": {
-          "Biletë e plotë": 150000
+          "Tam": 150000
         },
         "sold_out": false
       },
@@ -857,12 +897,23 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ogle-kahvesi-bir-anne-ogul-hikayesi-dt",
         "tiers": {
-          "En uygun bilet": 7001
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 7001
+        "1. Kategori Tam": 27000,
+        "1. Kategori İndirimli": 17500,
+        "2. Kategori Tam": 12000,
+        "2. Kategori İndirimli": 8000,
+        "Balkon Tam": 8000,
+        "En uygun bilet": 7001,
+        "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-26"
@@ -2063,7 +2114,10 @@
         "url": "https://www.biletix.com/etkinlik/5MRS1/TURKIYE/tr",
         "tiers": {
           "1. Kategori": 90000,
+          "2. Kategori": 76250,
           "3. Kategori": 61000,
+          "VIP 1. Kategori": 240000,
+          "VIP 2. Kategori": 180000,
           "VIP 3. Kategori": 150000
         },
         "sold_out": false
@@ -2675,15 +2729,22 @@
         "category": "Etkinlik",
         "url": "https://www.bubilet.com.tr/kayseri/etkinlik/gece-yarisi-kutuphanesi",
         "tiers": {
-          "En uygun bilet": 30000
+          "26 Eyl 16:00 · Tam Bilet": 60000,
+          "26 Eyl 16:00 · Öğrenci Bileti": 30000,
+          "4 Eki 19:30 · Tam Bilet": 60000,
+          "4 Eki 19:30 · Öğrenci Bileti": 30000
         },
         "sold_out": false
       },
       "reference": {
+        "26 Eyl 16:00 · Tam Bilet": 60000,
+        "26 Eyl 16:00 · Öğrenci Bileti": 30000,
+        "4 Eki 19:30 · Tam Bilet": 60000,
+        "4 Eki 19:30 · Öğrenci Bileti": 30000,
         "En uygun bilet": 30000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25"
+      "last_seen": "2026-09-26"
     },
     "bubilet:13406": {
       "event": {
@@ -2876,15 +2937,44 @@
         "category": "Etkinlik",
         "url": "https://www.bubilet.com.tr/kayseri/etkinlik/ozgur-turhan-yepyenisi",
         "tiers": {
-          "En uygun bilet": 110000
+          "Balkon - 2.Kategori": 110000,
+          "Salon - 1.Kategori": 135000,
+          "Salon - Protokol": 165000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 110000
+        "Balkon - 2.Kategori": 110000,
+        "En uygun bilet": 110000,
+        "Salon - 1.Kategori": 135000,
+        "Salon - Protokol": 165000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25"
+      "last_seen": "2026-09-26"
+    },
+    "bubilet:1653": {
+      "event": {
+        "source": "Bubilet",
+        "id": "1653",
+        "title": "Gazapizm",
+        "venue": "EKM Erciyes Kültür Merkezi",
+        "date": "2026-11-15T18:00:00Z",
+        "category": "Etkinlik",
+        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/gazapizm-",
+        "tiers": {
+          "Genel Giriş": 80000,
+          "VIP Bistro (Yemekli + İçecek)": 800000,
+          "Ön Bölüm": 150000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 80000,
+        "VIP Bistro (Yemekli + İçecek)": 800000,
+        "Ön Bölüm": 150000
+      },
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26"
     },
     "bubilet:1695": {
       "event": {
@@ -2984,13 +3074,15 @@
           "3.Kategori": 89000,
           "Bubilet’e Özel-1.Kategori-Yan-%50 İndirimli Bilet": 74500,
           "Bubilet’e Özel-2.Kategori-Yan-%50 İndirimli Bilet": 59500,
+          "Bubilet’e Özel-3.Kategori-Yan-%50 İndirimli Bilet": 44500,
           "Protokol": 200000,
           "Protokol - Yan": 200000
         },
         "sold_out": false,
         "list_prices": {
           "Bubilet’e Özel-1.Kategori-Yan-%50 İndirimli Bilet": 149000,
-          "Bubilet’e Özel-2.Kategori-Yan-%50 İndirimli Bilet": 119000
+          "Bubilet’e Özel-2.Kategori-Yan-%50 İndirimli Bilet": 119000,
+          "Bubilet’e Özel-3.Kategori-Yan-%50 İndirimli Bilet": 89000
         }
       },
       "reference": {
@@ -2999,6 +3091,7 @@
         "3.Kategori": 89000,
         "Bubilet’e Özel-1.Kategori-Yan-%50 İndirimli Bilet": 74500,
         "Bubilet’e Özel-2.Kategori-Yan-%50 İndirimli Bilet": 59500,
+        "Bubilet’e Özel-3.Kategori-Yan-%50 İndirimli Bilet": 44500,
         "En uygun bilet": 59500,
         "Protokol": 200000,
         "Protokol - Yan": 200000
@@ -3223,6 +3316,30 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-26"
     },
+    "bubilet:226": {
+      "event": {
+        "source": "Bubilet",
+        "id": "226",
+        "title": "Taladro Konseri",
+        "venue": "EKM Erciyes Kültür Merkezi",
+        "date": "2026-11-06T18:00:00Z",
+        "category": "Konser",
+        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/taladro-konseri",
+        "tiers": {
+          "Numarasız Oturmalı - Genel Giriş": 60000,
+          "Numarasız Oturmalı - Ön Bölüm": 150000,
+          "VIP Bistro (Yemekli + İçecek) -2 Kişilik": 600000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Numarasız Oturmalı - Genel Giriş": 60000,
+        "Numarasız Oturmalı - Ön Bölüm": 150000,
+        "VIP Bistro (Yemekli + İçecek) -2 Kişilik": 600000
+      },
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26"
+    },
     "bubilet:22613": {
       "event": {
         "source": "Bubilet",
@@ -3262,6 +3379,34 @@
         "Genel Giriş Bileti": 80000
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-09-26"
+    },
+    "bubilet:23208": {
+      "event": {
+        "source": "Bubilet",
+        "id": "23208",
+        "title": "Ersay Üner \"Aşka Yazılan Şarkılar\"",
+        "venue": "Kayseri Kadir Has Gösteri ve Sanat Merkezi",
+        "date": "2026-12-02T17:30:00Z",
+        "category": "Etkinlik",
+        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/-ersay-uner-aska-yazilan-sarkilar-",
+        "tiers": {
+          "1.Kategori": 175000,
+          "2.Kategori": 145000,
+          "3.Kategori": 125000,
+          "4.Kategori": 99000,
+          "Protokol": 215000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1.Kategori": 175000,
+        "2.Kategori": 145000,
+        "3.Kategori": 125000,
+        "4.Kategori": 99000,
+        "Protokol": 215000
+      },
+      "first_seen": "2026-09-26",
       "last_seen": "2026-09-26"
     },
     "bubilet:23427": {
@@ -3466,15 +3611,34 @@
         "category": "Etkinlik",
         "url": "https://www.bubilet.com.tr/kayseri/etkinlik/cok-guzel-hareketler-2-",
         "tiers": {
-          "En uygun bilet": 160000
+          "22 Kas 15:30 · Protokol": 385000,
+          "22 Kas 15:30 · Salon-1. Kategori": 275000,
+          "22 Kas 15:30 · Salon-2. Kategori": 230000,
+          "22 Kas 15:30 · Salon-3. Kategori": 200000,
+          "22 Kas 15:30 · Salon-4. Kategori": 160000,
+          "22 Kas 20:30 · Protokol": 385000,
+          "22 Kas 20:30 · Salon-1. Kategori": 275000,
+          "22 Kas 20:30 · Salon-2. Kategori": 230000,
+          "22 Kas 20:30 · Salon-3. Kategori": 200000,
+          "22 Kas 20:30 · Salon-4. Kategori": 160000
         },
         "sold_out": false
       },
       "reference": {
+        "22 Kas 15:30 · Protokol": 385000,
+        "22 Kas 15:30 · Salon-1. Kategori": 275000,
+        "22 Kas 15:30 · Salon-2. Kategori": 230000,
+        "22 Kas 15:30 · Salon-3. Kategori": 200000,
+        "22 Kas 15:30 · Salon-4. Kategori": 160000,
+        "22 Kas 20:30 · Protokol": 385000,
+        "22 Kas 20:30 · Salon-1. Kategori": 275000,
+        "22 Kas 20:30 · Salon-2. Kategori": 230000,
+        "22 Kas 20:30 · Salon-3. Kategori": 200000,
+        "22 Kas 20:30 · Salon-4. Kategori": 160000,
         "En uygun bilet": 160000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25"
+      "last_seen": "2026-09-26"
     },
     "bubilet:369": {
       "event": {
@@ -3787,6 +3951,60 @@
         "VIP 1.Sıra - A3 Blok": 500000
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-09-26"
+    },
+    "bubilet:8031": {
+      "event": {
+        "source": "Bubilet",
+        "id": "8031",
+        "title": "Musti Kusti - Stand Up (Yeni Gösteri)",
+        "venue": "Kayseri İl Kültür Sanat Merkezi",
+        "date": "2026-09-30T17:30:00Z",
+        "category": "Stand-up",
+        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/musti-kusti-kara-mizah",
+        "tiers": {
+          "Balkon-2. Kategori": 100000,
+          "Balkon-3. Kategori": 75000,
+          "Salon-1. Kategori": 125000,
+          "Salon-1. Kategori-Bir Alana Bir Bedava": 125000,
+          "Salon-2. Kategori": 100000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Balkon-2. Kategori": 100000,
+        "Balkon-3. Kategori": 75000,
+        "Salon-1. Kategori": 125000,
+        "Salon-1. Kategori-Bir Alana Bir Bedava": 125000,
+        "Salon-2. Kategori": 100000
+      },
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26"
+    },
+    "bubilet:87": {
+      "event": {
+        "source": "Bubilet",
+        "id": "87",
+        "title": "Leman Sam Konseri",
+        "venue": "Kayseri Bahçeşehir Koleji",
+        "date": "2026-11-07T17:30:00Z",
+        "category": "Konser",
+        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/leman-sam-konseri",
+        "tiers": {
+          "1.Kategori": 265000,
+          "2.Kategori": 225000,
+          "3.Kategori": 195000,
+          "Protokol": 325000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1.Kategori": 265000,
+        "2.Kategori": 225000,
+        "3.Kategori": 195000,
+        "Protokol": 325000
+      },
+      "first_seen": "2026-09-26",
       "last_seen": "2026-09-26"
     },
     "bubilet:8882": {
