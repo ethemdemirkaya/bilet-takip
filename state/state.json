@@ -1629,6 +1629,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-26"
     },
+    "biletinial:yuksek-sadakat@2026-11-20T23:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "yuksek-sadakat@2026-11-20T23:30",
+        "title": "Yüksek Sadakat",
+        "venue": "Kayseri Kadir Has Kongre Merkezi",
+        "date": "2026-11-20T23:30:00+03:00",
+        "category": "Konser",
+        "url": "https://biletinial.com/tr-tr/muzik/yuksek-sadakat",
+        "tiers": {
+          "En uygun bilet": 150000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 150000
+      },
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26"
+    },
     "biletinial:zelisah-mustafa-konseri@2026-10-01T20:00": {
       "event": {
         "source": "Biletinial",
@@ -2607,6 +2627,60 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-26"
     },
+    "bubilet:11273": {
+      "event": {
+        "source": "Bubilet",
+        "id": "11273",
+        "title": "Melek Mosso Konseri",
+        "venue": "EKM Erciyes Kültür Merkezi",
+        "date": "2026-12-24T17:30:00Z",
+        "category": "Konser",
+        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/melek--mosso--konseri",
+        "tiers": {
+          "A1 Blok - Protokol": 325000,
+          "A2 Blok - Protokol": 325000,
+          "A3 Blok - Protokol": 325000,
+          "B1 Blok - 1. Kategori": 275000,
+          "B1 Blok - 2. Kategori": 235000,
+          "B2 Blok - 1. Kategori": 275000,
+          "B3 Blok - 1. Kategori": 275000,
+          "B3 Blok - 2. Kategori": 235000,
+          "C1 Blok - 3. Kategori": 200000,
+          "C1 Blok - 4. Kategori": 165000,
+          "C2 Blok - 2. Kategori": 235000,
+          "C3 Blok - 3. Kategori": 200000,
+          "C3 Blok - 4. Kategori": 165000,
+          "D1 Blok - 5. Kategori": 130000,
+          "D1 Blok - 6. Kategori": 100000,
+          "D2 Blok - 5. Kategori": 130000,
+          "D3 Blok - 5. Kategori": 130000,
+          "D3 Blok - 6. Kategori": 100000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "A1 Blok - Protokol": 325000,
+        "A2 Blok - Protokol": 325000,
+        "A3 Blok - Protokol": 325000,
+        "B1 Blok - 1. Kategori": 275000,
+        "B1 Blok - 2. Kategori": 235000,
+        "B2 Blok - 1. Kategori": 275000,
+        "B3 Blok - 1. Kategori": 275000,
+        "B3 Blok - 2. Kategori": 235000,
+        "C1 Blok - 3. Kategori": 200000,
+        "C1 Blok - 4. Kategori": 165000,
+        "C2 Blok - 2. Kategori": 235000,
+        "C3 Blok - 3. Kategori": 200000,
+        "C3 Blok - 4. Kategori": 165000,
+        "D1 Blok - 5. Kategori": 130000,
+        "D1 Blok - 6. Kategori": 100000,
+        "D2 Blok - 5. Kategori": 130000,
+        "D3 Blok - 5. Kategori": 130000,
+        "D3 Blok - 6. Kategori": 100000
+      },
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26"
+    },
     "bubilet:12090": {
       "event": {
         "source": "Bubilet",
@@ -3059,6 +3133,28 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-26"
     },
+    "bubilet:187": {
+      "event": {
+        "source": "Bubilet",
+        "id": "187",
+        "title": "Ruh Öküzüm Oyunu",
+        "venue": "Kayseri İl Kültür Sanat Merkezi",
+        "date": "2026-10-13T17:00:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/ruh-okuzum-oyunu",
+        "tiers": {
+          "1. Kategori - Salon": 115200,
+          "2. Kategori - Balkon": 92150
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori - Salon": 115200,
+        "2. Kategori - Balkon": 92150
+      },
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26"
+    },
     "bubilet:20043": {
       "event": {
         "source": "Bubilet",
@@ -3074,15 +3170,13 @@
           "3.Kategori": 89000,
           "Bubilet’e Özel-1.Kategori-Yan-%50 İndirimli Bilet": 74500,
           "Bubilet’e Özel-2.Kategori-Yan-%50 İndirimli Bilet": 59500,
-          "Bubilet’e Özel-3.Kategori-Yan-%50 İndirimli Bilet": 44500,
           "Protokol": 200000,
           "Protokol - Yan": 200000
         },
         "sold_out": false,
         "list_prices": {
           "Bubilet’e Özel-1.Kategori-Yan-%50 İndirimli Bilet": 149000,
-          "Bubilet’e Özel-2.Kategori-Yan-%50 İndirimli Bilet": 119000,
-          "Bubilet’e Özel-3.Kategori-Yan-%50 İndirimli Bilet": 89000
+          "Bubilet’e Özel-2.Kategori-Yan-%50 İndirimli Bilet": 119000
         }
       },
       "reference": {
@@ -3534,15 +3628,20 @@
         "category": "Etkinlik",
         "url": "https://www.bubilet.com.tr/kayseri/etkinlik/davetli-misafir",
         "tiers": {
-          "En uygun bilet": 105800
+          "1. Kategori - Salon": 147000,
+          "2. Kategori - Salon": 117600,
+          "3. Kategori - Balkon": 105800
         },
         "sold_out": false
       },
       "reference": {
+        "1. Kategori - Salon": 147000,
+        "2. Kategori - Salon": 117600,
+        "3. Kategori - Balkon": 105800,
         "En uygun bilet": 105800
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25"
+      "last_seen": "2026-09-26"
     },
     "bubilet:3198": {
       "event": {
@@ -3659,6 +3758,34 @@
         "En uygun bilet": 131500
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-09-26"
+    },
+    "bubilet:3703": {
+      "event": {
+        "source": "Bubilet",
+        "id": "3703",
+        "title": "Ender Balkır Konseri",
+        "venue": "Kayseri Kadir Has Gösteri ve Sanat Merkezi",
+        "date": "2026-10-31T17:00:00Z",
+        "category": "Konser",
+        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/ender-balkir-konseri",
+        "tiers": {
+          "1. Kategori": 175000,
+          "2. Kategori": 145000,
+          "3. Kategori": 125000,
+          "4. Kategori": 99000,
+          "Protokol": 215000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori": 175000,
+        "2. Kategori": 145000,
+        "3. Kategori": 125000,
+        "4. Kategori": 99000,
+        "Protokol": 215000
+      },
+      "first_seen": "2026-09-26",
       "last_seen": "2026-09-26"
     },
     "bubilet:460": {
@@ -4098,7 +4225,7 @@
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 37,
+      "last_count": 36,
       "last_error": null
     }
   },
