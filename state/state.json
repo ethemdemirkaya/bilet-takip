@@ -512,11 +512,12 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/icimizdeki-seytan",
         "tiers": {
-          "Tam": 150000
+          "Biletë e plotë": 150000
         },
         "sold_out": false
       },
       "reference": {
+        "Biletë e plotë": 150000,
         "Tam": 150000
       },
       "first_seen": "2026-09-25",
@@ -1626,7 +1627,13 @@
         "date": "2026-11-28T17:30:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5ADBS/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "1. Kategori": 170000,
+          "2. Kategori": 140000,
+          "3. Kategori": 110000,
+          "4. Kategori": 80000,
+          "Protokol": 200000
+        },
         "sold_out": false
       },
       "reference": {
@@ -1648,7 +1655,13 @@
         "date": "2026-12-19T17:30:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5ADBV/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "1. Kategori": 170000,
+          "2. Kategori": 140000,
+          "3. Kategori": 110000,
+          "4. Kategori": 80000,
+          "Protokol": 200000
+        },
         "sold_out": false
       },
       "reference": {
@@ -1670,7 +1683,15 @@
         "date": "2026-11-08T17:00:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5DTCJ/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "1. Kategori": 150000,
+          "2. Kategori": 140000,
+          "3. Kategori": 91000,
+          "4. Kategori": 120000,
+          "5. Kategori": 110000,
+          "6. Kategori": 100000,
+          "Protokol": 175000
+        },
         "sold_out": false
       },
       "reference": {
@@ -1694,7 +1715,10 @@
         "date": "2026-10-18T13:00:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5FKDU/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "Genel Giriş": 40000,
+          "Öğrenci": 35000
+        },
         "sold_out": false
       },
       "reference": {
@@ -1713,7 +1737,10 @@
         "date": "2026-10-18T15:00:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5FKDV/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "Genel Giriş": 40000,
+          "Öğrenci": 35000
+        },
         "sold_out": false
       },
       "reference": {
@@ -1732,7 +1759,10 @@
         "date": "2026-10-18T14:00:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5FKDW/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "Genel Giriş": 40000,
+          "Öğrenci": 35000
+        },
         "sold_out": false
       },
       "reference": {
@@ -1751,7 +1781,10 @@
         "date": "2026-10-18T16:30:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5FKDY/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "Genel Giriş": 40000,
+          "Öğrenci": 35000
+        },
         "sold_out": false
       },
       "reference": {
@@ -1770,7 +1803,10 @@
         "date": "2026-10-18T17:30:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5FKDZ/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "Genel Giriş": 40000,
+          "Öğrenci": 35000
+        },
         "sold_out": false
       },
       "reference": {
@@ -1805,7 +1841,9 @@
         "date": "2026-10-18T10:00:00Z",
         "category": "Çocuk/Aile",
         "url": "https://www.biletix.com/etkinlik/5GX04/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "Genel Giriş": 40000
+        },
         "sold_out": false
       },
       "reference": {
@@ -1823,7 +1861,14 @@
         "date": "2026-10-10T18:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5JBAX/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "1. Kategori": 200000,
+          "2. Kategori": 175000,
+          "3. Kategori": 150000,
+          "4. Kategori": 125000,
+          "5. Kategori": 100000,
+          "VIP": 250000
+        },
         "sold_out": false
       },
       "reference": {
@@ -1846,7 +1891,14 @@
         "date": "2026-11-13T18:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5JBB1/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "1. Kategori": 250000,
+          "2. Kategori": 200000,
+          "3. Kategori": 160000,
+          "4. Kategori": 130000,
+          "5. Kategori": 100000,
+          "VIP": 325000
+        },
         "sold_out": false
       },
       "reference": {
@@ -1869,7 +1921,14 @@
         "date": "2026-11-21T18:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5JBCH/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "1. Kategori": 200000,
+          "2. Kategori": 160000,
+          "3. Kategori": 140000,
+          "4. Kategori": 120000,
+          "5. Kategori": 100000,
+          "VIP": 250000
+        },
         "sold_out": false
       },
       "reference": {
@@ -1892,7 +1951,11 @@
         "date": "2026-10-04T18:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5JBDT/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "Genel Alan": 150000,
+          "Sahne Önü": 250000,
+          "Vip Tribün": 400000
+        },
         "sold_out": false
       },
       "reference": {
@@ -1912,7 +1975,13 @@
         "date": "2026-11-05T18:30:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5JDH5/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "1. Kategori": 342000,
+          "2. Kategori": 285000,
+          "3. Kategori": 199500,
+          "4. Kategori": 142500,
+          "Protokol": 456000
+        },
         "sold_out": false
       },
       "reference": {
@@ -1934,7 +2003,15 @@
         "date": "2026-11-12T17:30:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5MO27/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "1. Kategori": 220000,
+          "2. Kategori": 200000,
+          "3. Kategori": 175000,
+          "4. Kategori": 150000,
+          "5. Kategori": 125000,
+          "6. Kategori": 100000,
+          "7. Kategori": 85000
+        },
         "sold_out": false
       },
       "reference": {
@@ -1958,7 +2035,12 @@
         "date": "2026-10-24T17:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5MO30/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "1. Kategori": 150000,
+          "2. Kategori": 125000,
+          "3. Kategori": 100000,
+          "4. Kategori": 85000
+        },
         "sold_out": false
       },
       "reference": {
@@ -1979,7 +2061,11 @@
         "date": "2026-10-02T18:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5MRS1/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "1. Kategori": 90000,
+          "3. Kategori": 61000,
+          "VIP 3. Kategori": 150000
+        },
         "sold_out": false
       },
       "reference": {
@@ -2018,7 +2104,14 @@
         "date": "2026-11-27T18:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5MY27/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "1. Kategori": 365000,
+          "2. Kategori": 295000,
+          "3. Kategori": 245000,
+          "4. Kategori": 195000,
+          "5. Kategori": 145000,
+          "VIP": 425000
+        },
         "sold_out": false
       },
       "reference": {
@@ -2041,7 +2134,11 @@
         "date": "2026-12-24T17:00:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5ON61/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "1. Kategori": 136250,
+          "2. Kategori": 110000,
+          "3. Kategori": 99000
+        },
         "sold_out": false
       },
       "reference": {
@@ -2061,7 +2158,9 @@
         "date": "2026-12-13T18:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5OSAP/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "Genel Giriş": 80000
+        },
         "sold_out": false
       },
       "reference": {
@@ -2079,7 +2178,10 @@
         "date": "2026-11-15T18:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5OSAX/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "Genel Giriş": 80000,
+          "Sahne Önü": 150000
+        },
         "sold_out": false
       },
       "reference": {
@@ -2098,7 +2200,9 @@
         "date": "2026-10-16T17:30:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5PD73/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "1. Kategori": 132000
+        },
         "sold_out": false
       },
       "reference": {
@@ -2116,7 +2220,9 @@
         "date": "2026-09-26T13:00:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5PQCA/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "Genel Giriş": 37200
+        },
         "sold_out": false
       },
       "reference": {
@@ -2134,7 +2240,9 @@
         "date": "2026-09-26T14:00:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5PQCB/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "Genel Giriş": 37200
+        },
         "sold_out": false
       },
       "reference": {
@@ -2152,7 +2260,9 @@
         "date": "2026-09-26T15:10:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5PQCC/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "Genel Giriş": 37200
+        },
         "sold_out": false
       },
       "reference": {
@@ -2170,7 +2280,9 @@
         "date": "2026-09-26T16:30:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5PQCD/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "Genel Giriş": 37200
+        },
         "sold_out": false
       },
       "reference": {
@@ -2188,7 +2300,9 @@
         "date": "2026-09-26T17:30:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5PQCE/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "Genel Giriş": 37200
+        },
         "sold_out": false
       },
       "reference": {
@@ -2206,7 +2320,9 @@
         "date": "2026-10-10T10:00:00Z",
         "category": "Çocuk/Aile",
         "url": "https://www.biletix.com/etkinlik/5QF85/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "1. Kategori": 77000
+        },
         "sold_out": false
       },
       "reference": {
@@ -2240,7 +2356,13 @@
         "date": "2026-11-22T12:30:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5T9O4/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "1. Kategori": 275000,
+          "2. Kategori": 230000,
+          "3. Kategori": 200000,
+          "4. Kategori": 160000,
+          "Protokol": 385000
+        },
         "sold_out": false
       },
       "reference": {
@@ -2262,7 +2384,13 @@
         "date": "2026-10-20T17:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5WEMD/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "1. Kategori": 245000,
+          "2. Kategori": 210000,
+          "3. Kategori": 180000,
+          "4. Kategori": 150000,
+          "VIP": 280000
+        },
         "sold_out": false
       },
       "reference": {
@@ -2284,7 +2412,10 @@
         "date": "2026-10-09T18:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5YHE0/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "Genel Giriş": 50000,
+          "Genel Giriş Ön Alan": 150000
+        },
         "sold_out": false
       },
       "reference": {
@@ -2306,7 +2437,12 @@
         "date": "2026-10-17T17:30:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5YHE1/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "1. Kategori": 224950,
+          "2. Kategori": 175000,
+          "3. Kategori": 150000,
+          "4. Kategori": 75000
+        },
         "sold_out": false
       },
       "reference": {
@@ -2327,7 +2463,13 @@
         "date": "2026-10-24T17:30:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5YS2H/TURKIYE/tr",
-        "tiers": {},
+        "tiers": {
+          "1. Kategori": 225000,
+          "2. Kategori": 150000,
+          "3. Kategori": 125000,
+          "4. Kategori": 100000,
+          "Öğrenci": 75000
+        },
         "sold_out": false
       },
       "reference": {
@@ -2925,6 +3067,56 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-26"
     },
+    "bubilet:21898": {
+      "event": {
+        "source": "Bubilet",
+        "id": "21898",
+        "title": "Erdal Erzincan Konseri",
+        "venue": "EKM Erciyes Kültür Merkezi",
+        "date": "2026-11-07T17:30:00Z",
+        "category": "Konser",
+        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/erdal-erzincan",
+        "tiers": {
+          "1. Kategori - B1 Blok": 250000,
+          "1. Kategori - B2 Blok": 250000,
+          "1. Kategori - B3 Blok": 250000,
+          "2. Kategori - C1 Blok": 150000,
+          "2. Kategori - C2 Blok": 150000,
+          "2. Kategori - C3 Blok": 150000,
+          "3. Kategori - D1 Blok": 120000,
+          "3. Kategori - D3 Blok": 120000,
+          "4. Kategori - D1 Blok": 99000,
+          "4. Kategori - D3 Blok": 99000,
+          "Protokol - A1 Blok": 330000,
+          "Protokol - A2 Blok": 330000,
+          "Protokol - A3 Blok": 330000,
+          "VIP - A1 Blok": 290000,
+          "VIP - A2 Blok": 290000,
+          "VIP - A3 Blok": 290000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori - B1 Blok": 250000,
+        "1. Kategori - B2 Blok": 250000,
+        "1. Kategori - B3 Blok": 250000,
+        "2. Kategori - C1 Blok": 150000,
+        "2. Kategori - C2 Blok": 150000,
+        "2. Kategori - C3 Blok": 150000,
+        "3. Kategori - D1 Blok": 120000,
+        "3. Kategori - D3 Blok": 120000,
+        "4. Kategori - D1 Blok": 99000,
+        "4. Kategori - D3 Blok": 99000,
+        "Protokol - A1 Blok": 330000,
+        "Protokol - A2 Blok": 330000,
+        "Protokol - A3 Blok": 330000,
+        "VIP - A1 Blok": 290000,
+        "VIP - A2 Blok": 290000,
+        "VIP - A3 Blok": 290000
+      },
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-26"
+    },
     "bubilet:219": {
       "event": {
         "source": "Bubilet",
@@ -3167,15 +3359,25 @@
         "category": "Etkinlik",
         "url": "https://www.bubilet.com.tr/kayseri/etkinlik/-blok3-",
         "tiers": {
-          "En uygun bilet": 90000
+          "1. Kategori-Saha İçi Ayakta-İndirimli Bilet": 190000,
+          "2. Kategori-Saha İçi Ayakta-İndirimli Bilet": 90000,
+          "VIP-Sahne Önü Ayakta-İndirimli Bilet": 290000
         },
-        "sold_out": false
+        "sold_out": false,
+        "list_prices": {
+          "1. Kategori-Saha İçi Ayakta-İndirimli Bilet": 300000,
+          "2. Kategori-Saha İçi Ayakta-İndirimli Bilet": 150000,
+          "VIP-Sahne Önü Ayakta-İndirimli Bilet": 500000
+        }
       },
       "reference": {
-        "En uygun bilet": 90000
+        "1. Kategori-Saha İçi Ayakta-İndirimli Bilet": 190000,
+        "2. Kategori-Saha İçi Ayakta-İndirimli Bilet": 90000,
+        "En uygun bilet": 90000,
+        "VIP-Sahne Önü Ayakta-İndirimli Bilet": 290000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25"
+      "last_seen": "2026-09-26"
     },
     "bubilet:24670": {
       "event": {
