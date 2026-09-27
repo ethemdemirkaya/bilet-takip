@@ -220,7 +220,7 @@
         "3. Kategori": 100000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-26"
+      "last_seen": "2026-09-27"
     },
     "biletinial:bu-hikaye-senden-uzun-osman@2026-10-15T23:30": {
       "event": {
@@ -1626,7 +1626,7 @@
         "En uygun bilet": 150000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-09-26"
+      "last_seen": "2026-09-27"
     },
     "biletinial:zelisah-mustafa-konseri@2026-10-01T20:00": {
       "event": {
@@ -2264,6 +2264,106 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-27"
     },
+    "biletix:5PQCA": {
+      "event": {
+        "source": "Biletix",
+        "id": "5PQCA",
+        "title": "Gece Yarısı Kütüphanesi",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-04T16:30:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5PQCA/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 37200
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 37200
+      },
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27"
+    },
+    "biletix:5PQCB": {
+      "event": {
+        "source": "Biletix",
+        "id": "5PQCB",
+        "title": "Kütüphanedeki Ceset",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-04T17:30:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5PQCB/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 37200
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 37200
+      },
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27"
+    },
+    "biletix:5PQCC": {
+      "event": {
+        "source": "Biletix",
+        "id": "5PQCC",
+        "title": "Kürk Mantolu Madonna",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-04T15:10:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5PQCC/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 37200
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 37200
+      },
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27"
+    },
+    "biletix:5PQCD": {
+      "event": {
+        "source": "Biletix",
+        "id": "5PQCD",
+        "title": "Çalıkuşu",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-04T14:00:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5PQCD/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 37200
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 37200
+      },
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27"
+    },
+    "biletix:5PQCE": {
+      "event": {
+        "source": "Biletix",
+        "id": "5PQCE",
+        "title": "Anna Karenina",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-04T13:00:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5PQCE/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 37200
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 37200
+      },
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27"
+    },
     "biletix:5QF85": {
       "event": {
         "source": "Biletix",
@@ -2899,6 +2999,35 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-25"
     },
+    "bubilet:16962": {
+      "event": {
+        "source": "Bubilet",
+        "id": "16962",
+        "title": "Yaver Coruk ''Muazzam''",
+        "venue": "Kayseri İl Kültür Sanat Merkezi",
+        "date": "2026-11-11T17:00:00Z",
+        "category": "Etkinlik",
+        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/yaver-coruk-stand-up-gosterisi-",
+        "tiers": {
+          "1. Kategori - Salon": 99000,
+          "2. Kategori - Balkon": 69000,
+          "2. Kategori - Salon": 69000,
+          "3. Kategori - Balkon": 39000
+        },
+        "sold_out": false,
+        "list_prices": {
+          "1. Kategori - Salon": 990000
+        }
+      },
+      "reference": {
+        "1. Kategori - Salon": 99000,
+        "2. Kategori - Balkon": 69000,
+        "2. Kategori - Salon": 69000,
+        "3. Kategori - Balkon": 39000
+      },
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27"
+    },
     "bubilet:17461": {
       "event": {
         "source": "Bubilet",
@@ -2959,7 +3088,7 @@
         "Genel Giriş Bileti": 50000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-26"
+      "last_seen": "2026-09-27"
     },
     "bubilet:187": {
       "event": {
@@ -3082,6 +3211,40 @@
         "VIP 1. Sıra - A3 Blok": 400000
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-09-27"
+    },
+    "bubilet:2164": {
+      "event": {
+        "source": "Bubilet",
+        "id": "2164",
+        "title": "Büyük Afrika Sirki Oyunu",
+        "venue": "Kayseri İl Kültür Sanat Merkezi",
+        "date": "2026-10-11T09:30:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/buyuk-afrika-sirki-oyunu",
+        "tiers": {
+          "11 Eki 12:30 · Balkon Bileti": 80000,
+          "11 Eki 12:30 · Salon Bileti": 80000,
+          "11 Eki 14:00 · Balkon Bileti": 80000,
+          "11 Eki 14:00 · Salon Bileti": 80000,
+          "11 Eki 16:00 · Balkon Bileti": 80000,
+          "11 Eki 16:00 · Salon Bileti": 80000,
+          "11 Eki 17:30 · Balkon Bileti": 80000,
+          "11 Eki 17:30 · Salon Bileti": 80000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "11 Eki 12:30 · Balkon Bileti": 80000,
+        "11 Eki 12:30 · Salon Bileti": 80000,
+        "11 Eki 14:00 · Balkon Bileti": 80000,
+        "11 Eki 14:00 · Salon Bileti": 80000,
+        "11 Eki 16:00 · Balkon Bileti": 80000,
+        "11 Eki 16:00 · Salon Bileti": 80000,
+        "11 Eki 17:30 · Balkon Bileti": 80000,
+        "11 Eki 17:30 · Salon Bileti": 80000
+      },
+      "first_seen": "2026-09-27",
       "last_seen": "2026-09-27"
     },
     "bubilet:21898": {
@@ -3446,7 +3609,7 @@
         "VIP-Sahne Önü Ayakta-İndirimli Bilet": 290000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-26"
+      "last_seen": "2026-09-27"
     },
     "bubilet:24670": {
       "event": {
