@@ -675,6 +675,28 @@
       "first_seen": "2026-09-27",
       "last_seen": "2026-09-27"
     },
+    "biletinial:fani-but-funny@2026-10-30T20:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "fani-but-funny@2026-10-30T20:30",
+        "title": "Fani But Funny",
+        "venue": "Kayseri Kültür Merkezi 1. Alaaddin Keykubat Salonu",
+        "date": "2026-10-30T20:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/fani-but-funny",
+        "tiers": {
+          "1. Kategori": 100000,
+          "2. Kategori": 80000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori": 100000,
+        "2. Kategori": 80000
+      },
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27"
+    },
     "biletinial:grup-abdal-konseri-dtrpro@2026-10-16T20:30": {
       "event": {
         "source": "Biletinial",
@@ -1414,7 +1436,7 @@
         "En uygun bilet": 112000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25"
+      "last_seen": "2026-09-27"
     },
     "biletinial:ran-entropi@2026-10-10T20:00": {
       "event": {
@@ -1491,10 +1513,10 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/sesler-salih-bademci",
         "tiers": {
-          "1. Kategori": 225000,
-          "2. Kategori": 150000,
-          "3. Kategori": 125000,
-          "4. Kategori": 100000
+          "Category 1": 225000,
+          "Category 2": 150000,
+          "Category 3": 125000,
+          "Category 4": 100000
         },
         "sold_out": false
       },
@@ -3208,7 +3230,7 @@
         "Salon - Protokol": 165000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-26"
+      "last_seen": "2026-09-27"
     },
     "bubilet:1653": {
       "event": {
@@ -3313,15 +3335,18 @@
         "category": "Etkinlik",
         "url": "https://www.bubilet.com.tr/kayseri/etkinlik/safiye-soyman-ve-faik-ozturk-ile-kadinlar-matinesi",
         "tiers": {
-          "En uygun bilet": 150000
+          "Genel Giriş - 10 Kişilik Bilet (Kişi Başı)": 150000,
+          "Genel Giriş Bileti": 175000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 150000
+        "En uygun bilet": 150000,
+        "Genel Giriş - 10 Kişilik Bilet (Kişi Başı)": 150000,
+        "Genel Giriş Bileti": 175000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25"
+      "last_seen": "2026-09-27"
     },
     "bubilet:18649": {
       "event": {
@@ -3333,7 +3358,8 @@
         "category": "Konser",
         "url": "https://www.bubilet.com.tr/kayseri/etkinlik/poizikonseri",
         "tiers": {
-          "Genel Giriş - Ön Bölüm": 150000
+          "Genel Giriş - Ön Bölüm": 150000,
+          "Genel Giriş Bileti": 50000
         },
         "sold_out": false
       },
@@ -4379,6 +4405,48 @@
         "VIP 1.Sıra - A3 Blok": 500000
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-09-27"
+    },
+    "bubilet:7741": {
+      "event": {
+        "source": "Bubilet",
+        "id": "7741",
+        "title": "Nükhet Duru",
+        "venue": "EKM Erciyes Kültür Merkezi",
+        "date": "2026-12-11T18:00:00Z",
+        "category": "Etkinlik",
+        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/nukhet-duru",
+        "tiers": {
+          "1.Kategori-B2 Blok": 215000,
+          "2.Kategori-B1 Blok": 190000,
+          "2.Kategori-B3 Blok": 190000,
+          "3.Kategori-C2 Blok": 135000,
+          "4.Kategori-C1 Blok": 115000,
+          "4.Kategori-C3 Blok": 115000,
+          "5. Kategori-D2 Balkon": 95000,
+          "6. Kategori-D1 Balkon": 70000,
+          "6. Kategori-D3 Balkon": 70000,
+          "Protokol-A2 Blok": 320000,
+          "VIP-A1 Blok": 270000,
+          "VIP-A2 Blok": 270000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1.Kategori-B2 Blok": 215000,
+        "2.Kategori-B1 Blok": 190000,
+        "2.Kategori-B3 Blok": 190000,
+        "3.Kategori-C2 Blok": 135000,
+        "4.Kategori-C1 Blok": 115000,
+        "4.Kategori-C3 Blok": 115000,
+        "5. Kategori-D2 Balkon": 95000,
+        "6. Kategori-D1 Balkon": 70000,
+        "6. Kategori-D3 Balkon": 70000,
+        "Protokol-A2 Blok": 320000,
+        "VIP-A1 Blok": 270000,
+        "VIP-A2 Blok": 270000
+      },
+      "first_seen": "2026-09-27",
       "last_seen": "2026-09-27"
     },
     "bubilet:8031": {
