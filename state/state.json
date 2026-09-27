@@ -352,6 +352,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-27"
     },
+    "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-01T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "dugun-ya-da-davul-kayseri-dt@2026-10-01T23:00",
+        "title": "DÜĞÜN YA DA DAVUL",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-10-01T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27"
+    },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-02T20:00": {
       "event": {
         "source": "Biletinial",
@@ -380,6 +400,26 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-09-27"
+    },
+    "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-02T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "dugun-ya-da-davul-kayseri-dt@2026-10-02T23:00",
+        "title": "DÜĞÜN YA DA DAVUL",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-10-02T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-09-27",
       "last_seen": "2026-09-27"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-03T15:00": {
@@ -412,6 +452,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-27"
     },
+    "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-03T18:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "dugun-ya-da-davul-kayseri-dt@2026-10-03T18:00",
+        "title": "DÜĞÜN YA DA DAVUL",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-10-03T18:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27"
+    },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-03T20:00": {
       "event": {
         "source": "Biletinial",
@@ -442,6 +502,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-27"
     },
+    "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-03T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "dugun-ya-da-davul-kayseri-dt@2026-10-03T23:00",
+        "title": "DÜĞÜN YA DA DAVUL",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-10-03T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27"
+    },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-29T20:00": {
       "event": {
         "source": "Biletinial",
@@ -460,6 +540,26 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-09-27"
+    },
+    "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-29T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "dugun-ya-da-davul-kayseri-dt@2026-10-29T23:00",
+        "title": "DÜĞÜN YA DA DAVUL",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-10-29T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-09-27",
       "last_seen": "2026-09-27"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-30T20:00": {
@@ -482,6 +582,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-27"
     },
+    "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-30T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "dugun-ya-da-davul-kayseri-dt@2026-10-30T23:00",
+        "title": "DÜĞÜN YA DA DAVUL",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-10-30T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27"
+    },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T15:00": {
       "event": {
         "source": "Biletinial",
@@ -502,6 +622,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-27"
     },
+    "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T18:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "dugun-ya-da-davul-kayseri-dt@2026-10-31T18:00",
+        "title": "DÜĞÜN YA DA DAVUL",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-10-31T18:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27"
+    },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T20:00": {
       "event": {
         "source": "Biletinial",
@@ -520,6 +660,26 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-09-27"
+    },
+    "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "dugun-ya-da-davul-kayseri-dt@2026-10-31T23:00",
+        "title": "DÜĞÜN YA DA DAVUL",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-10-31T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-09-27",
       "last_seen": "2026-09-27"
     },
     "biletinial:grup-abdal-konseri-dtrpro@2026-10-16T20:30": {
@@ -719,6 +879,26 @@
         "Tam": 70000
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-09-27"
+    },
+    "biletinial:kurk-mantolu-madonna-aygun@2026-09-28T23:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kurk-mantolu-madonna-aygun@2026-09-28T23:30",
+        "title": "Kürk Mantolu Madonna",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-09-28T23:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kurk-mantolu-madonna-aygun",
+        "tiers": {
+          "En uygun bilet": 78400
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 78400
+      },
+      "first_seen": "2026-09-27",
       "last_seen": "2026-09-27"
     },
     "biletinial:lumera-trio-sezen-aksu-sarkilari@2026-10-23T20:00": {
@@ -927,12 +1107,23 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ogle-kahvesi-bir-anne-ogul-hikayesi-dt",
         "tiers": {
-          "En uygun bilet": 7001
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 7001
+        "1. Kategori Tam": 27000,
+        "1. Kategori İndirimli": 17500,
+        "2. Kategori Tam": 12000,
+        "2. Kategori İndirimli": 8000,
+        "Balkon Tam": 8000,
+        "En uygun bilet": 7001,
+        "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-27"
@@ -967,12 +1158,23 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ogle-kahvesi-bir-anne-ogul-hikayesi-dt",
         "tiers": {
-          "En uygun bilet": 7001
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 7001
+        "1. Kategori Tam": 27000,
+        "1. Kategori İndirimli": 17500,
+        "2. Kategori Tam": 12000,
+        "2. Kategori İndirimli": 8000,
+        "Balkon Tam": 8000,
+        "En uygun bilet": 7001,
+        "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-27"
