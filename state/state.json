@@ -331,15 +331,8 @@
         "date": "2026-10-01T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "1. Kategori Tam": 27000,
-          "1. Kategori İndirimli": 17500,
-          "2. Kategori Tam": 12000,
-          "2. Kategori İndirimli": 8000,
-          "Balkon Tam": 8000,
-          "İndirimli Balkon": 7000
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -1558,6 +1551,46 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-27"
     },
+    "biletinial:tirat-gecesi@2026-10-11T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "tirat-gecesi@2026-10-11T19:00",
+        "title": "Tirat Gecesi",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-11T19:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/tirat-gecesi",
+        "tiers": {
+          "Tam": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 30000
+      },
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27"
+    },
+    "biletinial:tirat-gecesi@2026-10-18T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "tirat-gecesi@2026-10-18T19:00",
+        "title": "Tirat Gecesi",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-18T19:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/tirat-gecesi",
+        "tiers": {
+          "Tam": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 30000
+      },
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-27"
+    },
     "biletinial:tirat-gecesi@2026-10-31T19:00": {
       "event": {
         "source": "Biletinial",
@@ -1686,6 +1719,26 @@
         "Tam": 40000
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-09-27"
+    },
+    "biletinial:ucurtmanin-kuyrugu@2026-10-31T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "ucurtmanin-kuyrugu@2026-10-31T19:00",
+        "title": "Uçurtmanın Kuyruğu",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-31T19:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/ucurtmanin-kuyrugu",
+        "tiers": {
+          "Tam": 40000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 40000
+      },
+      "first_seen": "2026-09-27",
       "last_seen": "2026-09-27"
     },
     "biletinial:ustun-dokmen-ile-kucuk-seyler@2026-11-19T20:00": {
@@ -3708,15 +3761,28 @@
         "category": "Etkinlik",
         "url": "https://www.bubilet.com.tr/kayseri/etkinlik/hiraizerdus-goge-bak-benimle",
         "tiers": {
-          "En uygun bilet": 85000
+          "1. Kategori": 220000,
+          "2. Kategori": 200000,
+          "3. Kategori": 175000,
+          "4. Kategori": 150000,
+          "5. Kategori": 125000,
+          "6. Kategori": 100000,
+          "7. Kategori": 85000
         },
         "sold_out": false
       },
       "reference": {
+        "1. Kategori": 220000,
+        "2. Kategori": 200000,
+        "3. Kategori": 175000,
+        "4. Kategori": 150000,
+        "5. Kategori": 125000,
+        "6. Kategori": 100000,
+        "7. Kategori": 85000,
         "En uygun bilet": 85000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25"
+      "last_seen": "2026-09-27"
     },
     "bubilet:24091": {
       "event": {
@@ -3932,7 +3998,7 @@
         "En uygun bilet": 160000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-26"
+      "last_seen": "2026-09-27"
     },
     "bubilet:369": {
       "event": {
@@ -4114,7 +4180,7 @@
         "En uygun bilet": 86500
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-26"
+      "last_seen": "2026-09-27"
     },
     "bubilet:5044": {
       "event": {
@@ -4434,7 +4500,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 59,
+      "last_count": 56,
       "last_error": null
     },
     "Biletix": {
