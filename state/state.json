@@ -10,11 +10,12 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
         "tiers": {
-          "En uygun bilet": 7001
+          "2. Kategori Çocuk Tam": 7000
         },
         "sold_out": false
       },
       "reference": {
+        "2. Kategori Çocuk Tam": 7000,
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
@@ -3366,15 +3367,16 @@
           "3.Kategori": 89000,
           "Bubilet’e Özel-1.Kategori-Yan-%50 İndirimli Bilet": 74500,
           "Bubilet’e Özel-2.Kategori-Yan-%50 İndirimli Bilet": 59500,
-          "Bubilet’e Özel-3.Kategori-Yan-%50 İndirimli Bilet": 44500,
+          "Bubilet’e Özel-3.Kategori-Yan-İndirimli Bilet": 60000,
           "Protokol": 200000,
-          "Protokol - Yan": 200000
+          "Protokol - Yan": 200000,
+          "İndirimli Tek Kişilik Bilet": 69900
         },
         "sold_out": false,
         "list_prices": {
           "Bubilet’e Özel-1.Kategori-Yan-%50 İndirimli Bilet": 149000,
           "Bubilet’e Özel-2.Kategori-Yan-%50 İndirimli Bilet": 119000,
-          "Bubilet’e Özel-3.Kategori-Yan-%50 İndirimli Bilet": 89000
+          "Bubilet’e Özel-3.Kategori-Yan-İndirimli Bilet": 89000
         }
       },
       "reference": {
@@ -3384,9 +3386,11 @@
         "Bubilet’e Özel-1.Kategori-Yan-%50 İndirimli Bilet": 74500,
         "Bubilet’e Özel-2.Kategori-Yan-%50 İndirimli Bilet": 59500,
         "Bubilet’e Özel-3.Kategori-Yan-%50 İndirimli Bilet": 44500,
+        "Bubilet’e Özel-3.Kategori-Yan-İndirimli Bilet": 60000,
         "En uygun bilet": 59500,
         "Protokol": 200000,
-        "Protokol - Yan": 200000
+        "Protokol - Yan": 200000,
+        "İndirimli Tek Kişilik Bilet": 69900
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-28"
@@ -4164,7 +4168,7 @@
         "En uygun bilet": 86500
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-28"
     },
     "bubilet:5044": {
       "event": {
