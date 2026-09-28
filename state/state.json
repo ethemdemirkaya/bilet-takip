@@ -998,7 +998,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25"
+      "last_seen": "2026-09-28"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-09T20:00": {
       "event": {
@@ -1049,7 +1049,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25"
+      "last_seen": "2026-09-28"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-10T15:00": {
       "event": {
@@ -1100,7 +1100,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25"
+      "last_seen": "2026-09-28"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-10T20:00": {
       "event": {
@@ -1151,7 +1151,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25"
+      "last_seen": "2026-09-28"
     },
     "biletinial:on-kisiydiler-dt@2026-10-22T20:00": {
       "event": {
@@ -3350,7 +3350,7 @@
         "2. Kategori - Balkon": 92150
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-09-26"
+      "last_seen": "2026-09-28"
     },
     "bubilet:20043": {
       "event": {
@@ -3644,7 +3644,7 @@
         "VIP- A3 Blok": 325000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-28"
     },
     "bubilet:226": {
       "event": {
@@ -3711,6 +3711,32 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-28"
     },
+    "bubilet:23018": {
+      "event": {
+        "source": "Bubilet",
+        "id": "23018",
+        "title": "Lumera Trio Sezen Aksu Şarkıları",
+        "venue": "Kayseri İl Kültür Sanat Merkezi",
+        "date": "2026-10-23T17:00:00Z",
+        "category": "Etkinlik",
+        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/lumera-trio-sezen-aksu-sarkilari-",
+        "tiers": {
+          "1. Kategori": 150000,
+          "2. Kategori": 120000,
+          "3. Kategori": 90000,
+          "4. Kategori": 75000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori": 150000,
+        "2. Kategori": 120000,
+        "3. Kategori": 90000,
+        "4. Kategori": 75000
+      },
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28"
+    },
     "bubilet:23208": {
       "event": {
         "source": "Bubilet",
@@ -3737,7 +3763,7 @@
         "Protokol": 215000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-09-26"
+      "last_seen": "2026-09-28"
     },
     "bubilet:23427": {
       "event": {
@@ -4463,7 +4489,7 @@
         "Protokol": 325000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-28"
     },
     "bubilet:9544": {
       "event": {
@@ -4530,7 +4556,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 56,
+      "last_count": 55,
       "last_error": null
     },
     "Biletix": {
