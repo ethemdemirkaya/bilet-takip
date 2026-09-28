@@ -283,7 +283,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-28"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-01T23:00": {
       "event": {
@@ -331,7 +331,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-28"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-02T23:00": {
       "event": {
@@ -381,7 +381,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-28"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-03T18:00": {
       "event": {
@@ -431,7 +431,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-28"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-03T23:00": {
       "event": {
@@ -471,7 +471,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-28"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-29T23:00": {
       "event": {
@@ -511,7 +511,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-28"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-30T23:00": {
       "event": {
@@ -551,7 +551,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-28"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T18:00": {
       "event": {
@@ -591,7 +591,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-28"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T23:00": {
       "event": {
@@ -1378,6 +1378,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-28"
     },
+    "biletinial:ran-entropi@2026-10-10T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "ran-entropi@2026-10-10T23:00",
+        "title": "Ran “Severmişim Meğer“",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-10-10T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/ran-entropi",
+        "tiers": {
+          "En uygun bilet": 75000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 75000
+      },
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28"
+    },
     "biletinial:ruh-okuzum-ss@2026-10-13T20:00": {
       "event": {
         "source": "Biletinial",
@@ -1579,7 +1599,7 @@
         "VIP3": 250000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-28"
     },
     "biletinial:tugce-kandemir@2026-10-03T00:00": {
       "event": {
@@ -4011,7 +4031,7 @@
         "Protokol": 215000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-09-26"
+      "last_seen": "2026-09-28"
     },
     "bubilet:460": {
       "event": {
