@@ -2233,6 +2233,28 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-29"
     },
+    "biletix:5LWI0": {
+      "event": {
+        "source": "Biletix",
+        "id": "5LWI0",
+        "title": "Mahşer-i Cümbüş",
+        "venue": "Kayseri İl Kültür Merkezi",
+        "date": "2026-11-18T17:00:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5LWI0/TURKIYE/tr",
+        "tiers": {
+          "1. Kategori": 171600,
+          "2. Kategori": 114400
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori": 171600,
+        "2. Kategori": 114400
+      },
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
     "biletix:5MO27": {
       "event": {
         "source": "Biletix",
@@ -2722,6 +2744,28 @@
         "Öğrenci": 75000
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-09-29"
+    },
+    "bubilet:10746": {
+      "event": {
+        "source": "Bubilet",
+        "id": "10746",
+        "title": "Kürk Mantolu Madonna Tiyatro Oyunu",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-04T15:10:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/kurk-mantolu-madonna",
+        "tiers": {
+          "Tam Bilet": 60000,
+          "Öğrenci Bileti": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam Bilet": 60000,
+        "Öğrenci Bileti": 30000
+      },
+      "first_seen": "2026-09-29",
       "last_seen": "2026-09-29"
     },
     "bubilet:11077": {
@@ -3478,10 +3522,7 @@
           "2. Kategori - C1 Blok": 150000,
           "2. Kategori - C2 Blok": 150000,
           "2. Kategori - C3 Blok": 150000,
-          "3. Kategori - D1 Blok": 120000,
-          "3. Kategori - D3 Blok": 120000,
-          "4. Kategori - D1 Blok": 99000,
-          "4. Kategori - D3 Blok": 99000,
+          "4. Kategori - D2 Blok": 99000,
           "Protokol - A1 Blok": 330000,
           "Protokol - A2 Blok": 330000,
           "Protokol - A3 Blok": 330000,
@@ -3501,6 +3542,7 @@
         "3. Kategori - D1 Blok": 120000,
         "3. Kategori - D3 Blok": 120000,
         "4. Kategori - D1 Blok": 99000,
+        "4. Kategori - D2 Blok": 99000,
         "4. Kategori - D3 Blok": 99000,
         "Protokol - A1 Blok": 330000,
         "Protokol - A2 Blok": 330000,
@@ -3510,7 +3552,7 @@
         "VIP - A3 Blok": 290000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-29"
     },
     "bubilet:219": {
       "event": {
@@ -3640,7 +3682,7 @@
         "VIP Bistro (Yemekli + İçecek) -2 Kişilik": 600000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-09-26"
+      "last_seen": "2026-09-29"
     },
     "bubilet:22613": {
       "event": {
@@ -4590,7 +4632,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 55,
+      "last_count": 54,
       "last_error": null
     },
     "Biletix": {
