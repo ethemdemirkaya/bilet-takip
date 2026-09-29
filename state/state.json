@@ -313,15 +313,8 @@
         "date": "2026-10-02T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "1. Kategori Tam": 27000,
-          "1. Kategori İndirimli": 17500,
-          "2. Kategori Tam": 12000,
-          "2. Kategori İndirimli": 8000,
-          "Balkon Tam": 8000,
-          "İndirimli Balkon": 7000
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -3284,7 +3277,7 @@
         "Genel Giriş Bileti": 175000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-29"
     },
     "bubilet:18649": {
       "event": {
@@ -3897,6 +3890,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-26"
     },
+    "bubilet:284": {
+      "event": {
+        "source": "Bubilet",
+        "id": "284",
+        "title": "Ran “Severmişim Meğer“",
+        "venue": "Kayseri İl Kültür Sanat Merkezi",
+        "date": "2026-10-10T17:00:00Z",
+        "category": "Etkinlik",
+        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/ran-oyunu",
+        "tiers": {
+          "Salon Bileti": 70000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Salon Bileti": 70000
+      },
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
     "bubilet:3198": {
       "event": {
         "source": "Bubilet",
@@ -4040,7 +4053,7 @@
         "Protokol": 215000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-29"
     },
     "bubilet:460": {
       "event": {
@@ -4442,6 +4455,48 @@
         "Salon-2. Kategori": 100000
       },
       "first_seen": "2026-09-26",
+      "last_seen": "2026-09-29"
+    },
+    "bubilet:8218": {
+      "event": {
+        "source": "Bubilet",
+        "id": "8218",
+        "title": "Selami Şahin Konseri",
+        "venue": "EKM Erciyes Kültür Merkezi",
+        "date": "2026-12-18T18:00:00Z",
+        "category": "Konser",
+        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/selami-sahin-konseri-",
+        "tiers": {
+          "1. Kategori-B2 Blok": 245000,
+          "2. Kategori-B1 Blok": 220000,
+          "2. Kategori-B3 Blok": 220000,
+          "3. Kategori-C2 Blok": 165000,
+          "4. Kategori-C1 Blok": 145000,
+          "4. Kategori-C3 Blok": 145000,
+          "5. Kategori-D2 Balkon": 125000,
+          "6. Kategori-D1 Balkon": 100000,
+          "6. Kategori-D3 Balkon": 100000,
+          "Protokol-A2 Blok": 350000,
+          "VIP-A1 Blok": 300000,
+          "VIP-A3 Blok": 300000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori-B2 Blok": 245000,
+        "2. Kategori-B1 Blok": 220000,
+        "2. Kategori-B3 Blok": 220000,
+        "3. Kategori-C2 Blok": 165000,
+        "4. Kategori-C1 Blok": 145000,
+        "4. Kategori-C3 Blok": 145000,
+        "5. Kategori-D2 Balkon": 125000,
+        "6. Kategori-D1 Balkon": 100000,
+        "6. Kategori-D3 Balkon": 100000,
+        "Protokol-A2 Blok": 350000,
+        "VIP-A1 Blok": 300000,
+        "VIP-A3 Blok": 300000
+      },
+      "first_seen": "2026-09-29",
       "last_seen": "2026-09-29"
     },
     "bubilet:87": {
