@@ -793,7 +793,7 @@
         "VIP": 425000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-29"
     },
     "biletinial:karsu-konseri@2026-11-28T00:00": {
       "event": {
@@ -1337,7 +1337,7 @@
         "Salon": 90000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-29"
     },
     "biletinial:ran-entropi@2026-10-10T23:00": {
       "event": {
@@ -2942,6 +2942,48 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-29"
     },
+    "bubilet:12697": {
+      "event": {
+        "source": "Bubilet",
+        "id": "12697",
+        "title": "Aşkım Kapışmak – Tek Hücreliler",
+        "venue": "EKM Erciyes Kültür Merkezi",
+        "date": "2026-10-17T17:30:00Z",
+        "category": "Etkinlik",
+        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/askim-kapismak-tek-hucreliler--",
+        "tiers": {
+          "A1 Blok-1. Kategori-Çift Kişilik Bilet": 450000,
+          "A2 Blok-1. Kategori-Çift Kişilik Bilet": 450000,
+          "A3 Blok-1. Kategori-Çift Kişilik Bilet": 450000,
+          "B1 Blok-2. Kategori-Çift Kişilik Bilet": 350000,
+          "B2 Blok-2. Kategori-Çift Kişilik Bilet": 350000,
+          "B3 Blok-2. Kategori-Çift Kişilik Bilet": 350000,
+          "C1 Blok-3. Kategori": 177000,
+          "C2 Blok-3. Kategori-Çift Kişilik Bilet": 300000,
+          "C3 Blok-3. Kategori-Çift Kişilik Bilet": 300000,
+          "D1 Blok-4. Kategori": 75000,
+          "D2 Blok-4. Kategori-Çift Kişilik Bilet": 150000,
+          "D3 Blok-4. Kategori-Çift Kişilik Bilet": 150000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "A1 Blok-1. Kategori-Çift Kişilik Bilet": 450000,
+        "A2 Blok-1. Kategori-Çift Kişilik Bilet": 450000,
+        "A3 Blok-1. Kategori-Çift Kişilik Bilet": 450000,
+        "B1 Blok-2. Kategori-Çift Kişilik Bilet": 350000,
+        "B2 Blok-2. Kategori-Çift Kişilik Bilet": 350000,
+        "B3 Blok-2. Kategori-Çift Kişilik Bilet": 350000,
+        "C1 Blok-3. Kategori": 177000,
+        "C2 Blok-3. Kategori-Çift Kişilik Bilet": 300000,
+        "C3 Blok-3. Kategori-Çift Kişilik Bilet": 300000,
+        "D1 Blok-4. Kategori": 75000,
+        "D2 Blok-4. Kategori-Çift Kişilik Bilet": 150000,
+        "D3 Blok-4. Kategori-Çift Kişilik Bilet": 150000
+      },
+      "first_seen": "2026-09-29",
+      "last_seen": "2026-09-29"
+    },
     "bubilet:13406": {
       "event": {
         "source": "Bubilet",
@@ -3287,7 +3329,7 @@
         "2. Kategori - Balkon": 92150
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-29"
     },
     "bubilet:20043": {
       "event": {
