@@ -31,11 +31,12 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
         "tiers": {
-          "En uygun bilet": 7001
+          "2. Kategori Çocuk Tam": 7000
         },
         "sold_out": false
       },
       "reference": {
+        "2. Kategori Çocuk Tam": 7000,
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
@@ -253,7 +254,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/deli-bayrami-cat-kapi",
         "tiers": {
-          "Full Ticket": 30000
+          "Tam": 30000
         },
         "sold_out": false
       },
@@ -303,7 +304,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-30"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-02T20:00": {
       "event": {
@@ -344,16 +345,14 @@
         "date": "2026-10-02T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-30"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-03T15:00": {
       "event": {
@@ -403,7 +402,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-30"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-03T20:00": {
       "event": {
@@ -453,7 +452,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-30"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-29T20:00": {
       "event": {
@@ -493,7 +492,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-30"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-30T20:00": {
       "event": {
@@ -533,7 +532,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-30"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T15:00": {
       "event": {
@@ -573,7 +572,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-30"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T20:00": {
       "event": {
@@ -613,7 +612,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-30"
     },
     "biletinial:fani-but-funny@2026-10-30T20:30": {
       "event": {
@@ -959,7 +958,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-30"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-09T20:00": {
       "event": {
@@ -1010,7 +1009,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-30"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-10T15:00": {
       "event": {
@@ -1061,7 +1060,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-30"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-10T20:00": {
       "event": {
@@ -1112,7 +1111,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-28"
+      "last_seen": "2026-09-30"
     },
     "biletinial:on-kisiydiler-dt@2026-10-22T20:00": {
       "event": {
@@ -1252,7 +1251,7 @@
         "En uygun bilet": 65800
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25"
+      "last_seen": "2026-09-30"
     },
     "biletinial:oz-buyucusu-muzikali@2026-10-10T18:00": {
       "event": {
@@ -1272,7 +1271,7 @@
         "En uygun bilet": 65800
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25"
+      "last_seen": "2026-09-30"
     },
     "biletinial:ozgur-turhan-yepyenisi@2026-10-07T20:30": {
       "event": {
@@ -4737,10 +4736,10 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 0,
+      "consecutive_failures": 1,
       "alerted": false,
       "last_count": 24,
-      "last_error": null
+      "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
     },
     "Biletinial": {
       "consecutive_failures": 0,
