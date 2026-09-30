@@ -253,11 +253,12 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/deli-bayrami-cat-kapi",
         "tiers": {
-          "Tam": 30000
+          "Full Ticket": 30000
         },
         "sold_out": false
       },
       "reference": {
+        "Full Ticket": 30000,
         "Tam": 30000
       },
       "first_seen": "2026-09-26",
