@@ -9,10 +9,8 @@
         "date": "2026-10-11T14:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
-        "tiers": {
-          "2. Kategori Çocuk Tam": 7000
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "2. Kategori Çocuk Tam": 7000,
@@ -244,6 +242,48 @@
       "first_seen": "2026-09-26",
       "last_seen": "2026-09-27"
     },
+    "biletinial:burak-king-jj@2026-10-28T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "burak-king-jj@2026-10-28T20:00",
+        "title": "Burak King",
+        "venue": "JJ Pub Kayseri",
+        "date": "2026-10-28T20:00:00+03:00",
+        "category": "Konser",
+        "url": "https://biletinial.com/tr-tr/muzik/burak-king-jj",
+        "tiers": {
+          "Genel Giriş Bileti": 75000,
+          "Sahne Önü": 150000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş Bileti": 75000,
+        "Sahne Önü": 150000
+      },
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30"
+    },
+    "biletinial:deli-bayrami-cat-kapi@2026-10-03T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "deli-bayrami-cat-kapi@2026-10-03T19:00",
+        "title": "Deli Bayramı",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-03T19:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/deli-bayrami-cat-kapi",
+        "tiers": {
+          "Tam": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 30000
+      },
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30"
+    },
     "biletinial:deli-bayrami-cat-kapi@2026-10-04T19:00": {
       "event": {
         "source": "Biletinial",
@@ -315,15 +355,8 @@
         "date": "2026-10-02T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "1. Kategori Tam": 27000,
-          "1. Kategori İndirimli": 17500,
-          "2. Kategori Tam": 12000,
-          "2. Kategori İndirimli": 8000,
-          "Balkon Tam": 8000,
-          "İndirimli Balkon": 7000
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -1928,6 +1961,28 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-30"
     },
+    "biletix:48S01": {
+      "event": {
+        "source": "Biletix",
+        "id": "48S01",
+        "title": "Burak King",
+        "venue": "JJ Pub Kayseri",
+        "date": "2026-10-28T17:00:00Z",
+        "category": "Konser",
+        "url": "https://www.biletix.com/etkinlik/48S01/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 85500,
+          "Sahne Önü": 171000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 85500,
+        "Sahne Önü": 171000
+      },
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30"
+    },
     "biletix:55AM6": {
       "event": {
         "source": "Biletix",
@@ -2680,6 +2735,126 @@
         "1. Kategori": 77000
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-09-30"
+    },
+    "biletix:5R233": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R233",
+        "title": "Anna Karenina",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-17T15:15:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R233/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 25200
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 25200
+      },
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30"
+    },
+    "biletix:5R234": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R234",
+        "title": "Çalıkuşu",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-17T17:30:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R234/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 25200
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 25200
+      },
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30"
+    },
+    "biletix:5R235": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R235",
+        "title": "Gece Yarısı Kütüphanesi",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-17T14:00:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R235/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 25200
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 25200
+      },
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30"
+    },
+    "biletix:5R236": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R236",
+        "title": "Kürk Mantolu Madonna",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-17T16:30:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R236/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 25200
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 25200
+      },
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30"
+    },
+    "biletix:5R237": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R237",
+        "title": "Kütüphanedeki Ceset",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-17T13:00:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R237/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 25200
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 25200
+      },
+      "first_seen": "2026-09-30",
+      "last_seen": "2026-09-30"
+    },
+    "biletix:5R238": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R238",
+        "title": "Veronika Ölmek İstiyor",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-17T12:00:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R238/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 25200
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 25200
+      },
+      "first_seen": "2026-09-30",
       "last_seen": "2026-09-30"
     },
     "biletix:5STEX": {
@@ -4736,7 +4911,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 1,
+      "consecutive_failures": 2,
       "alerted": false,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -4744,13 +4919,13 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 54,
+      "last_count": 53,
       "last_error": null
     },
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 36,
+      "last_count": 42,
       "last_error": null
     }
   },
