@@ -19,7 +19,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:agustos-parki-dt@2026-10-13T11:00": {
       "event": {
@@ -39,7 +39,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:agustos-parki-dt@2026-10-14T14:00": {
       "event": {
@@ -59,7 +59,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:agustos-parki-dt@2026-10-18T14:00": {
       "event": {
@@ -79,7 +79,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:agustos-parki-dt@2026-10-27T11:00": {
       "event": {
@@ -99,7 +99,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:agustos-parki-dt@2026-10-28T14:00": {
       "event": {
@@ -119,7 +119,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:barcelona-guitar-trio-dance@2026-10-27T21:00": {
       "event": {
@@ -149,7 +149,7 @@
         "VIP": 300000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:barcelona-guitar-trio-dance@2026-10-28T00:00": {
       "event": {
@@ -197,7 +197,7 @@
         "Protokol Fiyat": 400000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:bu-hikaye-senden-uzun-osman@2026-10-15T20:30": {
       "event": {
@@ -221,7 +221,7 @@
         "3. Kategori": 100000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:bu-hikaye-senden-uzun-osman@2026-10-15T23:30": {
       "event": {
@@ -261,7 +261,7 @@
         "Tam": 30000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-01T20:00": {
       "event": {
@@ -284,7 +284,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-01T23:00": {
       "event": {
@@ -313,8 +313,15 @@
         "date": "2026-10-02T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
+        },
+        "sold_out": false
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -325,7 +332,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-02T23:00": {
       "event": {
@@ -375,7 +382,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-03T18:00": {
       "event": {
@@ -425,7 +432,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-03T23:00": {
       "event": {
@@ -465,7 +472,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-29T23:00": {
       "event": {
@@ -505,7 +512,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-30T23:00": {
       "event": {
@@ -545,7 +552,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T18:00": {
       "event": {
@@ -585,7 +592,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T23:00": {
       "event": {
@@ -627,7 +634,7 @@
         "2. Kategori": 80000
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:grup-abdal-konseri-dtrpro@2026-10-16T20:30": {
       "event": {
@@ -647,7 +654,7 @@
         "Tam": 120000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:hijyenik-asklar-tiyatro-oyunu@2026-10-11T20:00": {
       "event": {
@@ -667,7 +674,7 @@
         "Tam": 86000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:insan-kaynaklari@2026-10-31T20:00": {
       "event": {
@@ -689,7 +696,7 @@
         "Salon": 60000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:ister-soyle-ister-dinle@2026-10-09T19:00": {
       "event": {
@@ -709,7 +716,7 @@
         "Tam": 60000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:ister-soyle-ister-dinle@2026-10-16T19:00": {
       "event": {
@@ -729,7 +736,7 @@
         "Tam": 60000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:kara-kiz-ecem-erkek@2026-10-03T20:30": {
       "event": {
@@ -786,7 +793,7 @@
         "VIP": 425000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:karsu-konseri@2026-11-28T00:00": {
       "event": {
@@ -832,7 +839,7 @@
         "4. Kategori": 75000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:lumera-trio-sezen-aksu-sarkilari@2026-10-23T23:00": {
       "event": {
@@ -876,7 +883,7 @@
         "Öğrenci": 50000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:musti-kusti-stand-up-yeni-gosteri@2026-09-30T20:30": {
       "event": {
@@ -900,7 +907,7 @@
         "3. Kategori": 75000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-08T20:00": {
       "event": {
@@ -931,7 +938,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-08T23:00": {
       "event": {
@@ -982,7 +989,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-09T23:00": {
       "event": {
@@ -1033,7 +1040,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-10T18:00": {
       "event": {
@@ -1084,7 +1091,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-10T23:00": {
       "event": {
@@ -1124,7 +1131,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:on-kisiydiler-dt@2026-10-23T20:00": {
       "event": {
@@ -1144,7 +1151,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T15:00": {
       "event": {
@@ -1164,7 +1171,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T20:00": {
       "event": {
@@ -1184,7 +1191,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:oz-buyucusu-muzikali@2026-10-10T13:00": {
       "event": {
@@ -1204,7 +1211,7 @@
         "Tam": 60000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:oz-buyucusu-muzikali@2026-10-10T15:00": {
       "event": {
@@ -1224,7 +1231,7 @@
         "Tam": 60000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:oz-buyucusu-muzikali@2026-10-10T16:00": {
       "event": {
@@ -1288,7 +1295,7 @@
         "Protokol Fiyat": 150000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:ozgur-turhan-yepyenisi@2026-10-07T23:30": {
       "event": {
@@ -1330,7 +1337,7 @@
         "Salon": 90000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:ran-entropi@2026-10-10T23:00": {
       "event": {
@@ -1373,7 +1380,7 @@
         "Salon": 100000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:ruh-okuzum-ss@2026-10-13T23:00": {
       "event": {
@@ -1423,7 +1430,7 @@
         "Category 4": 100000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:tirat-gecesi@2026-10-03T19:00": {
       "event": {
@@ -1443,7 +1450,7 @@
         "Tam": 30000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:tirat-gecesi@2026-10-10T19:00": {
       "event": {
@@ -1483,7 +1490,7 @@
         "Tam": 30000
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:tirat-gecesi@2026-10-18T19:00": {
       "event": {
@@ -1503,7 +1510,7 @@
         "Tam": 30000
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:tirat-gecesi@2026-10-31T19:00": {
       "event": {
@@ -1633,7 +1640,7 @@
         "Tam": 40000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:ucurtmanin-kuyrugu@2026-10-25T19:00": {
       "event": {
@@ -1673,7 +1680,7 @@
         "Tam": 40000
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:ustun-dokmen-ile-kucuk-seyler@2026-11-19T20:00": {
       "event": {
@@ -1695,7 +1702,7 @@
         "2. Kategori": 125000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-15T20:00": {
       "event": {
@@ -1715,7 +1722,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-15T23:00": {
       "event": {
@@ -1755,7 +1762,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-16T23:00": {
       "event": {
@@ -1795,7 +1802,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-17T18:00": {
       "event": {
@@ -1835,7 +1842,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-17T23:00": {
       "event": {
@@ -1875,7 +1882,7 @@
         "Tam": 150000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletinial:yuksek-sadakat@2026-11-20T23:30": {
       "event": {
@@ -1919,7 +1926,7 @@
         "Balkon": 80000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:55AM6": {
       "event": {
@@ -1963,7 +1970,7 @@
         "Protokol": 200000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5ADBV": {
       "event": {
@@ -1991,7 +1998,7 @@
         "Protokol": 200000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5DTCJ": {
       "event": {
@@ -2023,7 +2030,7 @@
         "Protokol": 175000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5FKDU": {
       "event": {
@@ -2045,7 +2052,7 @@
         "Öğrenci": 35000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5FKDV": {
       "event": {
@@ -2067,7 +2074,7 @@
         "Öğrenci": 35000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5FKDW": {
       "event": {
@@ -2089,7 +2096,7 @@
         "Öğrenci": 35000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5FKDY": {
       "event": {
@@ -2111,7 +2118,7 @@
         "Öğrenci": 35000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5FKDZ": {
       "event": {
@@ -2133,7 +2140,7 @@
         "Öğrenci": 35000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5FN77": {
       "event": {
@@ -2149,7 +2156,7 @@
       },
       "reference": {},
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5GX04": {
       "event": {
@@ -2169,7 +2176,7 @@
         "Genel Giriş": 40000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5JBAX": {
       "event": {
@@ -2199,7 +2206,7 @@
         "VIP": 250000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5JBB1": {
       "event": {
@@ -2229,7 +2236,7 @@
         "VIP": 325000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5JBCH": {
       "event": {
@@ -2259,7 +2266,7 @@
         "VIP": 250000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5JBDT": {
       "event": {
@@ -2283,7 +2290,7 @@
         "Vip Tribün": 400000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5JDH5": {
       "event": {
@@ -2311,7 +2318,7 @@
         "Protokol": 456000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5LWI0": {
       "event": {
@@ -2333,7 +2340,7 @@
         "2. Kategori": 114400
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5MO27": {
       "event": {
@@ -2365,7 +2372,7 @@
         "7. Kategori": 85000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5MO30": {
       "event": {
@@ -2391,7 +2398,7 @@
         "4. Kategori": 85000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5MRS1": {
       "event": {
@@ -2437,7 +2444,7 @@
       },
       "reference": {},
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5MY27": {
       "event": {
@@ -2467,7 +2474,7 @@
         "VIP": 425000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5ON61": {
       "event": {
@@ -2491,7 +2498,7 @@
         "3. Kategori": 99000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5OSAP": {
       "event": {
@@ -2511,7 +2518,7 @@
         "Genel Giriş": 80000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5OSAX": {
       "event": {
@@ -2533,7 +2540,7 @@
         "Sahne Önü": 150000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5PD73": {
       "event": {
@@ -2553,7 +2560,7 @@
         "1. Kategori": 132000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5PQCA": {
       "event": {
@@ -2573,7 +2580,7 @@
         "Genel Giriş": 37200
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5PQCB": {
       "event": {
@@ -2593,7 +2600,7 @@
         "Genel Giriş": 37200
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5PQCC": {
       "event": {
@@ -2613,7 +2620,7 @@
         "Genel Giriş": 37200
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5PQCD": {
       "event": {
@@ -2633,7 +2640,7 @@
         "Genel Giriş": 37200
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5PQCE": {
       "event": {
@@ -2653,7 +2660,7 @@
         "Genel Giriş": 37200
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5QF85": {
       "event": {
@@ -2673,7 +2680,7 @@
         "1. Kategori": 77000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5STEX": {
       "event": {
@@ -2689,7 +2696,7 @@
       },
       "reference": {},
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5T9O4": {
       "event": {
@@ -2717,7 +2724,7 @@
         "Protokol": 385000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5WEMD": {
       "event": {
@@ -2745,7 +2752,7 @@
         "VIP": 280000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5YHE0": {
       "event": {
@@ -2770,7 +2777,7 @@
         "VIP Bistro": 700000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5YHE1": {
       "event": {
@@ -2796,7 +2803,7 @@
         "4. Kategori": 75000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "biletix:5YS2H": {
       "event": {
@@ -2824,7 +2831,7 @@
         "Öğrenci": 75000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:10746": {
       "event": {
@@ -2891,7 +2898,7 @@
         "Öğrenci": 75000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:11273": {
       "event": {
@@ -3014,7 +3021,7 @@
         "VIP 1.Sıra - A3 Blok": 300000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:1222": {
       "event": {
@@ -3057,7 +3064,7 @@
         "En uygun bilet": 110000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:12697": {
       "event": {
@@ -3150,7 +3157,7 @@
         "Salon - 4.Kategori": 95000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:14662": {
       "event": {
@@ -3230,7 +3237,7 @@
         "En uygun bilet": 108500
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:1470": {
       "event": {
@@ -3257,7 +3264,7 @@
         "Salon-4. Kategori": 150000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:16168": {
       "event": {
@@ -3358,7 +3365,7 @@
         "3. Kategori - Balkon": 39000
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-09-30"
     },
     "bubilet:17461": {
       "event": {
@@ -3424,7 +3431,7 @@
         "Genel Giriş Bileti": 50000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:187": {
       "event": {
@@ -3489,7 +3496,7 @@
         "İndirimli Tek Kişilik Bilet": 69900
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:20645": {
       "event": {
@@ -3550,7 +3557,7 @@
         "VIP 1. Sıra - A3 Blok": 400000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:2164": {
       "event": {
@@ -3695,7 +3702,7 @@
         "VIP 1.Sıra - A3 Blok": 550000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:22316": {
       "event": {
@@ -3738,7 +3745,7 @@
         "VIP- A3 Blok": 325000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:226": {
       "event": {
@@ -3803,7 +3810,7 @@
         "Genel Giriş Bileti": 80000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:23018": {
       "event": {
@@ -3981,7 +3988,7 @@
         "En uygun bilet": 75000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:24413": {
       "event": {
@@ -4011,7 +4018,7 @@
         "VIP-Sahne Önü Ayakta-İndirimli Bilet": 290000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:24670": {
       "event": {
@@ -4113,7 +4120,7 @@
         "En uygun bilet": 145000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:3392": {
       "event": {
@@ -4246,7 +4253,7 @@
         "En uygun bilet": 90000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:472": {
       "event": {
@@ -4273,7 +4280,7 @@
         "En uygun bilet": 85000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:48": {
       "event": {
@@ -4375,7 +4382,7 @@
         "VIP - A2 Blok": 280000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:536": {
       "event": {
@@ -4396,7 +4403,7 @@
         "En uygun bilet": 100000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:5594": {
       "event": {
@@ -4464,7 +4471,7 @@
         "VIP 1. Sıra - A3 Blok": 475000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:6515": {
       "event": {
@@ -4533,7 +4540,7 @@
         "VIP 1.Sıra - A3 Blok": 500000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:7741": {
       "event": {
@@ -4602,7 +4609,7 @@
         "Salon-2. Kategori": 100000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     },
     "bubilet:8218": {
       "event": {
@@ -4719,7 +4726,7 @@
         "En uygun bilet": 50000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-09-30"
     }
   },
   "initialized_sources": [
