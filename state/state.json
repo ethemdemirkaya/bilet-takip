@@ -50,11 +50,12 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
         "tiers": {
-          "En uygun bilet": 7001
+          "2. Kategori Çocuk Tam": 7000
         },
         "sold_out": false
       },
       "reference": {
+        "2. Kategori Çocuk Tam": 7000,
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
@@ -460,8 +461,10 @@
         "date": "2026-10-03T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
       },
       "reference": {
         "En uygun bilet": 7001
@@ -1348,7 +1351,7 @@
         "En uygun bilet": 75000
       },
       "first_seen": "2026-09-28",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-10-01"
     },
     "biletinial:ruh-okuzum-ss@2026-10-13T20:00": {
       "event": {
@@ -2813,6 +2816,34 @@
         "Genel Giriş": 25200
       },
       "first_seen": "2026-09-30",
+      "last_seen": "2026-10-01"
+    },
+    "biletix:5SONA": {
+      "event": {
+        "source": "Biletix",
+        "id": "5SONA",
+        "title": "Erdal Erzincan",
+        "venue": "EKM Erciyes Kültür Merkezi",
+        "date": "2026-11-07T17:30:00Z",
+        "category": "Konser",
+        "url": "https://www.biletix.com/etkinlik/5SONA/TURKIYE/tr",
+        "tiers": {
+          "1. Kategori": 250000,
+          "2. Kategori": 150000,
+          "4. Kategori": 99000,
+          "Protokol": 330000,
+          "VIP": 290000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori": 250000,
+        "2. Kategori": 150000,
+        "4. Kategori": 99000,
+        "Protokol": 330000,
+        "VIP": 290000
+      },
+      "first_seen": "2026-10-01",
       "last_seen": "2026-10-01"
     },
     "biletix:5STEX": {
@@ -4842,7 +4873,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 5,
+      "consecutive_failures": 6,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -4856,7 +4887,7 @@
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 42,
+      "last_count": 43,
       "last_error": null
     }
   },
