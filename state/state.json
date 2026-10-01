@@ -1127,6 +1127,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-01"
     },
+    "biletinial:on-kisiydiler-dt@2026-10-22T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "on-kisiydiler-dt@2026-10-22T23:00",
+        "title": "ON KİŞİYDİLER",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-10-22T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01"
+    },
     "biletinial:on-kisiydiler-dt@2026-10-23T20:00": {
       "event": {
         "source": "Biletinial",
@@ -1145,6 +1165,26 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-10-01"
+    },
+    "biletinial:on-kisiydiler-dt@2026-10-23T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "on-kisiydiler-dt@2026-10-23T23:00",
+        "title": "ON KİŞİYDİLER",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-10-23T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-01",
       "last_seen": "2026-10-01"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T15:00": {
@@ -1167,6 +1207,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-01"
     },
+    "biletinial:on-kisiydiler-dt@2026-10-24T18:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "on-kisiydiler-dt@2026-10-24T18:00",
+        "title": "ON KİŞİYDİLER",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-10-24T18:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-01",
+      "last_seen": "2026-10-01"
+    },
     "biletinial:on-kisiydiler-dt@2026-10-24T20:00": {
       "event": {
         "source": "Biletinial",
@@ -1185,6 +1245,26 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-10-01"
+    },
+    "biletinial:on-kisiydiler-dt@2026-10-24T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "on-kisiydiler-dt@2026-10-24T23:00",
+        "title": "ON KİŞİYDİLER",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-10-24T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-01",
       "last_seen": "2026-10-01"
     },
     "biletinial:oz-buyucusu-muzikali@2026-10-10T13:00": {
@@ -1277,8 +1357,8 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ozgur-turhan-yepyenisi",
         "tiers": {
-          "1. Kategori": 120000,
-          "2. Kategori": 100000,
+          "Category 1": 120000,
+          "Category 2": 100000,
           "Protokol Fiyat": 150000
         },
         "sold_out": false
@@ -1286,6 +1366,8 @@
       "reference": {
         "1. Kategori": 120000,
         "2. Kategori": 100000,
+        "Category 1": 120000,
+        "Category 2": 100000,
         "Protokol Fiyat": 150000
       },
       "first_seen": "2026-09-25",
@@ -1321,7 +1403,6 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ran-entropi",
         "tiers": {
-          "Balkon": 70000,
           "Salon": 90000
         },
         "sold_out": false
@@ -4873,7 +4954,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 6,
+      "consecutive_failures": 7,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -4881,7 +4962,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 52,
+      "last_count": 50,
       "last_error": null
     },
     "Biletix": {
