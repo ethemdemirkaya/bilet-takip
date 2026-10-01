@@ -168,7 +168,7 @@
         "En uygun bilet": 98700
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-10-01"
     },
     "biletinial:berkay-turne-jj@2026-11-05T20:00": {
       "event": {
@@ -240,7 +240,7 @@
         "En uygun bilet": 112000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-10-01"
     },
     "biletinial:burak-king-jj@2026-10-28T20:00": {
       "event": {
@@ -326,7 +326,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
+      "last_seen": "2026-10-01"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-01T23:00": {
       "event": {
@@ -367,7 +367,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
+      "last_seen": "2026-10-01"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-02T23:00": {
       "event": {
@@ -408,7 +408,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
+      "last_seen": "2026-10-01"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-03T18:00": {
       "event": {
@@ -437,15 +437,8 @@
         "date": "2026-10-03T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "1. Kategori Tam": 27000,
-          "1. Kategori İndirimli": 17500,
-          "2. Kategori Tam": 12000,
-          "2. Kategori İndirimli": 8000,
-          "Balkon Tam": 8000,
-          "İndirimli Balkon": 7000
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -456,7 +449,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
+      "last_seen": "2026-10-01"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-03T23:00": {
       "event": {
@@ -494,7 +487,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
+      "last_seen": "2026-10-01"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-29T23:00": {
       "event": {
@@ -534,7 +527,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
+      "last_seen": "2026-10-01"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-30T23:00": {
       "event": {
@@ -574,7 +567,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
+      "last_seen": "2026-10-01"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T18:00": {
       "event": {
@@ -614,7 +607,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
+      "last_seen": "2026-10-01"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T23:00": {
       "event": {
@@ -1367,7 +1360,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ruh-okuzum-ss",
         "tiers": {
-          "Balcony": 80000,
+          "Balkon": 80000,
           "Salon": 100000
         },
         "sold_out": false
@@ -4849,7 +4842,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 4,
+      "consecutive_failures": 5,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
