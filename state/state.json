@@ -241,7 +241,7 @@
         "En uygun bilet": 112000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-10-01"
+      "last_seen": "2026-10-02"
     },
     "biletinial:burak-king-jj@2026-10-28T20:00": {
       "event": {
@@ -4925,7 +4925,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 11,
+      "consecutive_failures": 12,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -4933,13 +4933,13 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 50,
+      "last_count": 49,
       "last_error": null
     },
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 44,
+      "last_count": 42,
       "last_error": null
     }
   },
