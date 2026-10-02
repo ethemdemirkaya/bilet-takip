@@ -653,6 +653,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-02"
     },
+    "biletinial:hijyenik-asklar-tiyatro-oyunu@2026-10-11T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "hijyenik-asklar-tiyatro-oyunu@2026-10-11T23:00",
+        "title": "Hijyenik Aşklar Tiyatro Oyunu",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-10-11T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/hijyenik-asklar-tiyatro-oyunu",
+        "tiers": {
+          "En uygun bilet": 86000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 86000
+      },
+      "first_seen": "2026-10-02",
+      "last_seen": "2026-10-02"
+    },
     "biletinial:insan-kaynaklari@2026-10-31T20:00": {
       "event": {
         "source": "Biletinial",
@@ -673,7 +693,7 @@
         "Salon": 60000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-01"
+      "last_seen": "2026-10-02"
     },
     "biletinial:insan-kaynaklari@2026-10-31T23:00": {
       "event": {
@@ -1423,7 +1443,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ruh-okuzum-ss",
         "tiers": {
-          "Balcony": 80000,
+          "Balkon": 80000,
           "Salon": 100000
         },
         "sold_out": false
@@ -4866,7 +4886,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 8,
+      "consecutive_failures": 9,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
