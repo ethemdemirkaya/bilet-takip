@@ -345,7 +345,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-01"
+      "last_seen": "2026-10-02"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-03T15:00": {
       "event": {
@@ -386,7 +386,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-01"
+      "last_seen": "2026-10-02"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-03T20:00": {
       "event": {
@@ -420,16 +420,14 @@
         "date": "2026-10-03T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-01"
+      "last_seen": "2026-10-02"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-29T20:00": {
       "event": {
@@ -469,7 +467,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-01"
+      "last_seen": "2026-10-02"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-30T20:00": {
       "event": {
@@ -509,7 +507,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-01"
+      "last_seen": "2026-10-02"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T15:00": {
       "event": {
@@ -549,7 +547,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-01"
+      "last_seen": "2026-10-02"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T20:00": {
       "event": {
@@ -589,7 +587,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-01"
+      "last_seen": "2026-10-02"
     },
     "biletinial:fani-but-funny@2026-10-30T20:30": {
       "event": {
@@ -1474,7 +1472,7 @@
         "En uygun bilet": 89600
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25"
+      "last_seen": "2026-10-02"
     },
     "biletinial:sesler-salih-bademci@2026-10-24T20:30": {
       "event": {
@@ -2373,6 +2371,36 @@
         "Vip Tribün": 400000
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-10-02"
+    },
+    "biletix:5JBE6": {
+      "event": {
+        "source": "Biletix",
+        "id": "5JBE6",
+        "title": "Tan Taşçı",
+        "venue": "Kayseri Kadir Has Kongre",
+        "date": "2026-10-11T17:00:00Z",
+        "category": "Konser",
+        "url": "https://www.biletix.com/etkinlik/5JBE6/TURKIYE/tr",
+        "tiers": {
+          "1. Kategori": 500000,
+          "2. Kategori": 350000,
+          "3. Kategori": 250000,
+          "4. Kategori": 200000,
+          "5. Kategori": 150000,
+          "Saha İçi Ayakta": 150000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori": 500000,
+        "2. Kategori": 350000,
+        "3. Kategori": 250000,
+        "4. Kategori": 200000,
+        "5. Kategori": 150000,
+        "Saha İçi Ayakta": 150000
+      },
+      "first_seen": "2026-10-02",
       "last_seen": "2026-10-02"
     },
     "biletix:5JDH5": {
@@ -4897,7 +4925,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 10,
+      "consecutive_failures": 11,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -4911,7 +4939,7 @@
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 43,
+      "last_count": 44,
       "last_error": null
     }
   },
