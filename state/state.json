@@ -305,6 +305,26 @@
       "first_seen": "2026-10-03",
       "last_seen": "2026-10-03"
     },
+    "biletinial:buyuk-afrika-sirki@2026-10-11T16:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "buyuk-afrika-sirki@2026-10-11T16:00",
+        "title": "Büyük Afrika Sirki",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-10-11T16:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/buyuk-afrika-sirki",
+        "tiers": {
+          "Tam": 80000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 80000
+      },
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03"
+    },
     "biletinial:deli-bayrami-cat-kapi@2026-10-03T19:00": {
       "event": {
         "source": "Biletinial",
@@ -396,8 +416,15 @@
         "date": "2026-10-03T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
+        },
+        "sold_out": false
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -849,6 +876,46 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-29"
     },
+    "biletinial:kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T13:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T13:00",
+        "title": "Küçük Hanımlar Küçük Beyler, Dijital Dünya Kâşifleri",
+        "venue": "Kayseri Kadir Has Kongre Merkezi",
+        "date": "2026-10-18T13:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri",
+        "tiers": {
+          "Tam": 40000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 40000
+      },
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03"
+    },
+    "biletinial:kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T14:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T14:30",
+        "title": "Küçük Hanımlar Küçük Beyler, Dijital Dünya Kâşifleri",
+        "venue": "Kayseri Kadir Has Kongre Merkezi",
+        "date": "2026-10-18T14:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri",
+        "tiers": {
+          "Tam": 40000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 40000
+      },
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03"
+    },
     "biletinial:lumera-trio-sezen-aksu-sarkilari@2026-10-23T20:00": {
       "event": {
         "source": "Biletinial",
@@ -893,7 +960,7 @@
         "En uygun bilet": 82200
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-25"
+      "last_seen": "2026-10-03"
     },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T20:00": {
       "event": {
@@ -1393,8 +1460,8 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ozgur-turhan-yepyenisi",
         "tiers": {
-          "Category 1": 120000,
-          "Category 2": 100000,
+          "1. Kategori": 120000,
+          "2. Kategori": 100000,
           "Protokol Fiyat": 150000
         },
         "sold_out": false
@@ -1523,10 +1590,10 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/sesler-salih-bademci",
         "tiers": {
-          "1. Kategori": 225000,
-          "2. Kategori": 150000,
-          "3. Kategori": 125000,
-          "4. Kategori": 100000
+          "Category 1": 225000,
+          "Category 2": 150000,
+          "Category 3": 125000,
+          "Category 4": 100000
         },
         "sold_out": false
       },
@@ -4865,7 +4932,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 16,
+      "consecutive_failures": 17,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -4873,7 +4940,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 50,
+      "last_count": 52,
       "last_error": null
     },
     "Biletix": {
