@@ -356,8 +356,15 @@
         "date": "2026-10-03T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
+        },
+        "sold_out": false
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -1353,8 +1360,8 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ozgur-turhan-yepyenisi",
         "tiers": {
-          "1. Kategori": 120000,
-          "2. Kategori": 100000,
+          "Category 1": 120000,
+          "Category 2": 100000,
           "Protokol Fiyat": 150000
         },
         "sold_out": false
@@ -1806,12 +1813,23 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/yanlis-pencere-kayseri-dt",
         "tiers": {
-          "En uygun bilet": 7001
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 7001
+        "1. Kategori Tam": 27000,
+        "1. Kategori İndirimli": 17500,
+        "2. Kategori Tam": 12000,
+        "2. Kategori İndirimli": 8000,
+        "Balkon Tam": 8000,
+        "En uygun bilet": 7001,
+        "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-03"
@@ -4814,7 +4832,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 14,
+      "consecutive_failures": 15,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
