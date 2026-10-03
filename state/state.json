@@ -265,6 +265,46 @@
       "first_seen": "2026-09-30",
       "last_seen": "2026-10-03"
     },
+    "biletinial:buyuk-afrika-sirki@2026-10-11T12:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "buyuk-afrika-sirki@2026-10-11T12:30",
+        "title": "Büyük Afrika Sirki",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-10-11T12:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/buyuk-afrika-sirki",
+        "tiers": {
+          "Tam": 80000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 80000
+      },
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03"
+    },
+    "biletinial:buyuk-afrika-sirki@2026-10-11T14:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "buyuk-afrika-sirki@2026-10-11T14:00",
+        "title": "Büyük Afrika Sirki",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-10-11T14:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/buyuk-afrika-sirki",
+        "tiers": {
+          "Tam": 80000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 80000
+      },
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-03"
+    },
     "biletinial:deli-bayrami-cat-kapi@2026-10-03T19:00": {
       "event": {
         "source": "Biletinial",
@@ -356,15 +396,8 @@
         "date": "2026-10-03T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "1. Kategori Tam": 27000,
-          "1. Kategori İndirimli": 17500,
-          "2. Kategori Tam": 12000,
-          "2. Kategori İndirimli": 8000,
-          "Balkon Tam": 8000,
-          "İndirimli Balkon": 7000
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -4832,7 +4865,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 15,
+      "consecutive_failures": 16,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -4840,7 +4873,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 49,
+      "last_count": 50,
       "last_error": null
     },
     "Biletix": {
