@@ -820,6 +820,26 @@
       "first_seen": "2026-10-03",
       "last_seen": "2026-10-04"
     },
+    "biletinial:kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T16:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T16:00",
+        "title": "Küçük Hanımlar Küçük Beyler, Dijital Dünya Kâşifleri",
+        "venue": "Kayseri Kadir Has Kongre Merkezi",
+        "date": "2026-10-18T16:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri",
+        "tiers": {
+          "Tam": 40000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 40000
+      },
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04"
+    },
     "biletinial:lumera-trio-sezen-aksu-sarkilari@2026-10-23T20:00": {
       "event": {
         "source": "Biletinial",
@@ -865,6 +885,50 @@
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-03"
+    },
+    "biletinial:mavi-dostlar@2026-10-24T14:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "mavi-dostlar@2026-10-24T14:00",
+        "title": "Mavi Dostlar",
+        "venue": "Kayseri Kültür Merkezi 1. Alaaddin Keykubat Salonu",
+        "date": "2026-10-24T14:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/mavi-dostlar",
+        "tiers": {
+          "1. Kategori": 40000,
+          "2. Kategori": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori": 40000,
+        "2. Kategori": 30000
+      },
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04"
+    },
+    "biletinial:mavi-dostlar@2026-10-24T16:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "mavi-dostlar@2026-10-24T16:00",
+        "title": "Mavi Dostlar",
+        "venue": "Kayseri Kültür Merkezi 1. Alaaddin Keykubat Salonu",
+        "date": "2026-10-24T16:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/mavi-dostlar",
+        "tiers": {
+          "1. Kategori": 40000,
+          "2. Kategori": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori": 40000,
+        "2. Kategori": 30000
+      },
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04"
     },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T20:00": {
       "event": {
@@ -4802,7 +4866,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 21,
+      "consecutive_failures": 22,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -4810,13 +4874,13 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 52,
+      "last_count": 55,
       "last_error": null
     },
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 42,
+      "last_count": 40,
       "last_error": null
     }
   },
