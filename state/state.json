@@ -221,7 +221,7 @@
         "3. Kategori": 100000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-03"
+      "last_seen": "2026-10-04"
     },
     "biletinial:bu-hikaye-senden-uzun-osman@2026-10-15T23:30": {
       "event": {
@@ -899,7 +899,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-03"
+      "last_seen": "2026-10-04"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-08T23:00": {
       "event": {
@@ -950,7 +950,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-03"
+      "last_seen": "2026-10-04"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-09T23:00": {
       "event": {
@@ -1001,7 +1001,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-03"
+      "last_seen": "2026-10-04"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-10T18:00": {
       "event": {
@@ -1052,7 +1052,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-03"
+      "last_seen": "2026-10-04"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-10T23:00": {
       "event": {
@@ -4740,7 +4740,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 19,
+      "consecutive_failures": 20,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
