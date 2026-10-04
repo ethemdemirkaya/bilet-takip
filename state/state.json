@@ -325,6 +325,26 @@
       "first_seen": "2026-10-03",
       "last_seen": "2026-10-04"
     },
+    "biletinial:buyuk-afrika-sirki@2026-10-11T17:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "buyuk-afrika-sirki@2026-10-11T17:30",
+        "title": "Büyük Afrika Sirki",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-10-11T17:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/buyuk-afrika-sirki",
+        "tiers": {
+          "Tam": 80000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 80000
+      },
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04"
+    },
     "biletinial:deli-bayrami-cat-kapi@2026-10-04T19:00": {
       "event": {
         "source": "Biletinial",
@@ -566,6 +586,26 @@
         "Tam": 120000
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-10-04"
+    },
+    "biletinial:grup-abdal-konseri-dtrpro@2026-10-16T23:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "grup-abdal-konseri-dtrpro@2026-10-16T23:30",
+        "title": "Grup Abdal",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-10-16T23:30:00+03:00",
+        "category": "Konser",
+        "url": "https://biletinial.com/tr-tr/muzik/grup-abdal-konseri-dtrpro",
+        "tiers": {
+          "En uygun bilet": 131500
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 131500
+      },
+      "first_seen": "2026-10-04",
       "last_seen": "2026-10-04"
     },
     "biletinial:hijyenik-asklar-tiyatro-oyunu@2026-10-11T20:00": {
@@ -868,7 +908,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-03"
+      "last_seen": "2026-10-04"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-08T20:00": {
       "event": {
@@ -1788,12 +1828,23 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/yanlis-pencere-kayseri-dt",
         "tiers": {
-          "En uygun bilet": 7001
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 7001
+        "1. Kategori Tam": 27000,
+        "1. Kategori İndirimli": 17500,
+        "2. Kategori Tam": 12000,
+        "2. Kategori İndirimli": 8000,
+        "Balkon Tam": 8000,
+        "En uygun bilet": 7001,
+        "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-04"
@@ -1828,12 +1879,23 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/yanlis-pencere-kayseri-dt",
         "tiers": {
-          "En uygun bilet": 7001
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 7001
+        "1. Kategori Tam": 27000,
+        "1. Kategori İndirimli": 17500,
+        "2. Kategori Tam": 12000,
+        "2. Kategori İndirimli": 8000,
+        "Balkon Tam": 8000,
+        "En uygun bilet": 7001,
+        "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-04"
@@ -4740,7 +4802,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 20,
+      "consecutive_failures": 21,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -4748,7 +4810,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 51,
+      "last_count": 52,
       "last_error": null
     },
     "Biletix": {
