@@ -1396,7 +1396,7 @@
         "En uygun bilet": 65800
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
+      "last_seen": "2026-10-04"
     },
     "biletinial:oz-buyucusu-muzikali@2026-10-10T18:00": {
       "event": {
@@ -1416,7 +1416,7 @@
         "En uygun bilet": 65800
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
+      "last_seen": "2026-10-04"
     },
     "biletinial:ozgur-turhan-yepyenisi@2026-10-07T20:30": {
       "event": {
@@ -1576,6 +1576,26 @@
         "Category 4": 100000
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-10-04"
+    },
+    "biletinial:sesler-salih-bademci@2026-10-24T23:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "sesler-salih-bademci@2026-10-24T23:30",
+        "title": "Sesler - Salih Bademci",
+        "venue": "Kayseri Erciyes Kültür Merkezi",
+        "date": "2026-10-24T23:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/sesler-salih-bademci",
+        "tiers": {
+          "En uygun bilet": 100000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 100000
+      },
+      "first_seen": "2026-10-04",
       "last_seen": "2026-10-04"
     },
     "biletinial:tirat-gecesi@2026-10-10T19:00": {
@@ -4866,7 +4886,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 22,
+      "consecutive_failures": 23,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -4880,7 +4900,7 @@
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 40,
+      "last_count": 37,
       "last_error": null
     }
   },
