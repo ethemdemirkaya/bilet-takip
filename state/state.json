@@ -1002,7 +1002,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-04"
+      "last_seen": "2026-10-05"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-09T20:00": {
       "event": {
@@ -1053,7 +1053,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-04"
+      "last_seen": "2026-10-05"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-10T15:00": {
       "event": {
@@ -1104,7 +1104,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-04"
+      "last_seen": "2026-10-05"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-10T20:00": {
       "event": {
@@ -1155,7 +1155,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-04"
+      "last_seen": "2026-10-05"
     },
     "biletinial:on-kisiydiler-dt@2026-10-22T20:00": {
       "event": {
@@ -2021,7 +2021,7 @@
         "En uygun bilet": 150000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-09-27"
+      "last_seen": "2026-10-05"
     },
     "biletix:48S01": {
       "event": {
@@ -4719,7 +4719,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 25,
+      "consecutive_failures": 26,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
