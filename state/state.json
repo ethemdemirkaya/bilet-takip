@@ -49,10 +49,8 @@
         "date": "2026-10-14T14:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
-        "tiers": {
-          "2. Kategori Çocuk Tam": 7000
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "2. Kategori Çocuk Tam": 7000,
@@ -71,11 +69,12 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
         "tiers": {
-          "En uygun bilet": 7001
+          "2. Kategori Çocuk Tam": 7000
         },
         "sold_out": false
       },
       "reference": {
+        "2. Kategori Çocuk Tam": 7000,
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
@@ -637,14 +636,14 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/insan-kaynaklari",
         "tiers": {
-          "Balkon": 50000,
-          "Salon": 60000
+          "Balkon": 40000,
+          "Salon": 50000
         },
         "sold_out": false
       },
       "reference": {
-        "Balkon": 50000,
-        "Salon": 60000
+        "Balkon": 40000,
+        "Salon": 50000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-05"
@@ -1441,7 +1440,7 @@
         "En uygun bilet": 112000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-03"
+      "last_seen": "2026-10-05"
     },
     "biletinial:ran-entropi@2026-10-10T20:00": {
       "event": {
@@ -2101,6 +2100,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-05"
     },
+    "biletix:5CHME": {
+      "event": {
+        "source": "Biletix",
+        "id": "5CHME",
+        "title": "Pinokyo",
+        "venue": "Kayseri İl Kültür Merkezi",
+        "date": "2026-11-29T12:00:00Z",
+        "category": "Çocuk/Aile",
+        "url": "https://www.biletix.com/etkinlik/5CHME/TURKIYE/tr",
+        "tiers": {
+          "1. Kategori": 45800
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori": 45800
+      },
+      "first_seen": "2026-10-05",
+      "last_seen": "2026-10-05"
+    },
     "biletix:5DTCJ": {
       "event": {
         "source": "Biletix",
@@ -2649,12 +2668,12 @@
         "category": "Çocuk/Aile",
         "url": "https://www.biletix.com/etkinlik/5QF85/TURKIYE/tr",
         "tiers": {
-          "1. Kategori": 77000
+          "1. Kategori": 59500
         },
         "sold_out": false
       },
       "reference": {
-        "1. Kategori": 77000
+        "1. Kategori": 59500
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-05"
@@ -4719,7 +4738,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 26,
+      "consecutive_failures": 27,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -4733,7 +4752,7 @@
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 37,
+      "last_count": 38,
       "last_error": null
     }
   },
