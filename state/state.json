@@ -1406,8 +1406,8 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ozgur-turhan-yepyenisi",
         "tiers": {
-          "1. Kategori": 120000,
-          "2. Kategori": 100000,
+          "Category 1": 120000,
+          "Category 2": 100000,
           "Protokol Fiyat": 150000
         },
         "sold_out": false
@@ -1524,7 +1524,7 @@
         "En uygun bilet": 89600
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-02"
+      "last_seen": "2026-10-06"
     },
     "biletinial:sesler-salih-bademci@2026-10-24T20:30": {
       "event": {
@@ -2446,6 +2446,34 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-09-30"
     },
+    "biletix:5JDH8": {
+      "event": {
+        "source": "Biletix",
+        "id": "5JDH8",
+        "title": "Yaşar",
+        "venue": "EKM Erciyes Kültür Merkezi",
+        "date": "2026-11-22T17:00:00Z",
+        "category": "Konser",
+        "url": "https://www.biletix.com/etkinlik/5JDH8/TURKIYE/tr",
+        "tiers": {
+          "1. Kategori": 342000,
+          "2. Kategori": 285000,
+          "3. Kategori": 228000,
+          "4. Kategori": 171000,
+          "Protokol": 456000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori": 342000,
+        "2. Kategori": 285000,
+        "3. Kategori": 228000,
+        "4. Kategori": 171000,
+        "Protokol": 456000
+      },
+      "first_seen": "2026-10-06",
+      "last_seen": "2026-10-06"
+    },
     "biletix:5LWI0": {
       "event": {
         "source": "Biletix",
@@ -2808,8 +2836,8 @@
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5SONA/TURKIYE/tr",
         "tiers": {
-          "1. Kategori": 250000,
-          "2. Kategori": 150000,
+          "1. Kategori": 193187,
+          "2. Kategori": 115912,
           "4. Kategori": 99000,
           "Protokol": 330000,
           "VIP": 290000
@@ -2817,8 +2845,8 @@
         "sold_out": false
       },
       "reference": {
-        "1. Kategori": 250000,
-        "2. Kategori": 150000,
+        "1. Kategori": 193187,
+        "2. Kategori": 115912,
         "4. Kategori": 99000,
         "Protokol": 330000,
         "VIP": 290000
@@ -4738,7 +4766,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 29,
+      "consecutive_failures": 30,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
