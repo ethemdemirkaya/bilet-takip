@@ -1406,8 +1406,8 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ozgur-turhan-yepyenisi",
         "tiers": {
-          "Category 1": 120000,
-          "Category 2": 100000,
+          "1. Kategori": 120000,
+          "2. Kategori": 100000,
           "Protokol Fiyat": 150000
         },
         "sold_out": false
@@ -2836,8 +2836,8 @@
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5SONA/TURKIYE/tr",
         "tiers": {
-          "1. Kategori": 193187,
-          "2. Kategori": 115912,
+          "1. Kategori": 181825,
+          "2. Kategori": 109095,
           "4. Kategori": 99000,
           "Protokol": 330000,
           "VIP": 290000
@@ -2845,8 +2845,8 @@
         "sold_out": false
       },
       "reference": {
-        "1. Kategori": 193187,
-        "2. Kategori": 115912,
+        "1. Kategori": 181825,
+        "2. Kategori": 109095,
         "4. Kategori": 99000,
         "Protokol": 330000,
         "VIP": 290000
@@ -2961,17 +2961,17 @@
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5YHE1/TURKIYE/tr",
         "tiers": {
-          "1. Kategori": 224950,
-          "2. Kategori": 175000,
-          "3. Kategori": 150000,
+          "1. Kategori": 175000,
+          "2. Kategori": 139975,
+          "3. Kategori": 110000,
           "4. Kategori": 75000
         },
         "sold_out": false
       },
       "reference": {
-        "1. Kategori": 224950,
-        "2. Kategori": 175000,
-        "3. Kategori": 150000,
+        "1. Kategori": 175000,
+        "2. Kategori": 139975,
+        "3. Kategori": 110000,
         "4. Kategori": 75000
       },
       "first_seen": "2026-09-25",
@@ -4766,7 +4766,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 30,
+      "consecutive_failures": 31,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
