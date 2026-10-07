@@ -1524,7 +1524,7 @@
         "En uygun bilet": 89600
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-06"
+      "last_seen": "2026-10-07"
     },
     "biletinial:sesler-salih-bademci@2026-10-24T20:30": {
       "event": {
@@ -4766,7 +4766,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 33,
+      "consecutive_failures": 34,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
