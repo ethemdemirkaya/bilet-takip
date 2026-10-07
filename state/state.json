@@ -624,7 +624,7 @@
         "En uygun bilet": 86000
       },
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-02"
+      "last_seen": "2026-10-07"
     },
     "biletinial:insan-kaynaklari@2026-10-31T20:00": {
       "event": {
@@ -816,6 +816,46 @@
         "Tam": 40000
       },
       "first_seen": "2026-10-04",
+      "last_seen": "2026-10-07"
+    },
+    "biletinial:kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T17:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T17:30",
+        "title": "Küçük Hanımlar Küçük Beyler, Dijital Dünya Kâşifleri",
+        "venue": "Kayseri Kadir Has Kongre Merkezi",
+        "date": "2026-10-18T17:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri",
+        "tiers": {
+          "En uygun bilet": 40000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 40000
+      },
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07"
+    },
+    "biletinial:kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T19:00",
+        "title": "Küçük Hanımlar Küçük Beyler, Dijital Dünya Kâşifleri",
+        "venue": "Kayseri Kadir Has Kongre Merkezi",
+        "date": "2026-10-18T19:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri",
+        "tiers": {
+          "En uygun bilet": 40000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 40000
+      },
+      "first_seen": "2026-10-07",
       "last_seen": "2026-10-07"
     },
     "biletinial:lumera-trio-sezen-aksu-sarkilari@2026-10-23T20:00": {
@@ -1473,15 +1513,15 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ran-entropi",
         "tiers": {
-          "En uygun bilet": 75000
+          "En uygun bilet": 96500
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 75000
+        "En uygun bilet": 96500
       },
       "first_seen": "2026-09-28",
-      "last_seen": "2026-10-01"
+      "last_seen": "2026-10-07"
     },
     "biletinial:ruh-okuzum-ss@2026-10-13T20:00": {
       "event": {
@@ -1616,6 +1656,26 @@
       "first_seen": "2026-09-27",
       "last_seen": "2026-10-07"
     },
+    "biletinial:tirat-gecesi@2026-10-11T22:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "tirat-gecesi@2026-10-11T22:00",
+        "title": "Tirat Gecesi",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-11T22:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/tirat-gecesi",
+        "tiers": {
+          "En uygun bilet": 33600
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 33600
+      },
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07"
+    },
     "biletinial:tirat-gecesi@2026-10-18T19:00": {
       "event": {
         "source": "Biletinial",
@@ -1634,6 +1694,26 @@
         "Tam": 30000
       },
       "first_seen": "2026-09-27",
+      "last_seen": "2026-10-07"
+    },
+    "biletinial:tirat-gecesi@2026-10-18T22:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "tirat-gecesi@2026-10-18T22:00",
+        "title": "Tirat Gecesi",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-18T22:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/tirat-gecesi",
+        "tiers": {
+          "En uygun bilet": 33600
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 33600
+      },
+      "first_seen": "2026-10-07",
       "last_seen": "2026-10-07"
     },
     "biletinial:tirat-gecesi@2026-10-31T19:00": {
@@ -1778,6 +1858,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-07"
     },
+    "biletinial:ustun-dokmen-ile-kucuk-seyler@2026-11-19T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "ustun-dokmen-ile-kucuk-seyler@2026-11-19T23:00",
+        "title": "Üstün Dökmen ile 'Küçük Şeyler'",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-11-19T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/ustun-dokmen-ile-kucuk-seyler",
+        "tiers": {
+          "En uygun bilet": 140000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 140000
+      },
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07"
+    },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-15T20:00": {
       "event": {
         "source": "Biletinial",
@@ -1827,7 +1927,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-10-07"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-16T20:00": {
       "event": {
@@ -1878,7 +1978,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-10-07"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-17T15:00": {
       "event": {
@@ -1929,7 +2029,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-10-07"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-17T20:00": {
       "event": {
@@ -1980,7 +2080,35 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-09-29"
+      "last_seen": "2026-10-07"
+    },
+    "biletinial:yasar-jj@2026-11-22T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "yasar-jj@2026-11-22T19:00",
+        "title": "Yaşar",
+        "venue": "Kayseri Erciyes Kültür Merkezi",
+        "date": "2026-11-22T19:00:00+03:00",
+        "category": "Konser",
+        "url": "https://biletinial.com/tr-tr/muzik/yasar-jj",
+        "tiers": {
+          "1.Kategori": 300000,
+          "2.Kategori": 250000,
+          "3.Kategori": 200000,
+          "4.Kategori": 150000,
+          "Protokol Fiyat": 400000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1.Kategori": 300000,
+        "2.Kategori": 250000,
+        "3.Kategori": 200000,
+        "4.Kategori": 150000,
+        "Protokol Fiyat": 400000
+      },
+      "first_seen": "2026-10-07",
+      "last_seen": "2026-10-07"
     },
     "biletinial:yuksek-sadakat@2026-11-20T20:30": {
       "event": {
@@ -2664,6 +2792,28 @@
         "Sahne Önü": 150000
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-10-07"
+    },
+    "biletix:5OSB3": {
+      "event": {
+        "source": "Biletix",
+        "id": "5OSB3",
+        "title": "No.1",
+        "venue": "EKM Erciyes Kültür Merkezi",
+        "date": "2026-11-29T18:00:00Z",
+        "category": "Konser",
+        "url": "https://www.biletix.com/etkinlik/5OSB3/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 70000,
+          "VIP": 150000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 70000,
+        "VIP": 150000
+      },
+      "first_seen": "2026-10-07",
       "last_seen": "2026-10-07"
     },
     "biletix:5PD73": {
@@ -4766,7 +4916,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 35,
+      "consecutive_failures": 36,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -4780,7 +4930,7 @@
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 38,
+      "last_count": 39,
       "last_error": null
     }
   },
