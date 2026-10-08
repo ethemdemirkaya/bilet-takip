@@ -19,6 +19,22 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-08"
     },
+    "biletinial:agustos-parki-dt@2026-10-11T17:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "agustos-parki-dt@2026-10-11T17:00",
+        "title": "AĞUSTOS PARKI (Filozof Çocuklar Projesi)",
+        "venue": "Kayseri DT Fuaye Sahnesi",
+        "date": "2026-10-11T17:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
+        "tiers": {},
+        "sold_out": true
+      },
+      "reference": {},
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08"
+    },
     "biletinial:agustos-parki-dt@2026-10-13T11:00": {
       "event": {
         "source": "Biletinial",
@@ -40,6 +56,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-08"
     },
+    "biletinial:agustos-parki-dt@2026-10-13T14:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "agustos-parki-dt@2026-10-13T14:00",
+        "title": "AĞUSTOS PARKI (Filozof Çocuklar Projesi)",
+        "venue": "Kayseri DT Fuaye Sahnesi",
+        "date": "2026-10-13T14:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08"
+    },
     "biletinial:agustos-parki-dt@2026-10-14T14:00": {
       "event": {
         "source": "Biletinial",
@@ -57,6 +93,22 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-10-08"
+    },
+    "biletinial:agustos-parki-dt@2026-10-14T17:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "agustos-parki-dt@2026-10-14T17:00",
+        "title": "AĞUSTOS PARKI (Filozof Çocuklar Projesi)",
+        "venue": "Kayseri DT Fuaye Sahnesi",
+        "date": "2026-10-14T17:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
+        "tiers": {},
+        "sold_out": true
+      },
+      "reference": {},
+      "first_seen": "2026-10-08",
       "last_seen": "2026-10-08"
     },
     "biletinial:agustos-parki-dt@2026-10-18T14:00": {
@@ -80,6 +132,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-08"
     },
+    "biletinial:agustos-parki-dt@2026-10-18T17:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "agustos-parki-dt@2026-10-18T17:00",
+        "title": "AĞUSTOS PARKI (Filozof Çocuklar Projesi)",
+        "venue": "Kayseri DT Fuaye Sahnesi",
+        "date": "2026-10-18T17:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08"
+    },
     "biletinial:agustos-parki-dt@2026-10-27T11:00": {
       "event": {
         "source": "Biletinial",
@@ -100,6 +172,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-08"
     },
+    "biletinial:agustos-parki-dt@2026-10-27T14:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "agustos-parki-dt@2026-10-27T14:00",
+        "title": "AĞUSTOS PARKI (Filozof Çocuklar Projesi)",
+        "venue": "Kayseri DT Fuaye Sahnesi",
+        "date": "2026-10-27T14:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08"
+    },
     "biletinial:agustos-parki-dt@2026-10-28T14:00": {
       "event": {
         "source": "Biletinial",
@@ -118,6 +210,26 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
+      "last_seen": "2026-10-08"
+    },
+    "biletinial:agustos-parki-dt@2026-10-28T17:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "agustos-parki-dt@2026-10-28T17:00",
+        "title": "AĞUSTOS PARKI (Filozof Çocuklar Projesi)",
+        "venue": "Kayseri DT Fuaye Sahnesi",
+        "date": "2026-10-28T17:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-08",
       "last_seen": "2026-10-08"
     },
     "biletinial:barcelona-guitar-trio-dance@2026-10-27T21:00": {
@@ -444,6 +556,46 @@
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-08"
     },
+    "biletinial:crazy-honey-circus@2026-10-17T13:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "crazy-honey-circus@2026-10-17T13:00",
+        "title": "Crazy Honey Circus",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-10-17T13:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
+        "tiers": {
+          "Tam": 50000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 50000
+      },
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08"
+    },
+    "biletinial:crazy-honey-circus@2026-10-17T15:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "crazy-honey-circus@2026-10-17T15:00",
+        "title": "Crazy Honey Circus",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-10-17T15:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
+        "tiers": {
+          "Tam": 50000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 50000
+      },
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08"
+    },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-29T20:00": {
       "event": {
         "source": "Biletinial",
@@ -482,7 +634,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-02"
+      "last_seen": "2026-10-08"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-30T20:00": {
       "event": {
@@ -522,7 +674,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-02"
+      "last_seen": "2026-10-08"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T15:00": {
       "event": {
@@ -562,7 +714,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-02"
+      "last_seen": "2026-10-08"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T20:00": {
       "event": {
@@ -602,7 +754,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-02"
+      "last_seen": "2026-10-08"
     },
     "biletinial:fani-but-funny@2026-10-30T20:30": {
       "event": {
@@ -1235,7 +1387,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-06"
+      "last_seen": "2026-10-08"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-10T15:00": {
       "event": {
@@ -1286,7 +1438,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-06"
+      "last_seen": "2026-10-08"
     },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-10T20:00": {
       "event": {
@@ -1337,7 +1489,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-06"
+      "last_seen": "2026-10-08"
     },
     "biletinial:on-kisiydiler-dt@2026-10-22T20:00": {
       "event": {
@@ -1661,7 +1813,7 @@
         "En uygun bilet": 89600
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "biletinial:sesler-salih-bademci@2026-10-24T20:30": {
       "event": {
@@ -2205,7 +2357,7 @@
         "Protokol Fiyat": 400000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "biletinial:yasar-jj@2026-11-22T22:00": {
       "event": {
@@ -2915,7 +3067,7 @@
       "event": {
         "source": "Biletix",
         "id": "5OSB3",
-        "title": "No.1",
+        "title": "No 1",
         "venue": "EKM Erciyes Kültür Merkezi",
         "date": "2026-11-29T18:00:00Z",
         "category": "Konser",
@@ -5005,7 +5157,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 39,
+      "consecutive_failures": 40,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -5013,7 +5165,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 55,
+      "last_count": 56,
       "last_error": null
     },
     "Biletix": {
