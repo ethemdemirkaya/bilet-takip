@@ -220,7 +220,7 @@
         "3. Kategori": 100000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "biletinial:bu-hikaye-senden-uzun-osman@2026-10-15T23:30": {
       "event": {
@@ -716,7 +716,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/insan-kaynaklari",
         "tiers": {
-          "Balcony": 40000,
+          "Balkon": 40000,
           "Salon": 50000
         },
         "sold_out": false
@@ -1039,8 +1039,8 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/memleket-kumasi-sunay-akin",
         "tiers": {
-          "1. Kategori": 90000,
-          "2. Kategori": 70000,
+          "Category 1": 90000,
+          "Category 2": 70000,
           "Öğrenci": 50000
         },
         "sold_out": false
@@ -1048,6 +1048,8 @@
       "reference": {
         "1. Kategori": 90000,
         "2. Kategori": 70000,
+        "Category 1": 90000,
+        "Category 2": 70000,
         "Öğrenci": 50000
       },
       "first_seen": "2026-09-25",
@@ -1455,7 +1457,7 @@
         "Tam": 60000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "biletinial:oz-buyucusu-muzikali@2026-10-10T15:00": {
       "event": {
@@ -1475,7 +1477,7 @@
         "Tam": 60000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "biletinial:oz-buyucusu-muzikali@2026-10-10T16:00": {
       "event": {
@@ -1536,7 +1538,7 @@
         "Salon": 90000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "biletinial:ran-entropi@2026-10-10T23:00": {
       "event": {
@@ -1629,7 +1631,7 @@
         "Category 4": 100000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "biletinial:sesler-salih-bademci@2026-10-24T23:30": {
       "event": {
@@ -4943,7 +4945,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 37,
+      "consecutive_failures": 38,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
