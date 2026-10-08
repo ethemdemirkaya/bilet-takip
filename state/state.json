@@ -264,6 +264,26 @@
       "first_seen": "2026-09-30",
       "last_seen": "2026-10-08"
     },
+    "biletinial:burak-king-jj@2026-10-28T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "burak-king-jj@2026-10-28T23:00",
+        "title": "Burak King",
+        "venue": "JJ Pub Kayseri",
+        "date": "2026-10-28T23:00:00+03:00",
+        "category": "Konser",
+        "url": "https://biletinial.com/tr-tr/muzik/burak-king-jj",
+        "tiers": {
+          "En uygun bilet": 85500
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 85500
+      },
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08"
+    },
     "biletinial:buyuk-afrika-sirki@2026-10-11T12:30": {
       "event": {
         "source": "Biletinial",
@@ -282,7 +302,7 @@
         "Tam": 80000
       },
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "biletinial:buyuk-afrika-sirki@2026-10-11T14:00": {
       "event": {
@@ -302,7 +322,7 @@
         "Tam": 80000
       },
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "biletinial:buyuk-afrika-sirki@2026-10-11T15:30": {
       "event": {
@@ -342,7 +362,7 @@
         "Tam": 80000
       },
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "biletinial:buyuk-afrika-sirki@2026-10-11T17:00": {
       "event": {
@@ -382,7 +402,7 @@
         "Tam": 80000
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "biletinial:buyuk-afrika-sirki@2026-10-11T19:00": {
       "event": {
@@ -644,7 +664,7 @@
         "Tam": 120000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "biletinial:grup-abdal-konseri-dtrpro@2026-10-16T23:30": {
       "event": {
@@ -843,7 +863,7 @@
       "event": {
         "source": "Biletinial",
         "id": "kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T13:00",
-        "title": "Küçük Hanımlar Küçük Beyler, Dijital Dünya Kâşifleri",
+        "title": "Uluslararası Hologram Sirki",
         "venue": "Kayseri Kadir Has Kongre Merkezi",
         "date": "2026-10-18T13:00:00+03:00",
         "category": "Tiyatro",
@@ -863,7 +883,7 @@
       "event": {
         "source": "Biletinial",
         "id": "kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T14:30",
-        "title": "Küçük Hanımlar Küçük Beyler, Dijital Dünya Kâşifleri",
+        "title": "Uluslararası Hologram Sirki",
         "venue": "Kayseri Kadir Has Kongre Merkezi",
         "date": "2026-10-18T14:30:00+03:00",
         "category": "Tiyatro",
@@ -883,7 +903,7 @@
       "event": {
         "source": "Biletinial",
         "id": "kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T16:00",
-        "title": "Küçük Hanımlar Küçük Beyler, Dijital Dünya Kâşifleri",
+        "title": "Uluslararası Hologram Sirki",
         "venue": "Kayseri Kadir Has Kongre Merkezi",
         "date": "2026-10-18T16:00:00+03:00",
         "category": "Tiyatro",
@@ -983,7 +1003,7 @@
         "En uygun bilet": 82200
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-06"
+      "last_seen": "2026-10-08"
     },
     "biletinial:mavi-dostlar@2026-10-24T14:00": {
       "event": {
@@ -1029,6 +1049,46 @@
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-08"
     },
+    "biletinial:mavi-dostlar@2026-10-24T17:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "mavi-dostlar@2026-10-24T17:00",
+        "title": "Mavi Dostlar",
+        "venue": "Kayseri Kültür Merkezi 1. Alaaddin Keykubat Salonu",
+        "date": "2026-10-24T17:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/mavi-dostlar",
+        "tiers": {
+          "En uygun bilet": 32900
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 32900
+      },
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08"
+    },
+    "biletinial:mavi-dostlar@2026-10-24T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "mavi-dostlar@2026-10-24T19:00",
+        "title": "Mavi Dostlar",
+        "venue": "Kayseri Kültür Merkezi 1. Alaaddin Keykubat Salonu",
+        "date": "2026-10-24T19:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/mavi-dostlar",
+        "tiers": {
+          "En uygun bilet": 32900
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 32900
+      },
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-08"
+    },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T20:00": {
       "event": {
         "source": "Biletinial",
@@ -1039,8 +1099,8 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/memleket-kumasi-sunay-akin",
         "tiers": {
-          "Category 1": 90000,
-          "Category 2": 70000,
+          "1. Kategori": 90000,
+          "2. Kategori": 70000,
           "Öğrenci": 50000
         },
         "sold_out": false
@@ -1964,7 +2024,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-16T20:00": {
       "event": {
@@ -2015,7 +2075,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-17T15:00": {
       "event": {
@@ -2066,7 +2126,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-17T20:00": {
       "event": {
@@ -2117,7 +2177,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-08"
     },
     "biletinial:yasar-jj@2026-11-22T19:00": {
       "event": {
@@ -2467,7 +2527,7 @@
       "event": {
         "source": "Biletix",
         "id": "5GX04",
-        "title": "Küçük Hanımlar Küçük Beyler, Dijital Dünya Kaşifleri",
+        "title": "Uluslararası Hologram Sirki",
         "venue": "Kadir Has Gösteri ve Sanat Merkezi",
         "date": "2026-10-18T10:00:00Z",
         "category": "Çocuk/Aile",
@@ -4945,7 +5005,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 38,
+      "consecutive_failures": 39,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
