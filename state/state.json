@@ -352,7 +352,7 @@
         "En uygun bilet": 112000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-10-08"
+      "last_seen": "2026-10-09"
     },
     "biletinial:burak-king-jj@2026-10-28T20:00": {
       "event": {
@@ -454,7 +454,7 @@
         "En uygun bilet": 80000
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08"
+      "last_seen": "2026-10-09"
     },
     "biletinial:buyuk-afrika-sirki@2026-10-11T16:00": {
       "event": {
@@ -494,7 +494,7 @@
         "En uygun bilet": 80000
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08"
+      "last_seen": "2026-10-09"
     },
     "biletinial:buyuk-afrika-sirki@2026-10-11T17:30": {
       "event": {
@@ -534,7 +534,7 @@
         "En uygun bilet": 80000
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08"
+      "last_seen": "2026-10-09"
     },
     "biletinial:buyuk-afrika-sirki@2026-10-11T20:30": {
       "event": {
@@ -554,7 +554,7 @@
         "En uygun bilet": 80000
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08"
+      "last_seen": "2026-10-09"
     },
     "biletinial:crazy-honey-circus@2026-10-17T13:00": {
       "event": {
@@ -770,14 +770,16 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/fani-but-funny",
         "tiers": {
-          "1. Kategori": 100000,
-          "2. Kategori": 80000
+          "Category 1": 100000,
+          "Category 2": 80000
         },
         "sold_out": false
       },
       "reference": {
         "1. Kategori": 100000,
-        "2. Kategori": 80000
+        "2. Kategori": 80000,
+        "Category 1": 100000,
+        "Category 2": 80000
       },
       "first_seen": "2026-09-27",
       "last_seen": "2026-10-09"
@@ -840,7 +842,7 @@
         "En uygun bilet": 131500
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-08"
+      "last_seen": "2026-10-09"
     },
     "biletinial:hijyenik-asklar-tiyatro-oyunu@2026-10-11T20:00": {
       "event": {
@@ -1291,6 +1293,28 @@
       "first_seen": "2026-10-03",
       "last_seen": "2026-10-04"
     },
+    "biletinial:nazim@2026-11-21T18:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "nazim@2026-11-21T18:00",
+        "title": "Nazım",
+        "venue": "Tekne Sahne Kültür Merkezi",
+        "date": "2026-11-21T18:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/nazim",
+        "tiers": {
+          "1. Kategori": 75000,
+          "2. Kategori": 60000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori": 75000,
+        "2. Kategori": 60000
+      },
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09"
+    },
     "biletinial:ogle-kahvesi-bir-anne-ogul-hikayesi-dt@2026-10-09T20:00": {
       "event": {
         "source": "Biletinial",
@@ -1454,12 +1478,23 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
         "tiers": {
-          "En uygun bilet": 7001
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 7001
+        "1. Kategori Tam": 27000,
+        "1. Kategori İndirimli": 17500,
+        "2. Kategori Tam": 12000,
+        "2. Kategori İndirimli": 8000,
+        "Balkon Tam": 8000,
+        "En uygun bilet": 7001,
+        "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-09"
@@ -1694,6 +1729,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ran-entropi",
         "tiers": {
+          "Balkon": 70000,
           "Salon": 90000
         },
         "sold_out": false
@@ -5089,7 +5125,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 43,
+      "consecutive_failures": 44,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
