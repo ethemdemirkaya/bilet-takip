@@ -1,5 +1,27 @@
 {
   "events": {
+    "biletinial:afacan-kardesler-oyun-kuruyor@2026-11-15T14:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "afacan-kardesler-oyun-kuruyor@2026-11-15T14:00",
+        "title": "Afacan Kardeşler Oyun Kuruyor",
+        "venue": "Kayseri Kültür Merkezi 1. Alaaddin Keykubat Salonu",
+        "date": "2026-11-15T14:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/afacan-kardesler-oyun-kuruyor",
+        "tiers": {
+          "1. Kategori": 60000,
+          "2. Kategori": 50000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori": 60000,
+        "2. Kategori": 50000
+      },
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10"
+    },
     "biletinial:agustos-parki-dt@2026-10-11T14:00": {
       "event": {
         "source": "Biletinial",
@@ -598,6 +620,72 @@
         "İndirimli Bilet": 30000
       },
       "first_seen": "2026-10-08",
+      "last_seen": "2026-10-10"
+    },
+    "biletinial:crazy-honey-circus@2026-10-17T16:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "crazy-honey-circus@2026-10-17T16:30",
+        "title": "Crazy Honey Circus",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-10-17T16:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
+        "tiers": {
+          "Tam": 50000,
+          "İndirimli Bilet": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 50000,
+        "İndirimli Bilet": 30000
+      },
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10"
+    },
+    "biletinial:crazy-honey-circus@2026-10-17T18:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "crazy-honey-circus@2026-10-17T18:00",
+        "title": "Crazy Honey Circus",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-10-17T18:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
+        "tiers": {
+          "Tam": 50000,
+          "İndirimli Bilet": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 50000,
+        "İndirimli Bilet": 30000
+      },
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10"
+    },
+    "biletinial:crazy-honey-circus@2026-10-18T12:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "crazy-honey-circus@2026-10-18T12:00",
+        "title": "Crazy Honey Circus",
+        "venue": "Talas Spor Salonu",
+        "date": "2026-10-18T12:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
+        "tiers": {
+          "Tam": 50000,
+          "İndirimli Bilet": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 50000,
+        "İndirimli Bilet": 30000
+      },
+      "first_seen": "2026-10-10",
       "last_seen": "2026-10-10"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-29T20:00": {
@@ -1478,12 +1566,23 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
         "tiers": {
-          "En uygun bilet": 7001
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 7001
+        "1. Kategori Tam": 27000,
+        "1. Kategori İndirimli": 17500,
+        "2. Kategori Tam": 12000,
+        "2. Kategori İndirimli": 8000,
+        "Balkon Tam": 8000,
+        "En uygun bilet": 7001,
+        "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-10"
@@ -1720,7 +1819,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ruh-okuzum-ss",
         "tiers": {
-          "Balcony": 80000,
+          "Balkon": 80000,
           "Salon": 100000
         },
         "sold_out": false
@@ -4991,7 +5090,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 47,
+      "consecutive_failures": 48,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -4999,13 +5098,13 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 55,
+      "last_count": 53,
       "last_error": null
     },
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 40,
+      "last_count": 39,
       "last_error": null
     }
   },
