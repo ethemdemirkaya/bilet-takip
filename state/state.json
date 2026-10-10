@@ -22,6 +22,26 @@
       "first_seen": "2026-10-10",
       "last_seen": "2026-10-10"
     },
+    "biletinial:afacan-kardesler-oyun-kuruyor@2026-11-15T17:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "afacan-kardesler-oyun-kuruyor@2026-11-15T17:00",
+        "title": "Afacan Kardeşler Oyun Kuruyor",
+        "venue": "Kayseri Kültür Merkezi 1. Alaaddin Keykubat Salonu",
+        "date": "2026-11-15T17:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/afacan-kardesler-oyun-kuruyor",
+        "tiers": {
+          "En uygun bilet": 56000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 56000
+      },
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10"
+    },
     "biletinial:agustos-parki-dt@2026-10-11T14:00": {
       "event": {
         "source": "Biletinial",
@@ -673,6 +693,28 @@
         "title": "Crazy Honey Circus",
         "venue": "Talas Spor Salonu",
         "date": "2026-10-18T12:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
+        "tiers": {
+          "Tam": 50000,
+          "İndirimli Bilet": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 50000,
+        "İndirimli Bilet": 30000
+      },
+      "first_seen": "2026-10-10",
+      "last_seen": "2026-10-10"
+    },
+    "biletinial:crazy-honey-circus@2026-10-18T14:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "crazy-honey-circus@2026-10-18T14:00",
+        "title": "Crazy Honey Circus",
+        "venue": "Talas Spor Salonu",
+        "date": "2026-10-18T14:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
@@ -1413,12 +1455,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ogle-kahvesi-bir-anne-ogul-hikayesi-dt",
         "tiers": {
-          "1. Kategori Tam": 27000,
-          "1. Kategori İndirimli": 17500,
-          "2. Kategori Tam": 12000,
-          "2. Kategori İndirimli": 8000,
-          "Balkon Tam": 8000,
-          "İndirimli Balkon": 7000
+          "En uygun bilet": 7001
         },
         "sold_out": false
       },
@@ -1862,10 +1899,10 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/sesler-salih-bademci",
         "tiers": {
-          "1. Kategori": 225000,
-          "2. Kategori": 150000,
-          "3. Kategori": 125000,
-          "4. Kategori": 100000
+          "Category 1": 225000,
+          "Category 2": 150000,
+          "Category 3": 125000,
+          "Category 4": 100000
         },
         "sold_out": false
       },
@@ -2454,7 +2491,7 @@
         "En uygun bilet": 150000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletix:48S01": {
       "event": {
@@ -5090,7 +5127,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 48,
+      "consecutive_failures": 49,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -5098,7 +5135,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 53,
+      "last_count": 54,
       "last_error": null
     },
     "Biletix": {
