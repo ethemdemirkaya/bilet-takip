@@ -638,7 +638,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-30T20:00": {
       "event": {
@@ -678,7 +678,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T15:00": {
       "event": {
@@ -718,7 +718,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T20:00": {
       "event": {
@@ -758,7 +758,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:fani-but-funny@2026-10-30T20:30": {
       "event": {
@@ -822,7 +822,7 @@
         "Tam": 120000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:grup-abdal-konseri-dtrpro@2026-10-16T23:30": {
       "event": {
@@ -1141,7 +1141,7 @@
         "En uygun bilet": 82200
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:mavi-dostlar@2026-10-24T14:00": {
       "event": {
@@ -1700,15 +1700,15 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ran-entropi",
         "tiers": {
-          "En uygun bilet": 96500
+          "En uygun bilet": 75000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 96500
+        "En uygun bilet": 75000
       },
       "first_seen": "2026-09-28",
-      "last_seen": "2026-10-08"
+      "last_seen": "2026-10-10"
     },
     "biletinial:ruh-okuzum-ss@2026-10-13T20:00": {
       "event": {
@@ -4991,7 +4991,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 46,
+      "consecutive_failures": 47,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
