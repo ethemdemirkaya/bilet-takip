@@ -17,7 +17,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:agustos-parki-dt@2026-10-11T17:00": {
       "event": {
@@ -54,7 +54,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:agustos-parki-dt@2026-10-13T14:00": {
       "event": {
@@ -93,7 +93,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:agustos-parki-dt@2026-10-14T17:00": {
       "event": {
@@ -130,7 +130,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:agustos-parki-dt@2026-10-18T17:00": {
       "event": {
@@ -170,7 +170,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:agustos-parki-dt@2026-10-27T14:00": {
       "event": {
@@ -210,7 +210,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:agustos-parki-dt@2026-10-28T17:00": {
       "event": {
@@ -332,7 +332,7 @@
         "3. Kategori": 100000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:bu-hikaye-senden-uzun-osman@2026-10-15T23:30": {
       "event": {
@@ -414,7 +414,7 @@
         "Tam": 80000
       },
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:buyuk-afrika-sirki@2026-10-11T14:00": {
       "event": {
@@ -434,7 +434,7 @@
         "Tam": 80000
       },
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:buyuk-afrika-sirki@2026-10-11T15:30": {
       "event": {
@@ -474,7 +474,7 @@
         "Tam": 80000
       },
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:buyuk-afrika-sirki@2026-10-11T17:00": {
       "event": {
@@ -514,7 +514,7 @@
         "Tam": 80000
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:buyuk-afrika-sirki@2026-10-11T19:00": {
       "event": {
@@ -770,8 +770,8 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/fani-but-funny",
         "tiers": {
-          "Category 1": 100000,
-          "Category 2": 80000
+          "1. Kategori": 100000,
+          "2. Kategori": 80000
         },
         "sold_out": false
       },
@@ -782,7 +782,7 @@
         "Category 2": 80000
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:fani-but-funny@2026-10-30T23:30": {
       "event": {
@@ -862,7 +862,7 @@
         "Tam": 86000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:hijyenik-asklar-tiyatro-oyunu@2026-10-11T23:00": {
       "event": {
@@ -1293,7 +1293,7 @@
         "2. Kategori": 60000
       },
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:nazim@2026-11-21T21:00": {
       "event": {
@@ -1446,7 +1446,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:on-kisiydiler-dt@2026-10-22T23:00": {
       "event": {
@@ -1486,7 +1486,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:on-kisiydiler-dt@2026-10-23T23:00": {
       "event": {
@@ -1526,7 +1526,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T18:00": {
       "event": {
@@ -1566,7 +1566,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T23:00": {
       "event": {
@@ -1606,7 +1606,7 @@
         "Tam": 60000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:oz-buyucusu-muzikali@2026-10-10T15:00": {
       "event": {
@@ -1626,7 +1626,7 @@
         "Tam": 60000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:oz-buyucusu-muzikali@2026-10-10T16:00": {
       "event": {
@@ -1751,7 +1751,7 @@
         "En uygun bilet": 89600
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:sesler-salih-bademci@2026-10-24T20:30": {
       "event": {
@@ -1801,7 +1801,7 @@
         "En uygun bilet": 100000
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-08"
+      "last_seen": "2026-10-10"
     },
     "biletinial:tirat-gecesi@2026-10-10T19:00": {
       "event": {
@@ -2094,7 +2094,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-15T23:00": {
       "event": {
@@ -2145,7 +2145,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-16T23:00": {
       "event": {
@@ -2196,7 +2196,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-17T18:00": {
       "event": {
@@ -2247,7 +2247,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-17T23:00": {
       "event": {
@@ -2295,7 +2295,7 @@
         "Protokol Fiyat": 400000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-10"
     },
     "biletinial:yasar-jj@2026-11-22T22:00": {
       "event": {
@@ -4991,7 +4991,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 45,
+      "consecutive_failures": 46,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
