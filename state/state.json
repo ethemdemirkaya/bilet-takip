@@ -806,6 +806,28 @@
       "first_seen": "2026-10-11",
       "last_seen": "2026-10-11"
     },
+    "biletinial:crazy-honey-circus@2026-10-18T16:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "crazy-honey-circus@2026-10-18T16:00",
+        "title": "Crazy Honey Circus",
+        "venue": "Talas Spor Salonu",
+        "date": "2026-10-18T16:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
+        "tiers": {
+          "Tam": 50000,
+          "İndirimli Bilet": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 50000,
+        "İndirimli Bilet": 30000
+      },
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11"
+    },
     "biletinial:crazy-honey-circus@2026-10-18T17:00": {
       "event": {
         "source": "Biletinial",
@@ -822,6 +844,28 @@
       },
       "reference": {
         "En uygun bilet": 33600
+      },
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11"
+    },
+    "biletinial:crazy-honey-circus@2026-10-18T18:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "crazy-honey-circus@2026-10-18T18:00",
+        "title": "Crazy Honey Circus",
+        "venue": "Talas Spor Salonu",
+        "date": "2026-10-18T18:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
+        "tiers": {
+          "Tam": 50000,
+          "İndirimli Bilet": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 50000,
+        "İndirimli Bilet": 30000
       },
       "first_seen": "2026-10-11",
       "last_seen": "2026-10-11"
@@ -1693,12 +1737,23 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
         "tiers": {
-          "En uygun bilet": 7001
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 7001
+        "1. Kategori Tam": 27000,
+        "1. Kategori İndirimli": 17500,
+        "2. Kategori Tam": 12000,
+        "2. Kategori İndirimli": 8000,
+        "Balkon Tam": 8000,
+        "En uygun bilet": 7001,
+        "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-11"
@@ -1733,12 +1788,23 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
         "tiers": {
-          "En uygun bilet": 7001
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 7001
+        "1. Kategori Tam": 27000,
+        "1. Kategori İndirimli": 17500,
+        "2. Kategori Tam": 12000,
+        "2. Kategori İndirimli": 8000,
+        "Balkon Tam": 8000,
+        "En uygun bilet": 7001,
+        "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-11"
@@ -4806,7 +4872,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 53,
+      "consecutive_failures": 54,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -4814,7 +4880,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 51,
+      "last_count": 49,
       "last_error": null
     },
     "Biletix": {
