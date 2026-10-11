@@ -116,7 +116,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-10"
+      "last_seen": "2026-10-11"
     },
     "biletinial:agustos-parki-dt@2026-10-14T14:00": {
       "event": {
@@ -151,7 +151,7 @@
       },
       "reference": {},
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-10"
+      "last_seen": "2026-10-11"
     },
     "biletinial:agustos-parki-dt@2026-10-18T14:00": {
       "event": {
@@ -181,16 +181,14 @@
         "date": "2026-10-18T17:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-10"
+      "last_seen": "2026-10-11"
     },
     "biletinial:agustos-parki-dt@2026-10-27T11:00": {
       "event": {
@@ -230,7 +228,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-10"
+      "last_seen": "2026-10-11"
     },
     "biletinial:agustos-parki-dt@2026-10-28T14:00": {
       "event": {
@@ -270,7 +268,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-10"
+      "last_seen": "2026-10-11"
     },
     "biletinial:barcelona-guitar-trio-dance@2026-10-27T21:00": {
       "event": {
@@ -640,6 +638,26 @@
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-11"
     },
+    "biletinial:crazy-honey-circus@2026-10-17T16:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "crazy-honey-circus@2026-10-17T16:00",
+        "title": "Crazy Honey Circus",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-10-17T16:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
+        "tiers": {
+          "En uygun bilet": 33600
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 33600
+      },
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11"
+    },
     "biletinial:crazy-honey-circus@2026-10-17T16:30": {
       "event": {
         "source": "Biletinial",
@@ -684,6 +702,46 @@
       "first_seen": "2026-10-10",
       "last_seen": "2026-10-11"
     },
+    "biletinial:crazy-honey-circus@2026-10-17T19:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "crazy-honey-circus@2026-10-17T19:30",
+        "title": "Crazy Honey Circus",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-10-17T19:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
+        "tiers": {
+          "En uygun bilet": 33600
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 33600
+      },
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11"
+    },
+    "biletinial:crazy-honey-circus@2026-10-17T21:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "crazy-honey-circus@2026-10-17T21:00",
+        "title": "Crazy Honey Circus",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-10-17T21:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
+        "tiers": {
+          "En uygun bilet": 33600
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 33600
+      },
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11"
+    },
     "biletinial:crazy-honey-circus@2026-10-18T12:00": {
       "event": {
         "source": "Biletinial",
@@ -726,6 +784,86 @@
         "İndirimli Bilet": 30000
       },
       "first_seen": "2026-10-10",
+      "last_seen": "2026-10-11"
+    },
+    "biletinial:crazy-honey-circus@2026-10-18T15:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "crazy-honey-circus@2026-10-18T15:00",
+        "title": "Crazy Honey Circus",
+        "venue": "Talas Spor Salonu",
+        "date": "2026-10-18T15:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
+        "tiers": {
+          "En uygun bilet": 33600
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 33600
+      },
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11"
+    },
+    "biletinial:crazy-honey-circus@2026-10-18T17:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "crazy-honey-circus@2026-10-18T17:00",
+        "title": "Crazy Honey Circus",
+        "venue": "Talas Spor Salonu",
+        "date": "2026-10-18T17:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
+        "tiers": {
+          "En uygun bilet": 33600
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 33600
+      },
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11"
+    },
+    "biletinial:crazy-honey-circus@2026-10-18T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "crazy-honey-circus@2026-10-18T19:00",
+        "title": "Crazy Honey Circus",
+        "venue": "Talas Spor Salonu",
+        "date": "2026-10-18T19:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
+        "tiers": {
+          "En uygun bilet": 33600
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 33600
+      },
+      "first_seen": "2026-10-11",
+      "last_seen": "2026-10-11"
+    },
+    "biletinial:crazy-honey-circus@2026-10-18T21:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "crazy-honey-circus@2026-10-18T21:00",
+        "title": "Crazy Honey Circus",
+        "venue": "Talas Spor Salonu",
+        "date": "2026-10-18T21:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
+        "tiers": {
+          "En uygun bilet": 33600
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 33600
+      },
+      "first_seen": "2026-10-11",
       "last_seen": "2026-10-11"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-29T20:00": {
@@ -930,7 +1068,7 @@
         "En uygun bilet": 80000
       },
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-10"
+      "last_seen": "2026-10-11"
     },
     "biletinial:grup-abdal-konseri-dtrpro@2026-10-16T20:30": {
       "event": {
@@ -1716,7 +1854,7 @@
         "En uygun bilet": 100000
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-10"
+      "last_seen": "2026-10-11"
     },
     "biletinial:tirat-gecesi@2026-10-11T19:00": {
       "event": {
@@ -4668,7 +4806,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 52,
+      "consecutive_failures": 53,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -4676,7 +4814,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 53,
+      "last_count": 51,
       "last_error": null
     },
     "Biletix": {
