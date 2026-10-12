@@ -81,7 +81,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-11"
+      "last_seen": "2026-10-12"
     },
     "biletinial:agustos-parki-dt@2026-10-14T14:00": {
       "event": {
@@ -116,7 +116,7 @@
       },
       "reference": {},
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-11"
+      "last_seen": "2026-10-12"
     },
     "biletinial:agustos-parki-dt@2026-10-18T14:00": {
       "event": {
@@ -153,7 +153,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-11"
+      "last_seen": "2026-10-12"
     },
     "biletinial:agustos-parki-dt@2026-10-27T11:00": {
       "event": {
@@ -193,7 +193,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-11"
+      "last_seen": "2026-10-12"
     },
     "biletinial:agustos-parki-dt@2026-10-28T14:00": {
       "event": {
@@ -233,7 +233,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-11"
+      "last_seen": "2026-10-12"
     },
     "biletinial:barcelona-guitar-trio-dance@2026-10-27T21:00": {
       "event": {
@@ -1280,7 +1280,7 @@
         "En uygun bilet": 32900
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-12"
     },
     "biletinial:mavi-dostlar@2026-10-24T19:00": {
       "event": {
@@ -1300,7 +1300,7 @@
         "En uygun bilet": 32900
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-09"
+      "last_seen": "2026-10-12"
     },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T20:00": {
       "event": {
@@ -1439,7 +1439,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-11"
+      "last_seen": "2026-10-12"
     },
     "biletinial:on-kisiydiler-dt@2026-10-23T20:00": {
       "event": {
@@ -1490,7 +1490,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-11"
+      "last_seen": "2026-10-12"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T15:00": {
       "event": {
@@ -1541,7 +1541,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-11"
+      "last_seen": "2026-10-12"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T20:00": {
       "event": {
@@ -1592,7 +1592,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-11"
+      "last_seen": "2026-10-12"
     },
     "biletinial:ruh-okuzum-ss@2026-10-13T20:00": {
       "event": {
@@ -1858,7 +1858,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-11"
+      "last_seen": "2026-10-12"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-16T20:00": {
       "event": {
@@ -1909,7 +1909,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-11"
+      "last_seen": "2026-10-12"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-17T15:00": {
       "event": {
@@ -1960,7 +1960,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-11"
+      "last_seen": "2026-10-12"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-17T20:00": {
       "event": {
@@ -2011,7 +2011,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-11"
+      "last_seen": "2026-10-12"
     },
     "biletinial:yasar-jj@2026-11-22T19:00": {
       "event": {
@@ -2099,7 +2099,7 @@
         "En uygun bilet": 150000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-10-10"
+      "last_seen": "2026-10-12"
     },
     "biletix:48S01": {
       "event": {
@@ -4313,7 +4313,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 56,
+      "consecutive_failures": 57,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
