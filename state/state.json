@@ -477,7 +477,7 @@
         "En uygun bilet": 85500
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-08"
+      "last_seen": "2026-10-13"
     },
     "biletinial:crazy-honey-circus@2026-10-17T13:00": {
       "event": {
@@ -1226,7 +1226,7 @@
         "En uygun bilet": 145000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-11"
+      "last_seen": "2026-10-13"
     },
     "biletinial:kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T13:00": {
       "event": {
@@ -2093,14 +2093,16 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ustun-dokmen-ile-kucuk-seyler",
         "tiers": {
-          "1. Kategori": 150000,
-          "2. Kategori": 125000
+          "Category 1": 150000,
+          "Category 2": 125000
         },
         "sold_out": false
       },
       "reference": {
         "1. Kategori": 150000,
-        "2. Kategori": 125000
+        "2. Kategori": 125000,
+        "Category 1": 150000,
+        "Category 2": 125000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-13"
@@ -2415,7 +2417,7 @@
         "En uygun bilet": 150000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-13"
     },
     "biletix:48S01": {
       "event": {
@@ -4488,7 +4490,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 61,
+      "consecutive_failures": 62,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -4496,13 +4498,13 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 56,
+      "last_count": 55,
       "last_error": null
     },
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 39,
+      "last_count": 38,
       "last_error": null
     }
   },
