@@ -775,6 +775,26 @@
       "first_seen": "2026-10-12",
       "last_seen": "2026-10-13"
     },
+    "biletinial:dt-mutfak-leenanein-guzellik-kralicesi@2026-11-03T21:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "dt-mutfak-leenanein-guzellik-kralicesi@2026-11-03T21:00",
+        "title": "DT MUTFAK - LEENANE'İN GÜZELLİK KRALİÇESİ",
+        "venue": "Kayseri DT - Mutfak",
+        "date": "2026-11-03T21:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/dt-mutfak-leenanein-guzellik-kralicesi",
+        "tiers": {
+          "En uygun bilet": 10001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 10001
+      },
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13"
+    },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-29T20:00": {
       "event": {
         "source": "Biletinial",
@@ -1252,6 +1272,26 @@
       "first_seen": "2026-10-12",
       "last_seen": "2026-10-13"
     },
+    "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-05T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "leenanein-guzellik-kralicesi-kayseri-dt@2026-11-05T23:00",
+        "title": "LEENANE'İN GÜZELLİK KRALİÇESİ - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-05T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/leenanein-guzellik-kralicesi-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13"
+    },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-06T20:00": {
       "event": {
         "source": "Biletinial",
@@ -1270,6 +1310,26 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
+      "last_seen": "2026-10-13"
+    },
+    "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-06T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "leenanein-guzellik-kralicesi-kayseri-dt@2026-11-06T23:00",
+        "title": "LEENANE'İN GÜZELLİK KRALİÇESİ - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-06T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/leenanein-guzellik-kralicesi-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-13",
       "last_seen": "2026-10-13"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T15:00": {
@@ -1292,6 +1352,26 @@
       "first_seen": "2026-10-12",
       "last_seen": "2026-10-13"
     },
+    "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T18:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T18:00",
+        "title": "LEENANE'İN GÜZELLİK KRALİÇESİ - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-07T18:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/leenanein-guzellik-kralicesi-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-13"
+    },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T20:00": {
       "event": {
         "source": "Biletinial",
@@ -1310,6 +1390,26 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
+      "last_seen": "2026-10-13"
+    },
+    "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T23:00",
+        "title": "LEENANE'İN GÜZELLİK KRALİÇESİ - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-07T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/leenanein-guzellik-kralicesi-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-13",
       "last_seen": "2026-10-13"
     },
     "biletinial:lumera-trio-sezen-aksu-sarkilari@2026-10-23T20:00": {
@@ -1356,7 +1456,7 @@
         "En uygun bilet": 82200
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-13"
     },
     "biletinial:mavi-dostlar@2026-10-24T14:00": {
       "event": {
@@ -4312,7 +4412,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 59,
+      "consecutive_failures": 60,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
