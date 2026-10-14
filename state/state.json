@@ -1045,7 +1045,7 @@
         "category": "Konser",
         "url": "https://biletinial.com/tr-tr/muzik/grup-abdal-konseri-dtrpro",
         "tiers": {
-          "Full Ticket": 120000
+          "Tam": 120000
         },
         "sold_out": false
       },
@@ -1736,7 +1736,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-14"
     },
     "biletinial:on-kisiydiler-dt@2026-10-23T20:00": {
       "event": {
@@ -1787,7 +1787,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-14"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T15:00": {
       "event": {
@@ -1838,7 +1838,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-14"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T20:00": {
       "event": {
@@ -1889,7 +1889,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-14"
     },
     "biletinial:sesler-salih-bademci@2026-10-24T20:30": {
       "event": {
@@ -1901,10 +1901,10 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/sesler-salih-bademci",
         "tiers": {
-          "Category 1": 225000,
-          "Category 2": 150000,
-          "Category 3": 125000,
-          "Category 4": 100000
+          "1. Kategori": 225000,
+          "2. Kategori": 150000,
+          "3. Kategori": 125000,
+          "4. Kategori": 100000
         },
         "sold_out": false
       },
@@ -1979,7 +1979,7 @@
         "En uygun bilet": 33600
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-07"
+      "last_seen": "2026-10-14"
     },
     "biletinial:ucurtmanin-kuyrugu@2026-10-24T19:00": {
       "event": {
@@ -2355,7 +2355,7 @@
         "En uygun bilet": 150000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-10-13"
+      "last_seen": "2026-10-14"
     },
     "biletix:48S01": {
       "event": {
@@ -4141,7 +4141,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 66,
+      "consecutive_failures": 67,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -4149,7 +4149,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 54,
+      "last_count": 53,
       "last_error": null
     },
     "Biletix": {
