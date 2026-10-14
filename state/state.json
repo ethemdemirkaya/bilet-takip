@@ -124,11 +124,12 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
         "tiers": {
-          "En uygun bilet": 7001
+          "2. Kategori Çocuk Tam": 7000
         },
         "sold_out": false
       },
       "reference": {
+        "2. Kategori Çocuk Tam": 7000,
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
@@ -868,7 +869,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-14"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-30T20:00": {
       "event": {
@@ -908,7 +909,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-14"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T15:00": {
       "event": {
@@ -948,7 +949,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-14"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T20:00": {
       "event": {
@@ -988,7 +989,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-12"
+      "last_seen": "2026-10-14"
     },
     "biletinial:fani-but-funny@2026-10-30T20:30": {
       "event": {
@@ -1265,7 +1266,7 @@
         "En uygun bilet": 40000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-13"
+      "last_seen": "2026-10-14"
     },
     "biletinial:kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T19:00": {
       "event": {
@@ -1285,7 +1286,7 @@
         "En uygun bilet": 40000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-13"
+      "last_seen": "2026-10-14"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-05T20:00": {
       "event": {
@@ -1325,7 +1326,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13"
+      "last_seen": "2026-10-14"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-06T20:00": {
       "event": {
@@ -1365,7 +1366,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13"
+      "last_seen": "2026-10-14"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T15:00": {
       "event": {
@@ -1405,7 +1406,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13"
+      "last_seen": "2026-10-14"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T20:00": {
       "event": {
@@ -1445,7 +1446,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13"
+      "last_seen": "2026-10-14"
     },
     "biletinial:lumera-trio-sezen-aksu-sarkilari@2026-10-23T20:00": {
       "event": {
@@ -1513,7 +1514,7 @@
         "2. Kategori": 30000
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-13"
+      "last_seen": "2026-10-14"
     },
     "biletinial:mavi-dostlar@2026-10-24T16:00": {
       "event": {
@@ -1535,7 +1536,7 @@
         "2. Kategori": 30000
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-13"
+      "last_seen": "2026-10-14"
     },
     "biletinial:mavi-dostlar@2026-10-24T17:00": {
       "event": {
@@ -2293,7 +2294,7 @@
         "En uygun bilet": 171000
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-13"
+      "last_seen": "2026-10-14"
     },
     "biletinial:yuksek-sadakat@2026-11-20T20:30": {
       "event": {
@@ -3077,18 +3078,18 @@
         "tiers": {
           "1. Kategori": 181825,
           "2. Kategori": 109095,
-          "4. Kategori": 99000,
-          "Protokol": 330000,
-          "VIP": 290000
+          "4. Kategori": 81170,
+          "Protokol": 270000,
+          "VIP": 237280
         },
         "sold_out": false
       },
       "reference": {
         "1. Kategori": 181825,
         "2. Kategori": 109095,
-        "4. Kategori": 99000,
-        "Protokol": 330000,
-        "VIP": 290000
+        "4. Kategori": 81170,
+        "Protokol": 270000,
+        "VIP": 237280
       },
       "first_seen": "2026-10-01",
       "last_seen": "2026-10-14"
@@ -4119,7 +4120,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 64,
+      "consecutive_failures": 65,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
