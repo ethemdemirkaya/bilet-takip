@@ -20,7 +20,7 @@
         "2. Kategori": 50000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:afacan-kardesler-oyun-kuruyor@2026-11-15T17:00": {
       "event": {
@@ -42,41 +42,6 @@
       "first_seen": "2026-10-10",
       "last_seen": "2026-10-14"
     },
-    "biletinial:agustos-parki-dt@2026-10-14T14:00": {
-      "event": {
-        "source": "Biletinial",
-        "id": "agustos-parki-dt@2026-10-14T14:00",
-        "title": "AĞUSTOS PARKI (Filozof Çocuklar Projesi)",
-        "venue": "Kayseri DT Fuaye Sahnesi",
-        "date": "2026-10-14T14:00:00+03:00",
-        "category": "Tiyatro",
-        "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
-        "tiers": {},
-        "sold_out": true
-      },
-      "reference": {
-        "2. Kategori Çocuk Tam": 7000,
-        "En uygun bilet": 7001
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
-    },
-    "biletinial:agustos-parki-dt@2026-10-14T17:00": {
-      "event": {
-        "source": "Biletinial",
-        "id": "agustos-parki-dt@2026-10-14T17:00",
-        "title": "AĞUSTOS PARKI (Filozof Çocuklar Projesi)",
-        "venue": "Kayseri DT Fuaye Sahnesi",
-        "date": "2026-10-14T17:00:00+03:00",
-        "category": "Tiyatro",
-        "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
-        "tiers": {},
-        "sold_out": true
-      },
-      "reference": {},
-      "first_seen": "2026-10-08",
-      "last_seen": "2026-10-13"
-    },
     "biletinial:agustos-parki-dt@2026-10-18T14:00": {
       "event": {
         "source": "Biletinial",
@@ -94,7 +59,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:agustos-parki-dt@2026-10-18T17:00": {
       "event": {
@@ -133,7 +98,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:agustos-parki-dt@2026-10-27T14:00": {
       "event": {
@@ -173,7 +138,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:agustos-parki-dt@2026-10-28T17:00": {
       "event": {
@@ -213,7 +178,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:agustos-parki-dt@2026-11-04T14:00": {
       "event": {
@@ -253,7 +218,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:agustos-parki-dt@2026-11-08T17:00": {
       "event": {
@@ -303,7 +268,7 @@
         "VIP": 300000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:barcelona-guitar-trio-dance@2026-10-28T00:00": {
       "event": {
@@ -324,34 +289,6 @@
       },
       "first_seen": "2026-09-26",
       "last_seen": "2026-10-03"
-    },
-    "biletinial:berkay-turne-jj@2026-11-05T20:00": {
-      "event": {
-        "source": "Biletinial",
-        "id": "berkay-turne-jj@2026-11-05T20:00",
-        "title": "Berkay Turne Konseri",
-        "venue": "Kayseri Erciyes Kültür Merkezi",
-        "date": "2026-11-05T20:00:00+03:00",
-        "category": "Konser",
-        "url": "https://biletinial.com/tr-tr/muzik/berkay-turne-jj",
-        "tiers": {
-          "1.Kategori": 300000,
-          "2.Kategori": 250000,
-          "3.Kategori": 175000,
-          "4.Kategori": 125000,
-          "Protokol Fiyat": 400000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "1.Kategori": 300000,
-        "2.Kategori": 250000,
-        "3.Kategori": 175000,
-        "4.Kategori": 125000,
-        "Protokol Fiyat": 400000
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
     },
     "biletinial:bu-hikaye-senden-uzun-osman@2026-10-15T20:30": {
       "event": {
@@ -375,7 +312,7 @@
         "3. Kategori": 100000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:bu-hikaye-senden-uzun-osman@2026-10-15T23:30": {
       "event": {
@@ -417,7 +354,7 @@
         "Sahne Önü": 150000
       },
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:burak-king-jj@2026-10-28T23:00": {
       "event": {
@@ -459,7 +396,7 @@
         "İndirimli Bilet": 30000
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:crazy-honey-circus@2026-10-17T15:00": {
       "event": {
@@ -481,7 +418,7 @@
         "İndirimli Bilet": 30000
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:crazy-honey-circus@2026-10-17T16:00": {
       "event": {
@@ -523,7 +460,7 @@
         "İndirimli Bilet": 30000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:crazy-honey-circus@2026-10-17T18:00": {
       "event": {
@@ -545,7 +482,7 @@
         "İndirimli Bilet": 30000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:crazy-honey-circus@2026-10-17T19:30": {
       "event": {
@@ -607,7 +544,7 @@
         "İndirimli Bilet": 30000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:crazy-honey-circus@2026-10-18T14:00": {
       "event": {
@@ -629,7 +566,7 @@
         "İndirimli Bilet": 30000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:crazy-honey-circus@2026-10-18T15:00": {
       "event": {
@@ -671,7 +608,7 @@
         "İndirimli Bilet": 30000
       },
       "first_seen": "2026-10-11",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:crazy-honey-circus@2026-10-18T17:00": {
       "event": {
@@ -713,7 +650,7 @@
         "İndirimli Bilet": 30000
       },
       "first_seen": "2026-10-11",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:crazy-honey-circus@2026-10-18T19:00": {
       "event": {
@@ -773,7 +710,7 @@
         "Tam": 35000
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:deli-bayrami-cat-kapi@2026-10-31T19:00": {
       "event": {
@@ -789,7 +726,7 @@
       },
       "reference": {},
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:dt-mutfak-leenanein-guzellik-kralicesi@2026-11-03T18:00": {
       "event": {
@@ -809,7 +746,7 @@
         "En uygun bilet": 10001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:dt-mutfak-leenanein-guzellik-kralicesi@2026-11-03T21:00": {
       "event": {
@@ -849,7 +786,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-29T23:00": {
       "event": {
@@ -889,7 +826,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-30T23:00": {
       "event": {
@@ -929,7 +866,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T18:00": {
       "event": {
@@ -969,7 +906,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T23:00": {
       "event": {
@@ -1001,8 +938,8 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/fani-but-funny",
         "tiers": {
-          "1. Kategori": 100000,
-          "2. Kategori": 80000
+          "Category 1": 100000,
+          "Category 2": 80000
         },
         "sold_out": false
       },
@@ -1013,7 +950,7 @@
         "Category 2": 80000
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:fani-but-funny@2026-10-30T23:30": {
       "event": {
@@ -1045,7 +982,7 @@
         "category": "Konser",
         "url": "https://biletinial.com/tr-tr/muzik/grup-abdal-konseri-dtrpro",
         "tiers": {
-          "Tam": 120000
+          "Full Ticket": 120000
         },
         "sold_out": false
       },
@@ -1054,7 +991,7 @@
         "Tam": 120000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:grup-abdal-konseri-dtrpro@2026-10-16T23:30": {
       "event": {
@@ -1097,7 +1034,7 @@
         "Salon": 50000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:insan-kaynaklari@2026-10-31T23:00": {
       "event": {
@@ -1157,7 +1094,7 @@
         "Tam": 40000
       },
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:karsu-konseri@2026-11-27T21:00": {
       "event": {
@@ -1187,7 +1124,7 @@
         "VIP": 425000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:karsu-konseri@2026-11-28T00:00": {
       "event": {
@@ -1227,7 +1164,7 @@
         "Tam": 40000
       },
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T14:30": {
       "event": {
@@ -1247,7 +1184,7 @@
         "Tam": 40000
       },
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T16:00": {
       "event": {
@@ -1267,7 +1204,7 @@
         "Tam": 40000
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T17:30": {
       "event": {
@@ -1327,7 +1264,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-05T23:00": {
       "event": {
@@ -1367,7 +1304,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-06T23:00": {
       "event": {
@@ -1407,7 +1344,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T18:00": {
       "event": {
@@ -1447,7 +1384,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T23:00": {
       "event": {
@@ -1513,7 +1450,7 @@
         "En uygun bilet": 82200
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:mavi-dostlar@2026-10-24T14:00": {
       "event": {
@@ -1535,7 +1472,7 @@
         "2. Kategori": 30000
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:mavi-dostlar@2026-10-24T16:00": {
       "event": {
@@ -1557,7 +1494,7 @@
         "2. Kategori": 30000
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:mavi-dostlar@2026-10-24T17:00": {
       "event": {
@@ -1623,7 +1560,7 @@
         "Öğrenci": 50000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T23:00": {
       "event": {
@@ -1665,7 +1602,7 @@
         "2. Kategori": 60000
       },
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:nazim@2026-11-21T21:00": {
       "event": {
@@ -1716,7 +1653,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:on-kisiydiler-dt@2026-10-22T23:00": {
       "event": {
@@ -1767,7 +1704,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:on-kisiydiler-dt@2026-10-23T23:00": {
       "event": {
@@ -1818,7 +1755,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T18:00": {
       "event": {
@@ -1869,7 +1806,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T23:00": {
       "event": {
@@ -1939,7 +1876,7 @@
         "En uygun bilet": 100000
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-13"
+      "last_seen": "2026-10-15"
     },
     "biletinial:tirat-gecesi@2026-10-18T19:00": {
       "event": {
@@ -1959,7 +1896,7 @@
         "Tam": 30000
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:tirat-gecesi@2026-10-18T22:00": {
       "event": {
@@ -2043,7 +1980,7 @@
         "Category 2": 125000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:ustun-dokmen-ile-kucuk-seyler@2026-11-19T23:00": {
       "event": {
@@ -2105,16 +2042,14 @@
         "date": "2026-10-15T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/yanlis-pencere-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-16T20:00": {
       "event": {
@@ -2156,16 +2091,14 @@
         "date": "2026-10-16T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/yanlis-pencere-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-17T15:00": {
       "event": {
@@ -2216,7 +2149,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-17T20:00": {
       "event": {
@@ -2267,7 +2200,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:yasar-jj@2026-11-22T19:00": {
       "event": {
@@ -2315,7 +2248,7 @@
         "En uygun bilet": 171000
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:yuksek-sadakat@2026-11-20T20:30": {
       "event": {
@@ -2335,7 +2268,7 @@
         "Tam": 150000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:yuksek-sadakat@2026-11-20T23:30": {
       "event": {
@@ -2377,7 +2310,7 @@
         "Sahne Önü": 171000
       },
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5ADBS": {
       "event": {
@@ -2405,7 +2338,7 @@
         "Protokol": 200000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5ADBV": {
       "event": {
@@ -2433,7 +2366,7 @@
         "Protokol": 200000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5CHME": {
       "event": {
@@ -2453,7 +2386,7 @@
         "1. Kategori": 45800
       },
       "first_seen": "2026-10-05",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5DTCJ": {
       "event": {
@@ -2485,7 +2418,7 @@
         "Protokol": 175000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5FKDU": {
       "event": {
@@ -2507,7 +2440,7 @@
         "Öğrenci": 35000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5FKDV": {
       "event": {
@@ -2529,7 +2462,7 @@
         "Öğrenci": 35000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5FKDW": {
       "event": {
@@ -2551,7 +2484,7 @@
         "Öğrenci": 35000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5FKDY": {
       "event": {
@@ -2573,7 +2506,7 @@
         "Öğrenci": 35000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5FKDZ": {
       "event": {
@@ -2595,7 +2528,7 @@
         "Öğrenci": 35000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5GX04": {
       "event": {
@@ -2615,7 +2548,7 @@
         "Genel Giriş": 40000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5JBB1": {
       "event": {
@@ -2645,7 +2578,7 @@
         "VIP": 325000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5JBCH": {
       "event": {
@@ -2675,35 +2608,7 @@
         "VIP": 250000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
-    },
-    "biletix:5JDH5": {
-      "event": {
-        "source": "Biletix",
-        "id": "5JDH5",
-        "title": "Berkay",
-        "venue": "EKM Erciyes Kültür Merkezi",
-        "date": "2026-11-05T18:30:00Z",
-        "category": "Konser",
-        "url": "https://www.biletix.com/etkinlik/5JDH5/TURKIYE/tr",
-        "tiers": {
-          "1. Kategori": 342000,
-          "2. Kategori": 285000,
-          "3. Kategori": 199500,
-          "4. Kategori": 142500,
-          "Protokol": 456000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "1. Kategori": 342000,
-        "2. Kategori": 285000,
-        "3. Kategori": 199500,
-        "4. Kategori": 142500,
-        "Protokol": 456000
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
+      "last_seen": "2026-10-15"
     },
     "biletix:5JDH8": {
       "event": {
@@ -2731,7 +2636,7 @@
         "Protokol": 456000
       },
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5LWI0": {
       "event": {
@@ -2753,7 +2658,7 @@
         "2. Kategori": 114400
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5MO27": {
       "event": {
@@ -2785,7 +2690,7 @@
         "7. Kategori": 85000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5MO30": {
       "event": {
@@ -2811,7 +2716,7 @@
         "4. Kategori": 85000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5MS28": {
       "event": {
@@ -2827,7 +2732,7 @@
       },
       "reference": {},
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5MY27": {
       "event": {
@@ -2857,7 +2762,7 @@
         "VIP": 425000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5ON61": {
       "event": {
@@ -2881,7 +2786,7 @@
         "3. Kategori": 99000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5OSAP": {
       "event": {
@@ -2901,7 +2806,7 @@
         "Genel Giriş": 80000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5OSAX": {
       "event": {
@@ -2923,7 +2828,7 @@
         "Sahne Önü": 150000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5OSB3": {
       "event": {
@@ -2945,7 +2850,7 @@
         "VIP": 150000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5PD73": {
       "event": {
@@ -2965,7 +2870,7 @@
         "1. Kategori": 132000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5R233": {
       "event": {
@@ -2985,7 +2890,7 @@
         "Genel Giriş": 25200
       },
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5R234": {
       "event": {
@@ -3005,7 +2910,7 @@
         "Genel Giriş": 25200
       },
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5R235": {
       "event": {
@@ -3025,7 +2930,7 @@
         "Genel Giriş": 25200
       },
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5R236": {
       "event": {
@@ -3045,7 +2950,7 @@
         "Genel Giriş": 25200
       },
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5R237": {
       "event": {
@@ -3065,7 +2970,7 @@
         "Genel Giriş": 25200
       },
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5R238": {
       "event": {
@@ -3085,7 +2990,7 @@
         "Genel Giriş": 25200
       },
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5SONA": {
       "event": {
@@ -3113,7 +3018,7 @@
         "VIP": 237280
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5STEX": {
       "event": {
@@ -3129,7 +3034,7 @@
       },
       "reference": {},
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5T9O4": {
       "event": {
@@ -3157,7 +3062,7 @@
         "Protokol": 385000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5WEMD": {
       "event": {
@@ -3185,7 +3090,7 @@
         "VIP": 280000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5YHE0": {
       "event": {
@@ -3210,7 +3115,7 @@
         "VIP Bistro": 700000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5YHE1": {
       "event": {
@@ -3236,7 +3141,7 @@
         "4. Kategori": 37500
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5YHE2": {
       "event": {
@@ -3258,7 +3163,7 @@
         "VIP": 150000
       },
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:5YS2H": {
       "event": {
@@ -3286,852 +3191,7 @@
         "Öğrenci": 75000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
-    },
-    "bubilet:11077": {
-      "event": {
-        "source": "Bubilet",
-        "id": "11077",
-        "title": "Sesler-Salih Bademci",
-        "venue": "EKM Erciyes Kültür Merkezi",
-        "date": "2026-10-24T17:30:00Z",
-        "category": "Etkinlik",
-        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/sesler-salih-bademci",
-        "tiers": {
-          "A1 Blok-1.Kategori": 225000,
-          "A3 Blok-1.Kategori": 225000,
-          "B1 Blok-2.Kategori": 150000,
-          "B2 Blok-1.Kategori": 225000,
-          "B2 Blok-2.Kategori": 150000,
-          "B3 Blok-2.Kategori": 150000,
-          "Balkon D1 Blok-4.Kategori": 100000,
-          "Balkon D2 Blok-4.Kategori": 100000,
-          "Balkon D3 Blok-4.Kategori": 100000,
-          "C1 Blok-3.Kategori": 125000,
-          "C2 Blok-3.Kategori": 125000,
-          "C3 Blok-3.Kategori": 125000,
-          "Öğrenci": 75000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "A1 Blok-1.Kategori": 225000,
-        "A3 Blok-1.Kategori": 225000,
-        "B1 Blok-2.Kategori": 150000,
-        "B2 Blok-1.Kategori": 225000,
-        "B2 Blok-2.Kategori": 150000,
-        "B3 Blok-2.Kategori": 150000,
-        "Balkon D1 Blok-4.Kategori": 100000,
-        "Balkon D2 Blok-4.Kategori": 100000,
-        "Balkon D3 Blok-4.Kategori": 100000,
-        "C1 Blok-3.Kategori": 125000,
-        "C2 Blok-3.Kategori": 125000,
-        "C3 Blok-3.Kategori": 125000,
-        "En uygun bilet": 75000,
-        "Öğrenci": 75000
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
-    },
-    "bubilet:12090": {
-      "event": {
-        "source": "Bubilet",
-        "id": "12090",
-        "title": "Melis Fis Konseri",
-        "venue": "EKM Erciyes Kültür Merkezi",
-        "date": "2026-12-20T14:00:00Z",
-        "category": "Konser",
-        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/melis-fis--konseri",
-        "tiers": {
-          "1.Kategori - B1 Blok": 175000,
-          "1.Kategori - B2 Blok": 175000,
-          "1.Kategori - B3 Blok": 175000,
-          "2.Kategori - C1 Blok": 150000,
-          "2.Kategori - C2 Blok": 150000,
-          "2.Kategori - C3 Blok": 150000,
-          "3.Kategori - C1 Blok": 125000,
-          "3.Kategori - C2 Blok": 125000,
-          "3.Kategori - C3 Blok": 125000,
-          "4.Kategori - D1 Blok": 110000,
-          "4.Kategori - D2 Blok": 110000,
-          "4.Kategori - D3 Blok": 110000,
-          "5.Kategori - D1 Blok": 95000,
-          "5.Kategori - D2 Blok": 95000,
-          "5.Kategori - D3 Blok": 95000,
-          "6.Kategori - D1 Blok": 85000,
-          "6.Kategori - D3 Blok": 85000,
-          "Protokol - A1 Blok": 225000,
-          "Protokol - A2 Blok": 225000,
-          "Protokol - A3 Blok": 225000,
-          "VIP - A1 Blok": 250000,
-          "VIP - A3 Blok": 250000,
-          "VIP 1.Sıra - A1 Blok": 300000,
-          "VIP 1.Sıra - A2 Blok": 300000,
-          "VIP 1.Sıra - A3 Blok": 300000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "1.Kategori - B1 Blok": 175000,
-        "1.Kategori - B2 Blok": 175000,
-        "1.Kategori - B3 Blok": 175000,
-        "2.Kategori - C1 Blok": 150000,
-        "2.Kategori - C2 Blok": 150000,
-        "2.Kategori - C3 Blok": 150000,
-        "3.Kategori - C1 Blok": 125000,
-        "3.Kategori - C2 Blok": 125000,
-        "3.Kategori - C3 Blok": 125000,
-        "4.Kategori - D1 Blok": 110000,
-        "4.Kategori - D2 Blok": 110000,
-        "4.Kategori - D3 Blok": 110000,
-        "5.Kategori - D1 Blok": 95000,
-        "5.Kategori - D2 Blok": 95000,
-        "5.Kategori - D3 Blok": 95000,
-        "6.Kategori - D1 Blok": 85000,
-        "6.Kategori - D3 Blok": 85000,
-        "En uygun bilet": 85000,
-        "Protokol - A1 Blok": 225000,
-        "Protokol - A2 Blok": 225000,
-        "Protokol - A3 Blok": 225000,
-        "VIP - A1 Blok": 250000,
-        "VIP - A3 Blok": 250000,
-        "VIP 1.Sıra - A1 Blok": 300000,
-        "VIP 1.Sıra - A2 Blok": 300000,
-        "VIP 1.Sıra - A3 Blok": 300000
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
-    },
-    "bubilet:14446": {
-      "event": {
-        "source": "Bubilet",
-        "id": "14446",
-        "title": "Soner Arıca Konseri",
-        "venue": "Kayseri Kadir Has Gösteri ve Sanat Merkezi",
-        "date": "2026-12-12T17:30:00Z",
-        "category": "Konser",
-        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/soner-arica-konseri-",
-        "tiers": {
-          "Salon - 1.Kategori": 160000,
-          "Salon - 2.Kategori": 140000,
-          "Salon - 3.Kategori": 120000,
-          "Salon - 4.Kategori": 95000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "En uygun bilet": 95000,
-        "Salon - 1.Kategori": 160000,
-        "Salon - 2.Kategori": 140000,
-        "Salon - 3.Kategori": 120000,
-        "Salon - 4.Kategori": 95000
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
-    },
-    "bubilet:14662": {
-      "event": {
-        "source": "Bubilet",
-        "id": "14662",
-        "title": "Emir Can İğrek Konseri",
-        "venue": "EKM Erciyes Kültür Merkezi",
-        "date": "2026-12-04T18:00:00Z",
-        "category": "Konser",
-        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/emir-can-igrek-konseri-",
-        "tiers": {
-          "A1 Blok-Protokol": 500000,
-          "A1 Blok-VIP": 450000,
-          "A2 Blok-Protokol": 500000,
-          "A2 Blok-VIP": 450000,
-          "A3 Blok-Protokol": 500000,
-          "A3 Blok-VIP": 450000,
-          "B1 Blok-1. Kategori": 385000,
-          "B1 Blok-2. Kategori": 234500,
-          "B2 Blok-1. Kategori": 385000,
-          "B2 Blok-2. Kategori": 335000,
-          "B3 Blok-1. Kategori": 269500,
-          "B3 Blok-2. Kategori": 335000,
-          "C1 Blok-2. Kategori": 335000,
-          "C1 Blok-3. Kategori": 199500,
-          "C1 Blok-4. Kategori": 235000,
-          "C2 Blok-2. Kategori": 335000,
-          "C2 Blok-3. Kategori": 285000,
-          "C2 Blok-4. Kategori": 235000,
-          "C3 Blok-2. Kategori": 335000,
-          "C3 Blok-3. Kategori": 285000,
-          "C3 Blok-4. Kategori": 235000,
-          "D1 Balkon-5. Kategori": 195000,
-          "D1 Balkon-6. Kategori": 155000,
-          "D2 Balkon-5. Kategori": 195000,
-          "D2 Balkon-6. Kategori": 155000,
-          "D3 Balkon-5. Kategori": 136500,
-          "D3 Balkon-6. Kategori": 108500
-        },
-        "sold_out": false,
-        "list_prices": {
-          "B1 Blok-2. Kategori": 335000,
-          "B3 Blok-1. Kategori": 385000,
-          "C1 Blok-3. Kategori": 285000,
-          "D3 Balkon-5. Kategori": 195000,
-          "D3 Balkon-6. Kategori": 155000
-        }
-      },
-      "reference": {
-        "A1 Blok-Protokol": 500000,
-        "A1 Blok-VIP": 450000,
-        "A2 Blok-Protokol": 500000,
-        "A2 Blok-VIP": 450000,
-        "A3 Blok-Protokol": 500000,
-        "A3 Blok-VIP": 450000,
-        "B1 Blok-1. Kategori": 385000,
-        "B1 Blok-2. Kategori": 234500,
-        "B2 Blok-1. Kategori": 385000,
-        "B2 Blok-2. Kategori": 335000,
-        "B3 Blok-1. Kategori": 269500,
-        "B3 Blok-2. Kategori": 335000,
-        "C1 Blok-2. Kategori": 335000,
-        "C1 Blok-3. Kategori": 199500,
-        "C1 Blok-4. Kategori": 235000,
-        "C2 Blok-2. Kategori": 335000,
-        "C2 Blok-3. Kategori": 285000,
-        "C2 Blok-4. Kategori": 235000,
-        "C3 Blok-2. Kategori": 335000,
-        "C3 Blok-3. Kategori": 285000,
-        "C3 Blok-4. Kategori": 235000,
-        "D1 Balkon-5. Kategori": 195000,
-        "D1 Balkon-6. Kategori": 155000,
-        "D2 Balkon-5. Kategori": 195000,
-        "D2 Balkon-6. Kategori": 155000,
-        "D3 Balkon-5. Kategori": 136500,
-        "D3 Balkon-6. Kategori": 108500,
-        "En uygun bilet": 108500
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
-    },
-    "bubilet:16962": {
-      "event": {
-        "source": "Bubilet",
-        "id": "16962",
-        "title": "Yaver Coruk ''Muazzam''",
-        "venue": "Kayseri İl Kültür Sanat Merkezi",
-        "date": "2026-11-11T17:00:00Z",
-        "category": "Etkinlik",
-        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/yaver-coruk-stand-up-gosterisi-",
-        "tiers": {
-          "1. Kategori - Salon": 99000,
-          "2. Kategori - Balkon": 69000,
-          "2. Kategori - Salon": 69000,
-          "3. Kategori - Balkon": 39000
-        },
-        "sold_out": false,
-        "list_prices": {
-          "1. Kategori - Salon": 990000
-        }
-      },
-      "reference": {
-        "1. Kategori - Salon": 99000,
-        "2. Kategori - Balkon": 69000,
-        "2. Kategori - Salon": 69000,
-        "3. Kategori - Balkon": 39000
-      },
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-09-30"
-    },
-    "bubilet:20645": {
-      "event": {
-        "source": "Bubilet",
-        "id": "20645",
-        "title": "Kıraç'la Kökler Konseri",
-        "venue": "EKM Erciyes Kültür Merkezi",
-        "date": "2026-11-19T17:30:00Z",
-        "category": "Konser",
-        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/kiracla-kokler-konseri",
-        "tiers": {
-          "1. Kategori - B1 Blok": 195000,
-          "1. Kategori - B2 Blok": 195000,
-          "1. Kategori - B3 Blok": 195000,
-          "2. Kategori - C1 Blok": 185000,
-          "2. Kategori - C2 Blok": 185000,
-          "2. Kategori - C3 Blok": 185000,
-          "3. Kategori - C1 Blok": 165000,
-          "3. Kategori - C2 Blok": 165000,
-          "3. Kategori - C3 Blok": 165000,
-          "4. Kategori - D1 Blok": 150000,
-          "4. Kategori - D2 Blok": 150000,
-          "4. Kategori - D3 Blok": 150000,
-          "5. Kategori - D1 Blok": 135000,
-          "5. Kategori - D2 Blok": 135000,
-          "5. Kategori - D3 Blok": 135000,
-          "Protokol - A1 Blok": 275000,
-          "Protokol - A3 Blok": 275000,
-          "VIP - A1 Blok": 350000,
-          "VIP - A3 Blok": 350000,
-          "VIP 1. Sıra - A1 Blok": 400000,
-          "VIP 1. Sıra - A3 Blok": 400000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "1. Kategori - B1 Blok": 195000,
-        "1. Kategori - B2 Blok": 195000,
-        "1. Kategori - B3 Blok": 195000,
-        "2. Kategori - C1 Blok": 185000,
-        "2. Kategori - C2 Blok": 185000,
-        "2. Kategori - C3 Blok": 185000,
-        "3. Kategori - C1 Blok": 165000,
-        "3. Kategori - C2 Blok": 165000,
-        "3. Kategori - C3 Blok": 165000,
-        "4. Kategori - D1 Blok": 150000,
-        "4. Kategori - D2 Blok": 150000,
-        "4. Kategori - D3 Blok": 150000,
-        "5. Kategori - D1 Blok": 135000,
-        "5. Kategori - D2 Blok": 135000,
-        "5. Kategori - D3 Blok": 135000,
-        "En uygun bilet": 135000,
-        "Protokol - A1 Blok": 275000,
-        "Protokol - A3 Blok": 275000,
-        "VIP - A1 Blok": 350000,
-        "VIP - A3 Blok": 350000,
-        "VIP 1. Sıra - A1 Blok": 400000,
-        "VIP 1. Sıra - A3 Blok": 400000
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
-    },
-    "bubilet:219": {
-      "event": {
-        "source": "Bubilet",
-        "id": "219",
-        "title": "Gökhan Türkmen",
-        "venue": "EKM Erciyes Kültür Merkezi",
-        "date": "2026-11-14T17:30:00Z",
-        "category": "Etkinlik",
-        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/gokhan-turkmen-konseri",
-        "tiers": {
-          "1.Kategori - B1 Blok": 300000,
-          "1.Kategori - B2 Blok": 300000,
-          "1.Kategori - B3 Blok": 300000,
-          "2.Kategori - C1 Blok": 275000,
-          "2.Kategori - C2 Blok": 275000,
-          "2.Kategori - C3 Blok": 275000,
-          "3.Kategori - C1 Blok": 250000,
-          "3.Kategori - C2 Blok": 250000,
-          "3.Kategori - C3 Blok": 250000,
-          "4.Kategori - D1 Blok": 195000,
-          "4.Kategori - D2 Blok": 195000,
-          "4.Kategori - D3 Blok": 195000,
-          "5.Kategori - D1 Blok": 185000,
-          "5.Kategori - D2 Blok": 185000,
-          "5.Kategori - D3 Blok": 185000,
-          "Protokol - A1 Blok": 375000,
-          "Protokol - A2 Blok": 375000,
-          "Protokol - A3 Blok": 375000,
-          "VIP - A1 Blok": 450000,
-          "VIP - A3 Blok": 450000,
-          "VIP 1.Sıra - A1 Blok": 550000,
-          "VIP 1.Sıra - A3 Blok": 550000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "1.Kategori - B1 Blok": 300000,
-        "1.Kategori - B2 Blok": 300000,
-        "1.Kategori - B3 Blok": 300000,
-        "2.Kategori - C1 Blok": 275000,
-        "2.Kategori - C2 Blok": 275000,
-        "2.Kategori - C3 Blok": 275000,
-        "3.Kategori - C1 Blok": 250000,
-        "3.Kategori - C2 Blok": 250000,
-        "3.Kategori - C3 Blok": 250000,
-        "4.Kategori - D1 Blok": 195000,
-        "4.Kategori - D2 Blok": 195000,
-        "4.Kategori - D3 Blok": 195000,
-        "5.Kategori - D1 Blok": 185000,
-        "5.Kategori - D2 Blok": 185000,
-        "5.Kategori - D3 Blok": 185000,
-        "En uygun bilet": 185000,
-        "Protokol - A1 Blok": 375000,
-        "Protokol - A2 Blok": 375000,
-        "Protokol - A3 Blok": 375000,
-        "VIP - A1 Blok": 450000,
-        "VIP - A3 Blok": 450000,
-        "VIP 1.Sıra - A1 Blok": 550000,
-        "VIP 1.Sıra - A3 Blok": 550000
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
-    },
-    "bubilet:22316": {
-      "event": {
-        "source": "Bubilet",
-        "id": "22316",
-        "title": "Merve Özbey",
-        "venue": "EKM Erciyes Kültür Merkezi",
-        "date": "2026-10-31T17:30:00Z",
-        "category": "Etkinlik",
-        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/-merve-ozbey-",
-        "tiers": {
-          "1. Kategori - B2 Blok": 250000,
-          "2. Kategori - B1 Blok": 215000,
-          "2. Kategori - B3 Blok": 215000,
-          "3. Kategori - C2 Blok": 185000,
-          "4. Kategori - C1 Blok": 175000,
-          "4. Kategori - C3 Blok": 175000,
-          "5. Kategori - D1 Blok": 120000,
-          "5. Kategori - D2 Blok": 120000,
-          "5. Kategori - D3 Blok": 120000,
-          "Protokol - A2 Blok": 375000,
-          "VIP- A1 Blok": 325000,
-          "VIP- A3 Blok": 325000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "1. Kategori - B2 Blok": 250000,
-        "2. Kategori - B1 Blok": 215000,
-        "2. Kategori - B3 Blok": 215000,
-        "3. Kategori - C2 Blok": 185000,
-        "4. Kategori - C1 Blok": 175000,
-        "4. Kategori - C3 Blok": 175000,
-        "5. Kategori - D1 Blok": 120000,
-        "5. Kategori - D2 Blok": 120000,
-        "5. Kategori - D3 Blok": 120000,
-        "En uygun bilet": 120000,
-        "Protokol - A2 Blok": 375000,
-        "VIP- A1 Blok": 325000,
-        "VIP- A3 Blok": 325000
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
-    },
-    "bubilet:22734": {
-      "event": {
-        "source": "Bubilet",
-        "id": "22734",
-        "title": "Wegh Konseri",
-        "venue": "EKM Erciyes Kültür Merkezi",
-        "date": "2026-12-13T18:00:00Z",
-        "category": "Konser",
-        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/--wegh-konseri-",
-        "tiers": {
-          "Genel Giriş Bileti": 80000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "En uygun bilet": 80000,
-        "Genel Giriş Bileti": 80000
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
-    },
-    "bubilet:24413": {
-      "event": {
-        "source": "Bubilet",
-        "id": "24413",
-        "title": "Blok3",
-        "venue": "Kumsmall AVM Açık Otopark",
-        "date": "2026-10-17T18:00:00Z",
-        "category": "Etkinlik",
-        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/-blok3-",
-        "tiers": {
-          "1. Kategori-Saha İçi Ayakta-İndirimli Bilet": 190000,
-          "2. Kategori-Saha İçi Ayakta-İndirimli Bilet": 90000,
-          "VIP-Sahne Önü Ayakta-İndirimli Bilet": 290000
-        },
-        "sold_out": false,
-        "list_prices": {
-          "1. Kategori-Saha İçi Ayakta-İndirimli Bilet": 300000,
-          "2. Kategori-Saha İçi Ayakta-İndirimli Bilet": 150000,
-          "VIP-Sahne Önü Ayakta-İndirimli Bilet": 500000
-        }
-      },
-      "reference": {
-        "1. Kategori-Saha İçi Ayakta-İndirimli Bilet": 190000,
-        "2. Kategori-Saha İçi Ayakta-İndirimli Bilet": 90000,
-        "En uygun bilet": 90000,
-        "VIP-Sahne Önü Ayakta-İndirimli Bilet": 290000
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
-    },
-    "bubilet:3198": {
-      "event": {
-        "source": "Bubilet",
-        "id": "3198",
-        "title": "Karsu",
-        "venue": "EKM Erciyes Kültür Merkezi",
-        "date": "2026-11-27T18:00:00Z",
-        "category": "Etkinlik",
-        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/karsu",
-        "tiers": {
-          "A1 Blok - VIP": 425000,
-          "A3 Blok - VIP": 425000,
-          "B1 Blok - 1. Kategori": 365000,
-          "B1 Blok - 2. Kategori": 295000,
-          "B2 Blok - 1. Kategori": 365000,
-          "B2 Blok - 2. Kategori": 295000,
-          "B3 Blok - 1. Kategori": 365000,
-          "B3 Blok - 2. Kategori": 295000,
-          "C1 Blok - 2. Kategori": 295000,
-          "C1 Blok - 3. Kategori": 245000,
-          "C2 Blok - 2. Kategori": 295000,
-          "C2 Blok - 3. Kategori": 245000,
-          "C3 Blok - 2. Kategori": 295000,
-          "C3 Blok - 3. Kategori": 245000,
-          "D1 Blok - 4. Kategori": 195000,
-          "D1 Blok - 5. Kategori": 145000,
-          "D2 Blok - 4. Kategori": 195000,
-          "D3 Blok - 4. Kategori": 195000,
-          "D3 Blok - 5. Kategori": 145000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "A1 Blok - VIP": 425000,
-        "A3 Blok - VIP": 425000,
-        "B1 Blok - 1. Kategori": 365000,
-        "B1 Blok - 2. Kategori": 295000,
-        "B2 Blok - 1. Kategori": 365000,
-        "B2 Blok - 2. Kategori": 295000,
-        "B3 Blok - 1. Kategori": 365000,
-        "B3 Blok - 2. Kategori": 295000,
-        "C1 Blok - 2. Kategori": 295000,
-        "C1 Blok - 3. Kategori": 245000,
-        "C2 Blok - 2. Kategori": 295000,
-        "C2 Blok - 3. Kategori": 245000,
-        "C3 Blok - 2. Kategori": 295000,
-        "C3 Blok - 3. Kategori": 245000,
-        "D1 Blok - 4. Kategori": 195000,
-        "D1 Blok - 5. Kategori": 145000,
-        "D2 Blok - 4. Kategori": 195000,
-        "D3 Blok - 4. Kategori": 195000,
-        "D3 Blok - 5. Kategori": 145000,
-        "En uygun bilet": 145000
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
-    },
-    "bubilet:460": {
-      "event": {
-        "source": "Bubilet",
-        "id": "460",
-        "title": "Emre Aydın Konseri",
-        "venue": "EKM Erciyes Kültür Merkezi",
-        "date": "2026-11-28T17:30:00Z",
-        "category": "Konser",
-        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/emre-aydin-konseri",
-        "tiers": {
-          "A1 Blok-Protokol": 220000,
-          "A2 Blok-Protokol": 220000,
-          "A3 Blok-Protokol": 220000,
-          "B1 Blok-1. Kategori": 180000,
-          "B2 Blok-1. Kategori": 180000,
-          "B2 Blok-Protokol": 220000,
-          "C1 Blok-2. Kategori": 150000,
-          "C2 Blok-1. Kategori": 180000,
-          "C2 Blok-2. Kategori": 150000,
-          "C3 Blok-2. Kategori": 120000,
-          "D1 Blok-3. Kategori": 120000,
-          "D1 Blok-4. Kategori": 90000,
-          "D2 Blok-3. Kategori": 120000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "A1 Blok-Protokol": 220000,
-        "A2 Blok-Protokol": 220000,
-        "A3 Blok-Protokol": 220000,
-        "B1 Blok-1. Kategori": 180000,
-        "B2 Blok-1. Kategori": 180000,
-        "B2 Blok-Protokol": 220000,
-        "C1 Blok-2. Kategori": 150000,
-        "C2 Blok-1. Kategori": 180000,
-        "C2 Blok-2. Kategori": 150000,
-        "C3 Blok-2. Kategori": 120000,
-        "D1 Blok-3. Kategori": 120000,
-        "D1 Blok-4. Kategori": 90000,
-        "D2 Blok-3. Kategori": 120000,
-        "En uygun bilet": 90000
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
-    },
-    "bubilet:472": {
-      "event": {
-        "source": "Bubilet",
-        "id": "472",
-        "title": "Nurettin Rençber Konseri",
-        "venue": "Kayseri Kadir Has Gösteri ve Sanat Merkezi",
-        "date": "2026-10-24T17:00:00Z",
-        "category": "Konser",
-        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/nurettin-rencber-konseri",
-        "tiers": {
-          "1.Kategori": 150000,
-          "2.Kategori": 125000,
-          "3.Kategori": 100000,
-          "4.Kategori": 85000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "1.Kategori": 150000,
-        "2.Kategori": 125000,
-        "3.Kategori": 100000,
-        "4.Kategori": 85000,
-        "En uygun bilet": 85000
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
-    },
-    "bubilet:5044": {
-      "event": {
-        "source": "Bubilet",
-        "id": "5044",
-        "title": "Bagjan Oktyabr - Ruh Terapisi",
-        "venue": "EKM Erciyes Kültür Merkezi",
-        "date": "2026-10-20T17:00:00Z",
-        "category": "Etkinlik",
-        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/bagjan-oktabr-ruh-terapisi",
-        "tiers": {
-          "1. Kategori - A1 Blok": 245000,
-          "1. Kategori - A2 Blok": 245000,
-          "1. Kategori - B2 Blok": 245000,
-          "2. Kategori - A1 Blok": 210000,
-          "2. Kategori - B1 Blok": 210000,
-          "2. Kategori - B2 Blok": 210000,
-          "3. Kategori - B1 Blok": 180000,
-          "3. Kategori - C1 Blok": 180000,
-          "3. Kategori - C2 Blok": 180000,
-          "VIP - A1 Blok": 280000,
-          "VIP - A2 Blok": 280000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "1. Kategori - A1 Blok": 245000,
-        "1. Kategori - A2 Blok": 245000,
-        "1. Kategori - B2 Blok": 245000,
-        "2. Kategori - A1 Blok": 210000,
-        "2. Kategori - B1 Blok": 210000,
-        "2. Kategori - B2 Blok": 210000,
-        "3. Kategori - B1 Blok": 180000,
-        "3. Kategori - C1 Blok": 180000,
-        "3. Kategori - C2 Blok": 180000,
-        "En uygun bilet": 180000,
-        "VIP - A1 Blok": 280000,
-        "VIP - A2 Blok": 280000
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
-    },
-    "bubilet:536": {
-      "event": {
-        "source": "Bubilet",
-        "id": "536",
-        "title": "Lvbel C5 Konseri",
-        "venue": "EKM Erciyes Kültür Merkezi",
-        "date": "2026-10-16T18:00:00Z",
-        "category": "Konser",
-        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/lvbel-c5-konseri",
-        "tiers": {
-          "3. Avantajlı Dönem - Genel Giriş Bileti": 100000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "3. Avantajlı Dönem - Genel Giriş Bileti": 100000,
-        "En uygun bilet": 100000
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
-    },
-    "bubilet:5594": {
-      "event": {
-        "source": "Bubilet",
-        "id": "5594",
-        "title": "Nilüfer Konseri",
-        "venue": "EKM Erciyes Kültür Merkezi",
-        "date": "2026-11-25T17:30:00Z",
-        "category": "Konser",
-        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/nilufer-konseri",
-        "tiers": {
-          "1. Kategori - B1 Blok": 300000,
-          "1. Kategori - B2 Blok": 300000,
-          "1. Kategori - B3 Blok": 300000,
-          "2. Kategori - C1 Blok": 275000,
-          "2. Kategori - C2 Blok": 275000,
-          "2. Kategori - C3 Blok": 275000,
-          "3. Kategori - C1 Blok": 245000,
-          "3. Kategori - C2 Blok": 245000,
-          "3. Kategori - C3 Blok": 245000,
-          "4. Kategori - D1 Blok": 225000,
-          "4. Kategori - D2 Blok": 225000,
-          "4. Kategori - D3 Blok": 225000,
-          "5. Kategori - D1 Blok": 165000,
-          "5. Kategori - D2 Blok": 165000,
-          "5. Kategori - D3 Blok": 165000,
-          "6. Kategori - D1 Blok": 135000,
-          "Protokol - A1 Blok": 350000,
-          "Protokol - A2 Blok": 350000,
-          "Protokol - A3 Blok": 350000,
-          "VIP - A1 Blok": 375000,
-          "VIP - A3 Blok": 375000,
-          "VIP 1. Sıra - A1 Blok": 475000,
-          "VIP 1. Sıra - A2 Blok": 475000,
-          "VIP 1. Sıra - A3 Blok": 475000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "1. Kategori - B1 Blok": 300000,
-        "1. Kategori - B2 Blok": 300000,
-        "1. Kategori - B3 Blok": 300000,
-        "2. Kategori - C1 Blok": 275000,
-        "2. Kategori - C2 Blok": 275000,
-        "2. Kategori - C3 Blok": 275000,
-        "3. Kategori - C1 Blok": 245000,
-        "3. Kategori - C2 Blok": 245000,
-        "3. Kategori - C3 Blok": 245000,
-        "4. Kategori - D1 Blok": 225000,
-        "4. Kategori - D2 Blok": 225000,
-        "4. Kategori - D3 Blok": 225000,
-        "5. Kategori - D1 Blok": 165000,
-        "5. Kategori - D2 Blok": 165000,
-        "5. Kategori - D3 Blok": 165000,
-        "6. Kategori - D1 Blok": 135000,
-        "En uygun bilet": 135000,
-        "Protokol - A1 Blok": 350000,
-        "Protokol - A2 Blok": 350000,
-        "Protokol - A3 Blok": 350000,
-        "VIP - A1 Blok": 375000,
-        "VIP - A2 Blok": 375000,
-        "VIP - A3 Blok": 375000,
-        "VIP 1. Sıra - A1 Blok": 475000,
-        "VIP 1. Sıra - A2 Blok": 475000,
-        "VIP 1. Sıra - A3 Blok": 475000
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
-    },
-    "bubilet:6515": {
-      "event": {
-        "source": "Bubilet",
-        "id": "6515",
-        "title": "Buray",
-        "venue": "EKM Erciyes Kültür Merkezi",
-        "date": "2026-11-20T17:30:00Z",
-        "category": "Etkinlik",
-        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/buray",
-        "tiers": {
-          "1.Kategori - B1 Blok": 275000,
-          "1.Kategori - B2 Blok": 275000,
-          "1.Kategori - B3 Blok": 275000,
-          "2.Kategori - C1 Blok": 235000,
-          "2.Kategori - C2 Blok": 235000,
-          "2.Kategori - C3 Blok": 235000,
-          "3.Kategori - C1 Blok": 190000,
-          "3.Kategori - C2 Blok": 190000,
-          "3.Kategori - C3 Blok": 190000,
-          "4.Kategori - D1 Blok": 170000,
-          "4.Kategori - D2 Blok": 170000,
-          "4.Kategori - D3 Blok": 170000,
-          "5.Kategori - D1 Blok": 145000,
-          "5.Kategori - D2 Blok": 145000,
-          "5.Kategori - D3 Blok": 145000,
-          "6.Kategori - D1 Blok": 125000,
-          "Protokol - A1 Blok": 350000,
-          "Protokol - A2 Blok": 350000,
-          "Protokol - A3 Blok": 350000,
-          "VIP - A1 Blok": 375000,
-          "VIP - A2 Blok": 375000,
-          "VIP - A3 Blok": 375000,
-          "VIP 1.Sıra - A1 Blok": 500000,
-          "VIP 1.Sıra - A2 Blok": 500000,
-          "VIP 1.Sıra - A3 Blok": 500000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "1.Kategori - B1 Blok": 275000,
-        "1.Kategori - B2 Blok": 275000,
-        "1.Kategori - B3 Blok": 275000,
-        "2.Kategori - C1 Blok": 235000,
-        "2.Kategori - C2 Blok": 235000,
-        "2.Kategori - C3 Blok": 235000,
-        "3.Kategori - C1 Blok": 190000,
-        "3.Kategori - C2 Blok": 190000,
-        "3.Kategori - C3 Blok": 190000,
-        "4.Kategori - D1 Blok": 170000,
-        "4.Kategori - D2 Blok": 170000,
-        "4.Kategori - D3 Blok": 170000,
-        "5.Kategori - D1 Blok": 145000,
-        "5.Kategori - D2 Blok": 145000,
-        "5.Kategori - D3 Blok": 145000,
-        "6.Kategori - D1 Blok": 125000,
-        "En uygun bilet": 125000,
-        "Protokol - A1 Blok": 350000,
-        "Protokol - A2 Blok": 350000,
-        "Protokol - A3 Blok": 350000,
-        "VIP - A1 Blok": 375000,
-        "VIP - A2 Blok": 375000,
-        "VIP - A3 Blok": 375000,
-        "VIP 1.Sıra - A1 Blok": 500000,
-        "VIP 1.Sıra - A2 Blok": 500000,
-        "VIP 1.Sıra - A3 Blok": 500000
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
-    },
-    "bubilet:9544": {
-      "event": {
-        "source": "Bubilet",
-        "id": "9544",
-        "title": "Ceren Sagu Konseri",
-        "venue": "EKM Erciyes Kültür Merkezi",
-        "date": "2026-10-30T17:00:00Z",
-        "category": "Konser",
-        "url": "https://www.bubilet.com.tr/kayseri/etkinlik/ceren-sagu-konseri",
-        "tiers": {
-          "A1 Blok - 1.Kategori": 125000,
-          "A2 Blok - 1.Kategori": 125000,
-          "A3 Blok - 1.Kategori": 125000,
-          "B1 Blok - 1.Kategori": 125000,
-          "B1 Blok - 2.Kategori": 75000,
-          "B2 Blok - 1.Kategori": 125000,
-          "B2 Blok - 2.Kategori": 75000,
-          "B3 Blok - 1.Kategori": 125000,
-          "B3 Blok - 2.Kategori": 75000,
-          "C1 Blok - 2.Kategori": 75000,
-          "C2 Blok - 2.Kategori": 75000,
-          "C3 Blok - 2.Kategori": 75000,
-          "D1 Blok - 3.Kategori": 50000,
-          "D2 Blok - 3.Kategori": 50000,
-          "D3 Blok - 3.Kategori": 50000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "A1 Blok - 1.Kategori": 125000,
-        "A2 Blok - 1.Kategori": 125000,
-        "A3 Blok - 1.Kategori": 125000,
-        "B1 Blok - 1.Kategori": 125000,
-        "B1 Blok - 2.Kategori": 75000,
-        "B2 Blok - 1.Kategori": 125000,
-        "B2 Blok - 2.Kategori": 75000,
-        "B3 Blok - 1.Kategori": 125000,
-        "B3 Blok - 2.Kategori": 75000,
-        "C1 Blok - 2.Kategori": 75000,
-        "C2 Blok - 2.Kategori": 75000,
-        "C3 Blok - 2.Kategori": 75000,
-        "D1 Blok - 3.Kategori": 50000,
-        "D2 Blok - 3.Kategori": 50000,
-        "D3 Blok - 3.Kategori": 50000,
-        "En uygun bilet": 50000
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-09-30"
+      "last_seen": "2026-10-15"
     }
   },
   "initialized_sources": [
@@ -4141,7 +3201,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 67,
+      "consecutive_failures": 68,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -4149,7 +3209,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 53,
+      "last_count": 54,
       "last_error": null
     },
     "Biletix": {
