@@ -77,7 +77,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-13"
+      "last_seen": "2026-10-15"
     },
     "biletinial:agustos-parki-dt@2026-10-27T11:00": {
       "event": {
@@ -118,7 +118,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-13"
+      "last_seen": "2026-10-15"
     },
     "biletinial:agustos-parki-dt@2026-10-28T14:00": {
       "event": {
@@ -159,7 +159,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-13"
+      "last_seen": "2026-10-15"
     },
     "biletinial:agustos-parki-dt@2026-11-04T11:00": {
       "event": {
@@ -199,7 +199,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13"
+      "last_seen": "2026-10-15"
     },
     "biletinial:agustos-parki-dt@2026-11-08T14:00": {
       "event": {
@@ -239,7 +239,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-13"
+      "last_seen": "2026-10-15"
     },
     "biletinial:ask-ve-sifa@2026-11-15T19:30": {
       "event": {
@@ -417,6 +417,26 @@
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15"
     },
+    "biletinial:cizmeli-kedi-tebesir@2026-11-15T15:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "cizmeli-kedi-tebesir@2026-11-15T15:00",
+        "title": "Çizmeli Kedi",
+        "venue": "Melikgazi Belediyesi Kültür Merkezi",
+        "date": "2026-11-15T15:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/cizmeli-kedi-tebesir",
+        "tiers": {
+          "Tam": 25000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 25000
+      },
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15"
+    },
     "biletinial:cizmeli-kedi-tebesir@2026-11-15T18:00": {
       "event": {
         "source": "Biletinial",
@@ -447,7 +467,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Tam": 50000,
+          "Full Ticket": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
@@ -470,7 +490,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Tam": 50000,
+          "Full Ticket": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
@@ -513,7 +533,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Tam": 50000,
+          "Full Ticket": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
@@ -536,7 +556,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Tam": 50000,
+          "Full Ticket": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
@@ -1583,7 +1603,7 @@
         "En uygun bilet": 32900
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:mavi-dostlar@2026-10-24T19:00": {
       "event": {
@@ -1603,7 +1623,7 @@
         "En uygun bilet": 32900
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T20:00": {
       "event": {
@@ -1742,7 +1762,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:on-kisiydiler-dt@2026-10-23T20:00": {
       "event": {
@@ -1793,7 +1813,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T15:00": {
       "event": {
@@ -1844,7 +1864,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T20:00": {
       "event": {
@@ -1895,7 +1915,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:sesler-salih-bademci@2026-10-24T20:30": {
       "event": {
@@ -2104,10 +2124,8 @@
         "date": "2026-10-15T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/yanlis-pencere-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -2148,10 +2166,8 @@
         "date": "2026-10-16T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/yanlis-pencere-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -3260,7 +3276,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 71,
+      "consecutive_failures": 72,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -3268,7 +3284,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 57,
+      "last_count": 56,
       "last_error": null
     },
     "Biletix": {
