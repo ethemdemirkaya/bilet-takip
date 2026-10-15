@@ -130,11 +130,12 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
         "tiers": {
-          "En uygun bilet": 7001
+          "2. Kategori Çocuk Tam": 7000
         },
         "sold_out": false
       },
       "reference": {
+        "2. Kategori Çocuk Tam": 7000,
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
@@ -239,6 +240,26 @@
       },
       "first_seen": "2026-10-13",
       "last_seen": "2026-10-13"
+    },
+    "biletinial:ask-ve-sifa@2026-11-15T19:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "ask-ve-sifa@2026-11-15T19:30",
+        "title": "Aşk ve Şifa",
+        "venue": "Melikgazi Belediyesi Kültür Merkezi",
+        "date": "2026-11-15T19:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/ask-ve-sifa",
+        "tiers": {
+          "Tam": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 30000
+      },
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15"
     },
     "biletinial:barcelona-guitar-trio-dance@2026-10-27T21:00": {
       "event": {
@@ -376,6 +397,46 @@
       "first_seen": "2026-10-08",
       "last_seen": "2026-10-13"
     },
+    "biletinial:burnunu-kaybeden-palyaco-cocuk-oyunu@2026-11-15T13:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "burnunu-kaybeden-palyaco-cocuk-oyunu@2026-11-15T13:30",
+        "title": "Burnunu Kaybeden Palyaço",
+        "venue": "Melikgazi Belediyesi Kültür Merkezi",
+        "date": "2026-11-15T13:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/burnunu-kaybeden-palyaco-cocuk-oyunu",
+        "tiers": {
+          "Tam": 25000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 25000
+      },
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15"
+    },
+    "biletinial:cizmeli-kedi-tebesir@2026-11-15T18:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "cizmeli-kedi-tebesir@2026-11-15T18:00",
+        "title": "Çizmeli Kedi",
+        "venue": "Melikgazi Belediyesi Kültür Merkezi",
+        "date": "2026-11-15T18:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/cizmeli-kedi-tebesir",
+        "tiers": {
+          "En uygun bilet": 28000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 28000
+      },
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15"
+    },
     "biletinial:crazy-honey-circus@2026-10-17T13:00": {
       "event": {
         "source": "Biletinial",
@@ -386,7 +447,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Full Ticket": 50000,
+          "Tam": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
@@ -409,7 +470,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Full Ticket": 50000,
+          "Tam": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
@@ -452,7 +513,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Full Ticket": 50000,
+          "Tam": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
@@ -475,7 +536,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Full Ticket": 50000,
+          "Tam": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
@@ -538,7 +599,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Full Ticket": 50000,
+          "Tam": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
@@ -561,7 +622,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Full Ticket": 50000,
+          "Tam": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
@@ -604,7 +665,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Full Ticket": 50000,
+          "Tam": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
@@ -647,7 +708,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Full Ticket": 50000,
+          "Tam": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
@@ -1152,7 +1213,7 @@
         "En uygun bilet": 145000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T13:00": {
       "event": {
@@ -2043,8 +2104,10 @@
         "date": "2026-10-15T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/yanlis-pencere-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
       },
       "reference": {
         "En uygun bilet": 7001
@@ -2085,8 +2148,10 @@
         "date": "2026-10-16T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/yanlis-pencere-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
       },
       "reference": {
         "En uygun bilet": 7001
@@ -2392,24 +2457,24 @@
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5DTCJ/TURKIYE/tr",
         "tiers": {
-          "1. Kategori": 150000,
-          "2. Kategori": 140000,
+          "1. Kategori": 105000,
+          "2. Kategori": 98000,
           "3. Kategori": 91000,
-          "4. Kategori": 120000,
-          "5. Kategori": 110000,
-          "6. Kategori": 100000,
-          "Protokol": 175000
+          "4. Kategori": 84000,
+          "5. Kategori": 77000,
+          "6. Kategori": 70000,
+          "Protokol": 122500
         },
         "sold_out": false
       },
       "reference": {
-        "1. Kategori": 150000,
-        "2. Kategori": 140000,
+        "1. Kategori": 105000,
+        "2. Kategori": 98000,
         "3. Kategori": 91000,
-        "4. Kategori": 120000,
-        "5. Kategori": 110000,
-        "6. Kategori": 100000,
-        "Protokol": 175000
+        "4. Kategori": 84000,
+        "5. Kategori": 77000,
+        "6. Kategori": 70000,
+        "Protokol": 122500
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-15"
@@ -3169,19 +3234,19 @@
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5YS2H/TURKIYE/tr",
         "tiers": {
-          "1. Kategori": 225000,
-          "2. Kategori": 150000,
-          "3. Kategori": 125000,
-          "4. Kategori": 100000,
+          "1. Kategori": 163650,
+          "2. Kategori": 109095,
+          "3. Kategori": 90920,
+          "4. Kategori": 72730,
           "Öğrenci": 75000
         },
         "sold_out": false
       },
       "reference": {
-        "1. Kategori": 225000,
-        "2. Kategori": 150000,
-        "3. Kategori": 125000,
-        "4. Kategori": 100000,
+        "1. Kategori": 163650,
+        "2. Kategori": 109095,
+        "3. Kategori": 90920,
+        "4. Kategori": 72730,
         "Öğrenci": 75000
       },
       "first_seen": "2026-09-25",
@@ -3195,7 +3260,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 70,
+      "consecutive_failures": 71,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -3203,7 +3268,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 54,
+      "last_count": 57,
       "last_error": null
     },
     "Biletix": {
