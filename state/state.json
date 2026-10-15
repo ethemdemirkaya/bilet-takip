@@ -467,12 +467,13 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Full Ticket": 50000,
+          "Biletë e plotë": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
       },
       "reference": {
+        "Biletë e plotë": 50000,
         "Full Ticket": 50000,
         "Tam": 50000,
         "İndirimli Bilet": 30000
@@ -490,12 +491,13 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Full Ticket": 50000,
+          "Biletë e plotë": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
       },
       "reference": {
+        "Biletë e plotë": 50000,
         "Full Ticket": 50000,
         "Tam": 50000,
         "İndirimli Bilet": 30000
@@ -533,12 +535,13 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Full Ticket": 50000,
+          "Biletë e plotë": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
       },
       "reference": {
+        "Biletë e plotë": 50000,
         "Full Ticket": 50000,
         "Tam": 50000,
         "İndirimli Bilet": 30000
@@ -556,12 +559,13 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Full Ticket": 50000,
+          "Biletë e plotë": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
       },
       "reference": {
+        "Biletë e plotë": 50000,
         "Full Ticket": 50000,
         "Tam": 50000,
         "İndirimli Bilet": 30000
@@ -1235,6 +1239,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-15"
     },
+    "biletinial:konken-partisi@2026-11-08T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "konken-partisi@2026-11-08T23:00",
+        "title": "Konken Partisi",
+        "venue": "Kayseri Kadir Has Gösteri ve Sanat Merkezi",
+        "date": "2026-11-08T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/konken-partisi",
+        "tiers": {
+          "En uygun bilet": 100000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 100000
+      },
+      "first_seen": "2026-10-15",
+      "last_seen": "2026-10-15"
+    },
     "biletinial:kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T13:00": {
       "event": {
         "source": "Biletinial",
@@ -1313,7 +1337,7 @@
         "En uygun bilet": 40000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T19:00": {
       "event": {
@@ -1333,7 +1357,7 @@
         "En uygun bilet": 40000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-05T20:00": {
       "event": {
@@ -2142,8 +2166,15 @@
         "date": "2026-10-16T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/yanlis-pencere-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
+        },
+        "sold_out": false
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -2363,7 +2394,7 @@
         "En uygun bilet": 150000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletix:48S01": {
       "event": {
@@ -3276,7 +3307,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 72,
+      "consecutive_failures": 73,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -3290,7 +3321,7 @@
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 38,
+      "last_count": 37,
       "last_error": null
     }
   },
