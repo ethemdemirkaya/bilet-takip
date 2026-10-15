@@ -288,7 +288,7 @@
         "En uygun bilet": 98700
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-10-03"
+      "last_seen": "2026-10-15"
     },
     "biletinial:bu-hikaye-senden-uzun-osman@2026-10-15T20:30": {
       "event": {
@@ -386,12 +386,13 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Tam": 50000,
+          "Full Ticket": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
       },
       "reference": {
+        "Full Ticket": 50000,
         "Tam": 50000,
         "İndirimli Bilet": 30000
       },
@@ -408,12 +409,13 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Tam": 50000,
+          "Full Ticket": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
       },
       "reference": {
+        "Full Ticket": 50000,
         "Tam": 50000,
         "İndirimli Bilet": 30000
       },
@@ -450,12 +452,13 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Tam": 50000,
+          "Full Ticket": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
       },
       "reference": {
+        "Full Ticket": 50000,
         "Tam": 50000,
         "İndirimli Bilet": 30000
       },
@@ -472,12 +475,13 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Tam": 50000,
+          "Full Ticket": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
       },
       "reference": {
+        "Full Ticket": 50000,
         "Tam": 50000,
         "İndirimli Bilet": 30000
       },
@@ -534,12 +538,13 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Tam": 50000,
+          "Full Ticket": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
       },
       "reference": {
+        "Full Ticket": 50000,
         "Tam": 50000,
         "İndirimli Bilet": 30000
       },
@@ -556,12 +561,13 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Tam": 50000,
+          "Full Ticket": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
       },
       "reference": {
+        "Full Ticket": 50000,
         "Tam": 50000,
         "İndirimli Bilet": 30000
       },
@@ -598,12 +604,13 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Tam": 50000,
+          "Full Ticket": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
       },
       "reference": {
+        "Full Ticket": 50000,
         "Tam": 50000,
         "İndirimli Bilet": 30000
       },
@@ -640,12 +647,13 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
         "tiers": {
-          "Tam": 50000,
+          "Full Ticket": 50000,
           "İndirimli Bilet": 30000
         },
         "sold_out": false
       },
       "reference": {
+        "Full Ticket": 50000,
         "Tam": 50000,
         "İndirimli Bilet": 30000
       },
@@ -938,8 +946,8 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/fani-but-funny",
         "tiers": {
-          "Category 1": 100000,
-          "Category 2": 80000
+          "1. Kategori": 100000,
+          "2. Kategori": 80000
         },
         "sold_out": false
       },
@@ -982,7 +990,7 @@
         "category": "Konser",
         "url": "https://biletinial.com/tr-tr/muzik/grup-abdal-konseri-dtrpro",
         "tiers": {
-          "Full Ticket": 120000
+          "Tam": 120000
         },
         "sold_out": false
       },
@@ -2214,7 +2222,7 @@
         "Protokol Fiyat": 400000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-15"
     },
     "biletinial:yasar-jj@2026-11-22T22:00": {
       "event": {
@@ -3187,7 +3195,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 69,
+      "consecutive_failures": 70,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
