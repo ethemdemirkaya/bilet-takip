@@ -77,7 +77,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:agustos-parki-dt@2026-10-27T11:00": {
       "event": {
@@ -118,7 +118,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:agustos-parki-dt@2026-10-28T14:00": {
       "event": {
@@ -159,7 +159,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:agustos-parki-dt@2026-11-04T11:00": {
       "event": {
@@ -199,7 +199,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:agustos-parki-dt@2026-11-08T14:00": {
       "event": {
@@ -239,7 +239,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:ask-ve-sifa@2026-11-15T19:30": {
       "event": {
@@ -855,7 +855,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-16"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-30T20:00": {
       "event": {
@@ -895,7 +895,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-16"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T15:00": {
       "event": {
@@ -935,7 +935,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-16"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T20:00": {
       "event": {
@@ -975,7 +975,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-16"
     },
     "biletinial:fani-but-funny@2026-10-30T20:30": {
       "event": {
@@ -1049,16 +1049,14 @@
         "date": "2026-10-16T23:30:00+03:00",
         "category": "Konser",
         "url": "https://biletinial.com/tr-tr/muzik/grup-abdal-konseri-dtrpro",
-        "tiers": {
-          "En uygun bilet": 131500
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 131500
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:insan-kaynaklari@2026-10-31T20:00": {
       "event": {
@@ -1613,7 +1611,7 @@
         "En uygun bilet": 32900
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:mavi-dostlar@2026-10-24T19:00": {
       "event": {
@@ -1633,7 +1631,7 @@
         "En uygun bilet": 32900
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T20:00": {
       "event": {
@@ -2203,15 +2201,8 @@
         "date": "2026-10-17T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/yanlis-pencere-kayseri-dt",
-        "tiers": {
-          "1. Kategori Tam": 27000,
-          "1. Kategori İndirimli": 17500,
-          "2. Kategori Tam": 12000,
-          "2. Kategori İndirimli": 8000,
-          "Balkon Tam": 8000,
-          "İndirimli Balkon": 7000
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -3228,7 +3219,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 76,
+      "consecutive_failures": 77,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
