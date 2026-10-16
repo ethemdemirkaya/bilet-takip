@@ -1677,7 +1677,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:nazim@2026-11-21T18:00": {
       "event": {
@@ -2108,8 +2108,15 @@
         "date": "2026-10-16T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/yanlis-pencere-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
+        },
+        "sold_out": false
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -3217,7 +3224,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 78,
+      "consecutive_failures": 79,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -3231,7 +3238,7 @@
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 37,
+      "last_count": 36,
       "last_error": null
     }
   },
