@@ -3228,7 +3228,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 75,
+      "consecutive_failures": 76,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -3248,5 +3248,5 @@
   },
   "telegram_offset": 770271864,
   "min_drop_percent_override": null,
-  "keepalive": "2026-10-09T02:43:00.292709424Z"
+  "keepalive": "2026-10-16T03:56:13.782158858Z"
 }
