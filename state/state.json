@@ -289,7 +289,7 @@
         "VIP": 300000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:barcelona-guitar-trio-dance@2026-10-28T00:00": {
       "event": {
@@ -795,7 +795,7 @@
         "En uygun bilet": 10001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:dt-mutfak-leenanein-guzellik-kralicesi@2026-11-03T21:00": {
       "event": {
@@ -1193,6 +1193,38 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-15"
     },
+    "biletinial:konken-partisi@2026-11-08T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "konken-partisi@2026-11-08T20:00",
+        "title": "Konken Partisi",
+        "venue": "Kayseri Kadir Has Gösteri ve Sanat Merkezi",
+        "date": "2026-11-08T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/konken-partisi",
+        "tiers": {
+          "1. Kategori": 150000,
+          "2. Kategori": 140000,
+          "3. Kategori": 130000,
+          "4. Kategori": 120000,
+          "5. Kategori": 110000,
+          "6. Kategori": 100000,
+          "Protokol Fiyat": 175000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori": 150000,
+        "2. Kategori": 140000,
+        "3. Kategori": 130000,
+        "4. Kategori": 120000,
+        "5. Kategori": 110000,
+        "6. Kategori": 100000,
+        "Protokol Fiyat": 175000
+      },
+      "first_seen": "2026-10-16",
+      "last_seen": "2026-10-16"
+    },
     "biletinial:konken-partisi@2026-11-08T23:00": {
       "event": {
         "source": "Biletinial",
@@ -1231,7 +1263,7 @@
         "Tam": 40000
       },
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T14:30": {
       "event": {
@@ -1251,7 +1283,7 @@
         "Tam": 40000
       },
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T16:00": {
       "event": {
@@ -1669,7 +1701,7 @@
         "2. Kategori": 60000
       },
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:nazim@2026-11-21T21:00": {
       "event": {
@@ -1740,7 +1772,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:on-kisiydiler-dt@2026-10-23T20:00": {
       "event": {
@@ -1791,7 +1823,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T15:00": {
       "event": {
@@ -1842,7 +1874,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T20:00": {
       "event": {
@@ -1893,7 +1925,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:sesler-salih-bademci@2026-10-24T20:30": {
       "event": {
@@ -1923,7 +1955,7 @@
         "Category 4": 100000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:sesler-salih-bademci@2026-10-24T23:30": {
       "event": {
@@ -1963,7 +1995,7 @@
         "Tam": 30000
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:tirat-gecesi@2026-10-18T22:00": {
       "event": {
@@ -3196,7 +3228,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 74,
+      "consecutive_failures": 75,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
