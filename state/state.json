@@ -2159,15 +2159,8 @@
         "date": "2026-10-17T15:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/yanlis-pencere-kayseri-dt",
-        "tiers": {
-          "1. Kategori Tam": 27000,
-          "1. Kategori İndirimli": 17500,
-          "2. Kategori Tam": 12000,
-          "2. Kategori İndirimli": 8000,
-          "Balkon Tam": 8000,
-          "İndirimli Balkon": 7000
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -2210,8 +2203,15 @@
         "date": "2026-10-17T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/yanlis-pencere-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
+        },
+        "sold_out": false
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -2390,13 +2390,7 @@
         "date": "2026-12-19T17:30:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5ADBV/TURKIYE/tr",
-        "tiers": {
-          "1. Kategori": 170000,
-          "2. Kategori": 140000,
-          "3. Kategori": 110000,
-          "4. Kategori": 80000,
-          "Protokol": 200000
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -2677,6 +2671,32 @@
         "Protokol": 456000
       },
       "first_seen": "2026-10-06",
+      "last_seen": "2026-10-16"
+    },
+    "biletix:5KS04": {
+      "event": {
+        "source": "Biletix",
+        "id": "5KS04",
+        "title": "Şahane Pazar Sahnede",
+        "venue": "Kadir Has Gösteri ve Sanat Merkezi",
+        "date": "2026-11-15T17:30:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5KS04/TURKIYE/tr",
+        "tiers": {
+          "1. Kategori": 250000,
+          "2. Kategori": 200000,
+          "3. Kategori": 150000,
+          "4. Kategori": 125000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori": 250000,
+        "2. Kategori": 200000,
+        "3. Kategori": 150000,
+        "4. Kategori": 125000
+      },
+      "first_seen": "2026-10-16",
       "last_seen": "2026-10-16"
     },
     "biletix:5LWI0": {
@@ -3224,7 +3244,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 79,
+      "consecutive_failures": 80,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -3232,13 +3252,13 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 56,
+      "last_count": 54,
       "last_error": null
     },
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 36,
+      "last_count": 37,
       "last_error": null
     }
   },
