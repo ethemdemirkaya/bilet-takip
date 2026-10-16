@@ -40,7 +40,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:agustos-parki-dt@2026-10-18T14:00": {
       "event": {
@@ -1019,7 +1019,7 @@
         "En uygun bilet": 80000
       },
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:grup-abdal-konseri-dtrpro@2026-10-16T20:30": {
       "event": {
@@ -1099,7 +1099,7 @@
         "En uygun bilet": 44800
       },
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:ister-soyle-ister-dinle@2026-10-16T19:00": {
       "event": {
@@ -1381,7 +1381,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-16"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-06T20:00": {
       "event": {
@@ -1421,7 +1421,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-16"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T15:00": {
       "event": {
@@ -1461,7 +1461,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-16"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T20:00": {
       "event": {
@@ -1501,7 +1501,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-14"
+      "last_seen": "2026-10-16"
     },
     "biletinial:lumera-trio-sezen-aksu-sarkilari@2026-10-23T20:00": {
       "event": {
@@ -2097,7 +2097,7 @@
         "En uygun bilet": 140000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-16T20:00": {
       "event": {
@@ -2132,14 +2132,16 @@
         "date": "2026-10-16T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/yanlis-pencere-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-17T15:00": {
       "event": {
@@ -2190,7 +2192,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-17T20:00": {
       "event": {
@@ -2225,16 +2227,14 @@
         "date": "2026-10-17T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/yanlis-pencere-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-16"
     },
     "biletinial:yasar-jj@2026-11-22T19:00": {
       "event": {
@@ -3145,8 +3145,6 @@
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5YHE1/TURKIYE/tr",
         "tiers": {
-          "1. Kategori": 87500,
-          "2. Kategori": 70000,
           "3. Kategori": 55000,
           "4. Kategori": 37500
         },
@@ -3219,7 +3217,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 77,
+      "consecutive_failures": 78,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
