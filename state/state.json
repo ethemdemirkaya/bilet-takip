@@ -878,12 +878,23 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
         "tiers": {
-          "En uygun bilet": 7001
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 7001
+        "1. Kategori Tam": 27000,
+        "1. Kategori İndirimli": 17500,
+        "2. Kategori Tam": 12000,
+        "2. Kategori İndirimli": 8000,
+        "Balkon Tam": 8000,
+        "En uygun bilet": 7001,
+        "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-17"
@@ -998,8 +1009,8 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/fani-but-funny",
         "tiers": {
-          "1. Kategori": 100000,
-          "2. Kategori": 80000
+          "Category 1": 100000,
+          "Category 2": 80000
         },
         "sold_out": false
       },
@@ -1565,7 +1576,7 @@
         "En uygun bilet": 32900
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     "biletinial:mavi-dostlar@2026-10-24T19:00": {
       "event": {
@@ -1585,7 +1596,7 @@
         "En uygun bilet": 32900
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T20:00": {
       "event": {
@@ -1724,7 +1735,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     "biletinial:on-kisiydiler-dt@2026-10-23T20:00": {
       "event": {
@@ -1775,7 +1786,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T15:00": {
       "event": {
@@ -1826,7 +1837,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T20:00": {
       "event": {
@@ -1877,7 +1888,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     "biletinial:sesler-salih-bademci@2026-10-24T20:30": {
       "event": {
@@ -2197,7 +2208,7 @@
         "category": "Konser",
         "url": "https://biletinial.com/tr-tr/muzik/yuksek-sadakat",
         "tiers": {
-          "Biletë e plotë": 150000
+          "Tam": 150000
         },
         "sold_out": false
       },
@@ -3126,7 +3137,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 84,
+      "consecutive_failures": 85,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -3134,7 +3145,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 54,
+      "last_count": 51,
       "last_error": null
     },
     "Biletix": {
