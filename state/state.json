@@ -1143,7 +1143,7 @@
         "En uygun bilet": 145000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-17"
     },
     "biletinial:konken-partisi@2026-11-08T20:00": {
       "event": {
@@ -1501,7 +1501,7 @@
         "En uygun bilet": 82200
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-15"
+      "last_seen": "2026-10-17"
     },
     "biletinial:mavi-dostlar@2026-10-24T14:00": {
       "event": {
@@ -2086,8 +2086,10 @@
         "date": "2026-10-17T18:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/yanlis-pencere-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
       },
       "reference": {
         "En uygun bilet": 7001
@@ -2195,11 +2197,12 @@
         "category": "Konser",
         "url": "https://biletinial.com/tr-tr/muzik/yuksek-sadakat",
         "tiers": {
-          "Tam": 150000
+          "Biletë e plotë": 150000
         },
         "sold_out": false
       },
       "reference": {
+        "Biletë e plotë": 150000,
         "Tam": 150000
       },
       "first_seen": "2026-09-25",
@@ -3123,7 +3126,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 83,
+      "consecutive_failures": 84,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
