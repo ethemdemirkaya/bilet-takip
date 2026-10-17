@@ -40,7 +40,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     "biletinial:agustos-parki-dt@2026-10-18T14:00": {
       "event": {
@@ -309,7 +309,7 @@
         "En uygun bilet": 98700
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     "biletinial:burak-king-jj@2026-10-28T20:00": {
       "event": {
@@ -1666,6 +1666,28 @@
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-17"
     },
+    "biletinial:nazim@2026-11-21T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "nazim@2026-11-21T20:00",
+        "title": "Nazım",
+        "venue": "Tekne Sahne Kültür Merkezi",
+        "date": "2026-11-21T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/nazim",
+        "tiers": {
+          "1. Kategori": 75000,
+          "2. Kategori": 60000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori": 75000,
+        "2. Kategori": 60000
+      },
+      "first_seen": "2026-10-17",
+      "last_seen": "2026-10-17"
+    },
     "biletinial:nazim@2026-11-21T21:00": {
       "event": {
         "source": "Biletinial",
@@ -2062,7 +2084,7 @@
         "En uygun bilet": 140000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-16"
+      "last_seen": "2026-10-17"
     },
     "biletinial:yanlis-pencere-kayseri-dt@2026-10-17T15:00": {
       "event": {
@@ -3137,7 +3159,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 86,
+      "consecutive_failures": 87,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -3151,7 +3173,7 @@
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 37,
+      "last_count": 36,
       "last_error": null
     }
   },
