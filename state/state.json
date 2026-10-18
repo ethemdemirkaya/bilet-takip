@@ -40,44 +40,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-18"
-    },
-    "biletinial:agustos-parki-dt@2026-10-18T14:00": {
-      "event": {
-        "source": "Biletinial",
-        "id": "agustos-parki-dt@2026-10-18T14:00",
-        "title": "AĞUSTOS PARKI (Filozof Çocuklar Projesi)",
-        "venue": "Kayseri DT Fuaye Sahnesi",
-        "date": "2026-10-18T14:00:00+03:00",
-        "category": "Tiyatro",
-        "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
-        "tiers": {},
-        "sold_out": true
-      },
-      "reference": {
-        "2. Kategori Çocuk Tam": 7000,
-        "En uygun bilet": 7001
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
-    },
-    "biletinial:agustos-parki-dt@2026-10-18T17:00": {
-      "event": {
-        "source": "Biletinial",
-        "id": "agustos-parki-dt@2026-10-18T17:00",
-        "title": "AĞUSTOS PARKI (Filozof Çocuklar Projesi)",
-        "venue": "Kayseri DT Fuaye Sahnesi",
-        "date": "2026-10-18T17:00:00+03:00",
-        "category": "Tiyatro",
-        "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
-        "tiers": {},
-        "sold_out": true
-      },
-      "reference": {
-        "En uygun bilet": 7001
-      },
-      "first_seen": "2026-10-08",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:agustos-parki-dt@2026-10-27T11:00": {
       "event": {
@@ -98,7 +61,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:agustos-parki-dt@2026-10-27T14:00": {
       "event": {
@@ -139,7 +102,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:agustos-parki-dt@2026-10-28T17:00": {
       "event": {
@@ -179,7 +142,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:agustos-parki-dt@2026-11-04T14:00": {
       "event": {
@@ -219,7 +182,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:agustos-parki-dt@2026-11-08T17:00": {
       "event": {
@@ -259,7 +222,7 @@
         "Tam": 30000
       },
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:barcelona-guitar-trio-dance@2026-10-27T21:00": {
       "event": {
@@ -289,7 +252,7 @@
         "VIP": 300000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:barcelona-guitar-trio-dance@2026-10-28T00:00": {
       "event": {
@@ -331,7 +294,7 @@
         "Sahne Önü": 150000
       },
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:burak-king-jj@2026-10-28T23:00": {
       "event": {
@@ -371,7 +334,7 @@
         "Tam": 25000
       },
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:cizmeli-kedi-tebesir@2026-11-15T15:00": {
       "event": {
@@ -391,7 +354,7 @@
         "Tam": 25000
       },
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:cizmeli-kedi-tebesir@2026-11-15T18:00": {
       "event": {
@@ -412,178 +375,6 @@
       },
       "first_seen": "2026-10-15",
       "last_seen": "2026-10-15"
-    },
-    "biletinial:crazy-honey-circus@2026-10-18T12:00": {
-      "event": {
-        "source": "Biletinial",
-        "id": "crazy-honey-circus@2026-10-18T12:00",
-        "title": "Crazy Honey Circus",
-        "venue": "Talas Spor Salonu",
-        "date": "2026-10-18T12:00:00+03:00",
-        "category": "Tiyatro",
-        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
-        "tiers": {
-          "Tam": 50000,
-          "İndirimli Bilet": 30000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "Full Ticket": 50000,
-        "Tam": 50000,
-        "İndirimli Bilet": 30000
-      },
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-18"
-    },
-    "biletinial:crazy-honey-circus@2026-10-18T14:00": {
-      "event": {
-        "source": "Biletinial",
-        "id": "crazy-honey-circus@2026-10-18T14:00",
-        "title": "Crazy Honey Circus",
-        "venue": "Talas Spor Salonu",
-        "date": "2026-10-18T14:00:00+03:00",
-        "category": "Tiyatro",
-        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
-        "tiers": {
-          "Tam": 50000,
-          "İndirimli Bilet": 30000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "Full Ticket": 50000,
-        "Tam": 50000,
-        "İndirimli Bilet": 30000
-      },
-      "first_seen": "2026-10-10",
-      "last_seen": "2026-10-18"
-    },
-    "biletinial:crazy-honey-circus@2026-10-18T15:00": {
-      "event": {
-        "source": "Biletinial",
-        "id": "crazy-honey-circus@2026-10-18T15:00",
-        "title": "Crazy Honey Circus",
-        "venue": "Talas Spor Salonu",
-        "date": "2026-10-18T15:00:00+03:00",
-        "category": "Tiyatro",
-        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
-        "tiers": {
-          "En uygun bilet": 33600
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "En uygun bilet": 33600
-      },
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-18"
-    },
-    "biletinial:crazy-honey-circus@2026-10-18T16:00": {
-      "event": {
-        "source": "Biletinial",
-        "id": "crazy-honey-circus@2026-10-18T16:00",
-        "title": "Crazy Honey Circus",
-        "venue": "Talas Spor Salonu",
-        "date": "2026-10-18T16:00:00+03:00",
-        "category": "Tiyatro",
-        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
-        "tiers": {
-          "Tam": 50000,
-          "İndirimli Bilet": 30000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "Full Ticket": 50000,
-        "Tam": 50000,
-        "İndirimli Bilet": 30000
-      },
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-18"
-    },
-    "biletinial:crazy-honey-circus@2026-10-18T17:00": {
-      "event": {
-        "source": "Biletinial",
-        "id": "crazy-honey-circus@2026-10-18T17:00",
-        "title": "Crazy Honey Circus",
-        "venue": "Talas Spor Salonu",
-        "date": "2026-10-18T17:00:00+03:00",
-        "category": "Tiyatro",
-        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
-        "tiers": {
-          "En uygun bilet": 33600
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "En uygun bilet": 33600
-      },
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-18"
-    },
-    "biletinial:crazy-honey-circus@2026-10-18T18:00": {
-      "event": {
-        "source": "Biletinial",
-        "id": "crazy-honey-circus@2026-10-18T18:00",
-        "title": "Crazy Honey Circus",
-        "venue": "Talas Spor Salonu",
-        "date": "2026-10-18T18:00:00+03:00",
-        "category": "Tiyatro",
-        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
-        "tiers": {
-          "Tam": 50000,
-          "İndirimli Bilet": 30000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "Full Ticket": 50000,
-        "Tam": 50000,
-        "İndirimli Bilet": 30000
-      },
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-18"
-    },
-    "biletinial:crazy-honey-circus@2026-10-18T19:00": {
-      "event": {
-        "source": "Biletinial",
-        "id": "crazy-honey-circus@2026-10-18T19:00",
-        "title": "Crazy Honey Circus",
-        "venue": "Talas Spor Salonu",
-        "date": "2026-10-18T19:00:00+03:00",
-        "category": "Tiyatro",
-        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
-        "tiers": {
-          "En uygun bilet": 33600
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "En uygun bilet": 33600
-      },
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-18"
-    },
-    "biletinial:crazy-honey-circus@2026-10-18T21:00": {
-      "event": {
-        "source": "Biletinial",
-        "id": "crazy-honey-circus@2026-10-18T21:00",
-        "title": "Crazy Honey Circus",
-        "venue": "Talas Spor Salonu",
-        "date": "2026-10-18T21:00:00+03:00",
-        "category": "Tiyatro",
-        "url": "https://biletinial.com/tr-tr/tiyatro/crazy-honey-circus",
-        "tiers": {
-          "En uygun bilet": 33600
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "En uygun bilet": 33600
-      },
-      "first_seen": "2026-10-11",
-      "last_seen": "2026-10-18"
     },
     "biletinial:deli-bayrami-cat-kapi@2026-10-24T19:00": {
       "event": {
@@ -623,7 +414,7 @@
         "Tam": 35000
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:dt-mutfak-leenanein-guzellik-kralicesi@2026-11-03T18:00": {
       "event": {
@@ -643,7 +434,7 @@
         "En uygun bilet": 10001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:dt-mutfak-leenanein-guzellik-kralicesi@2026-11-03T21:00": {
       "event": {
@@ -714,7 +505,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-30T20:00": {
       "event": {
@@ -765,7 +556,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T15:00": {
       "event": {
@@ -816,7 +607,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T20:00": {
       "event": {
@@ -867,7 +658,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:fani-but-funny@2026-10-30T20:30": {
       "event": {
@@ -911,7 +702,7 @@
         "En uygun bilet": 80000
       },
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:insan-kaynaklari@2026-10-31T20:00": {
       "event": {
@@ -934,7 +725,7 @@
         "Salon": 50000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:insan-kaynaklari@2026-10-31T23:00": {
       "event": {
@@ -974,7 +765,7 @@
         "Tam": 40000
       },
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:karsu-konseri@2026-11-27T21:00": {
       "event": {
@@ -1004,7 +795,7 @@
         "VIP": 425000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:karsu-konseri@2026-11-28T00:00": {
       "event": {
@@ -1076,107 +867,7 @@
         "En uygun bilet": 100000
       },
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-18"
-    },
-    "biletinial:kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T13:00": {
-      "event": {
-        "source": "Biletinial",
-        "id": "kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T13:00",
-        "title": "Uluslararası Hologram Sirki",
-        "venue": "Kayseri Kadir Has Kongre Merkezi",
-        "date": "2026-10-18T13:00:00+03:00",
-        "category": "Tiyatro",
-        "url": "https://biletinial.com/tr-tr/tiyatro/kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri",
-        "tiers": {
-          "Tam": 40000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "Tam": 40000
-      },
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-18"
-    },
-    "biletinial:kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T14:30": {
-      "event": {
-        "source": "Biletinial",
-        "id": "kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T14:30",
-        "title": "Uluslararası Hologram Sirki",
-        "venue": "Kayseri Kadir Has Kongre Merkezi",
-        "date": "2026-10-18T14:30:00+03:00",
-        "category": "Tiyatro",
-        "url": "https://biletinial.com/tr-tr/tiyatro/kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri",
-        "tiers": {
-          "Tam": 40000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "Tam": 40000
-      },
-      "first_seen": "2026-10-03",
-      "last_seen": "2026-10-18"
-    },
-    "biletinial:kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T16:00": {
-      "event": {
-        "source": "Biletinial",
-        "id": "kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T16:00",
-        "title": "Uluslararası Hologram Sirki",
-        "venue": "Kayseri Kadir Has Kongre Merkezi",
-        "date": "2026-10-18T16:00:00+03:00",
-        "category": "Tiyatro",
-        "url": "https://biletinial.com/tr-tr/tiyatro/kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri",
-        "tiers": {
-          "Tam": 40000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "Tam": 40000
-      },
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-18"
-    },
-    "biletinial:kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T17:30": {
-      "event": {
-        "source": "Biletinial",
-        "id": "kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T17:30",
-        "title": "Uluslararası Hologram Sirki",
-        "venue": "Kayseri Kadir Has Kongre Merkezi",
-        "date": "2026-10-18T17:30:00+03:00",
-        "category": "Tiyatro",
-        "url": "https://biletinial.com/tr-tr/tiyatro/kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri",
-        "tiers": {
-          "En uygun bilet": 40000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "En uygun bilet": 40000
-      },
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-10-18"
-    },
-    "biletinial:kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T19:00": {
-      "event": {
-        "source": "Biletinial",
-        "id": "kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri@2026-10-18T19:00",
-        "title": "Uluslararası Hologram Sirki",
-        "venue": "Kayseri Kadir Has Kongre Merkezi",
-        "date": "2026-10-18T19:00:00+03:00",
-        "category": "Tiyatro",
-        "url": "https://biletinial.com/tr-tr/tiyatro/kucuk-hanimlar-kucuk-beyler-dijital-dunya-kesifleri",
-        "tiers": {
-          "En uygun bilet": 40000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "En uygun bilet": 40000
-      },
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-05T20:00": {
       "event": {
@@ -1196,7 +887,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-05T23:00": {
       "event": {
@@ -1236,7 +927,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-06T23:00": {
       "event": {
@@ -1276,7 +967,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T18:00": {
       "event": {
@@ -1316,7 +1007,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T23:00": {
       "event": {
@@ -1382,7 +1073,7 @@
         "En uygun bilet": 82200
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:mavi-dostlar@2026-10-24T14:00": {
       "event": {
@@ -1404,7 +1095,7 @@
         "2. Kategori": 30000
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:mavi-dostlar@2026-10-24T16:00": {
       "event": {
@@ -1426,7 +1117,7 @@
         "2. Kategori": 30000
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:mavi-dostlar@2026-10-24T17:00": {
       "event": {
@@ -1492,7 +1183,7 @@
         "Öğrenci": 50000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T23:00": {
       "event": {
@@ -1534,7 +1225,7 @@
         "2. Kategori": 60000
       },
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:nazim@2026-11-21T20:00": {
       "event": {
@@ -1556,7 +1247,7 @@
         "2. Kategori": 60000
       },
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:nazim@2026-11-21T21:00": {
       "event": {
@@ -1627,7 +1318,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:on-kisiydiler-dt@2026-10-22T23:00": {
       "event": {
@@ -1678,7 +1369,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:on-kisiydiler-dt@2026-10-23T23:00": {
       "event": {
@@ -1729,7 +1420,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T18:00": {
       "event": {
@@ -1780,7 +1471,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T23:00": {
       "event": {
@@ -1826,7 +1517,7 @@
         "4. Kategori": 125000
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:sesler-salih-bademci@2026-10-24T20:30": {
       "event": {
@@ -1856,7 +1547,7 @@
         "Category 4": 100000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:sesler-salih-bademci@2026-10-24T23:30": {
       "event": {
@@ -1878,46 +1569,6 @@
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-18"
     },
-    "biletinial:tirat-gecesi@2026-10-18T19:00": {
-      "event": {
-        "source": "Biletinial",
-        "id": "tirat-gecesi@2026-10-18T19:00",
-        "title": "Tirat Gecesi",
-        "venue": "Çat Kapı Sahne",
-        "date": "2026-10-18T19:00:00+03:00",
-        "category": "Tiyatro",
-        "url": "https://biletinial.com/tr-tr/tiyatro/tirat-gecesi",
-        "tiers": {
-          "Tam": 30000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "Tam": 30000
-      },
-      "first_seen": "2026-09-27",
-      "last_seen": "2026-10-18"
-    },
-    "biletinial:tirat-gecesi@2026-10-18T22:00": {
-      "event": {
-        "source": "Biletinial",
-        "id": "tirat-gecesi@2026-10-18T22:00",
-        "title": "Tirat Gecesi",
-        "venue": "Çat Kapı Sahne",
-        "date": "2026-10-18T22:00:00+03:00",
-        "category": "Tiyatro",
-        "url": "https://biletinial.com/tr-tr/tiyatro/tirat-gecesi",
-        "tiers": {
-          "En uygun bilet": 33600
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "En uygun bilet": 33600
-      },
-      "first_seen": "2026-10-07",
-      "last_seen": "2026-10-16"
-    },
     "biletinial:tirat-gecesi@2026-10-24T19:00": {
       "event": {
         "source": "Biletinial",
@@ -1936,7 +1587,7 @@
         "Tam": 30000
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:ucurtmanin-kuyrugu@2026-10-24T19:00": {
       "event": {
@@ -2000,7 +1651,7 @@
         "Category 2": 125000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:ustun-dokmen-ile-kucuk-seyler@2026-11-19T23:00": {
       "event": {
@@ -2048,7 +1699,7 @@
         "Protokol Fiyat": 400000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:yasar-jj@2026-11-22T22:00": {
       "event": {
@@ -2089,7 +1740,7 @@
         "Tam": 150000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:yuksek-sadakat@2026-11-20T23:30": {
       "event": {
@@ -2131,7 +1782,7 @@
         "Sahne Önü": 171000
       },
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5ADBS": {
       "event": {
@@ -2159,7 +1810,7 @@
         "Protokol": 200000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5ADBV": {
       "event": {
@@ -2187,7 +1838,7 @@
         "Protokol": 200000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5CHME": {
       "event": {
@@ -2207,7 +1858,7 @@
         "1. Kategori": 45800
       },
       "first_seen": "2026-10-05",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5DTCJ": {
       "event": {
@@ -2239,7 +1890,7 @@
         "Protokol": 122500
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5FKDU": {
       "event": {
@@ -2261,7 +1912,7 @@
         "Öğrenci": 35000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5FKDV": {
       "event": {
@@ -2283,7 +1934,7 @@
         "Öğrenci": 35000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5FKDW": {
       "event": {
@@ -2305,7 +1956,7 @@
         "Öğrenci": 35000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5FKDY": {
       "event": {
@@ -2327,7 +1978,7 @@
         "Öğrenci": 35000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5FKDZ": {
       "event": {
@@ -2349,27 +2000,7 @@
         "Öğrenci": 35000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
-    },
-    "biletix:5GX04": {
-      "event": {
-        "source": "Biletix",
-        "id": "5GX04",
-        "title": "Uluslararası Hologram Sirki",
-        "venue": "Kadir Has Gösteri ve Sanat Merkezi",
-        "date": "2026-10-18T10:00:00Z",
-        "category": "Çocuk/Aile",
-        "url": "https://www.biletix.com/etkinlik/5GX04/TURKIYE/tr",
-        "tiers": {
-          "Genel Giriş": 40000
-        },
-        "sold_out": false
-      },
-      "reference": {
-        "Genel Giriş": 40000
-      },
-      "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5JBB1": {
       "event": {
@@ -2399,7 +2030,7 @@
         "VIP": 325000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5JBCH": {
       "event": {
@@ -2429,7 +2060,7 @@
         "VIP": 250000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5JDH8": {
       "event": {
@@ -2457,7 +2088,7 @@
         "Protokol": 456000
       },
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5KS04": {
       "event": {
@@ -2483,7 +2114,7 @@
         "4. Kategori": 125000
       },
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5LWI0": {
       "event": {
@@ -2505,7 +2136,7 @@
         "2. Kategori": 114400
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5MO27": {
       "event": {
@@ -2537,7 +2168,7 @@
         "7. Kategori": 85000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5MO30": {
       "event": {
@@ -2563,7 +2194,7 @@
         "4. Kategori": 85000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5MS28": {
       "event": {
@@ -2579,7 +2210,7 @@
       },
       "reference": {},
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5MY27": {
       "event": {
@@ -2609,7 +2240,7 @@
         "VIP": 425000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5ON61": {
       "event": {
@@ -2633,7 +2264,7 @@
         "3. Kategori": 99000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5OSAP": {
       "event": {
@@ -2653,7 +2284,7 @@
         "Genel Giriş": 80000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5OSAX": {
       "event": {
@@ -2675,7 +2306,7 @@
         "Sahne Önü": 150000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5OSB3": {
       "event": {
@@ -2697,7 +2328,7 @@
         "VIP": 150000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5R233": {
       "event": {
@@ -2717,7 +2348,7 @@
         "Genel Giriş": 25200
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5R234": {
       "event": {
@@ -2737,7 +2368,7 @@
         "Genel Giriş": 25200
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5R235": {
       "event": {
@@ -2757,7 +2388,7 @@
         "Genel Giriş": 25200
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5R236": {
       "event": {
@@ -2777,7 +2408,7 @@
         "Genel Giriş": 25200
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5R237": {
       "event": {
@@ -2797,7 +2428,7 @@
         "Genel Giriş": 25200
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5R238": {
       "event": {
@@ -2817,7 +2448,7 @@
         "Genel Giriş": 25200
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5SONA": {
       "event": {
@@ -2845,7 +2476,7 @@
         "VIP": 237280
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5T9O4": {
       "event": {
@@ -2873,7 +2504,7 @@
         "Protokol": 385000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5WEMD": {
       "event": {
@@ -2900,7 +2531,7 @@
         "VIP": 280000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5YHE0": {
       "event": {
@@ -2925,7 +2556,7 @@
         "VIP Bistro": 700000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5YHE2": {
       "event": {
@@ -2947,7 +2578,7 @@
         "VIP": 150000
       },
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletix:5YS2H": {
       "event": {
@@ -2975,7 +2606,7 @@
         "Öğrenci": 75000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     }
   },
   "initialized_sources": [
@@ -2985,7 +2616,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 95,
+      "consecutive_failures": 96,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
