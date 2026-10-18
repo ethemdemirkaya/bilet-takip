@@ -954,7 +954,7 @@
         "En uygun bilet": 44800
       },
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-17"
+      "last_seen": "2026-10-18"
     },
     "biletinial:ister-soyle-ister-dinle@2026-10-26T19:00": {
       "event": {
@@ -1802,6 +1802,32 @@
       "first_seen": "2026-10-01",
       "last_seen": "2026-10-18"
     },
+    "biletinial:sahane-pazar-sahnede@2026-11-15T20:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "sahane-pazar-sahnede@2026-11-15T20:30",
+        "title": "Şahane Pazar Sahnede",
+        "venue": "Kayseri Kadir Has Kongre Merkezi",
+        "date": "2026-11-15T20:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/sahane-pazar-sahnede",
+        "tiers": {
+          "1. Kategori": 250000,
+          "2. Kategori": 200000,
+          "3. Kategori": 150000,
+          "4. Kategori": 125000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori": 250000,
+        "2. Kategori": 200000,
+        "3. Kategori": 150000,
+        "4. Kategori": 125000
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18"
+    },
     "biletinial:sesler-salih-bademci@2026-10-24T20:30": {
       "event": {
         "source": "Biletinial",
@@ -2221,7 +2247,7 @@
         "id": "5FKDU",
         "title": "Garip Bir Rüya",
         "venue": "Çat Kapı Sahne",
-        "date": "2026-10-18T13:00:00Z",
+        "date": "2026-10-25T13:00:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5FKDU/TURKIYE/tr",
         "tiers": {
@@ -2243,7 +2269,7 @@
         "id": "5FKDV",
         "title": "Küçük Kadınlar",
         "venue": "Çat Kapı Sahne",
-        "date": "2026-10-18T15:00:00Z",
+        "date": "2026-10-25T15:00:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5FKDV/TURKIYE/tr",
         "tiers": {
@@ -2265,7 +2291,7 @@
         "id": "5FKDW",
         "title": "Kuyucaklı Yusuf Muazzez",
         "venue": "Çat Kapı Sahne",
-        "date": "2026-10-18T14:00:00Z",
+        "date": "2026-10-25T14:00:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5FKDW/TURKIYE/tr",
         "tiers": {
@@ -2287,7 +2313,7 @@
         "id": "5FKDY",
         "title": "Lady Macbeth",
         "venue": "Çat Kapı Sahne",
-        "date": "2026-10-18T16:30:00Z",
+        "date": "2026-10-25T16:30:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5FKDY/TURKIYE/tr",
         "tiers": {
@@ -2309,7 +2335,7 @@
         "id": "5FKDZ",
         "title": "İçimizdeki Şeytan",
         "venue": "Çat Kapı Sahne",
-        "date": "2026-10-18T17:30:00Z",
+        "date": "2026-10-25T17:30:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5FKDZ/TURKIYE/tr",
         "tiers": {
@@ -2959,7 +2985,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 92,
+      "consecutive_failures": 93,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2967,13 +2993,13 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 46,
+      "last_count": 42,
       "last_error": null
     },
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 36,
+      "last_count": 35,
       "last_error": null
     }
   },
