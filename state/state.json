@@ -40,7 +40,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-17"
+      "last_seen": "2026-10-18"
     },
     "biletinial:agustos-parki-dt@2026-10-18T14:00": {
       "event": {
@@ -614,10 +614,14 @@
         "date": "2026-10-31T19:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/deli-bayrami-cat-kapi",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "Tam": 35000
+        },
+        "sold_out": false
       },
-      "reference": {},
+      "reference": {
+        "Tam": 35000
+      },
       "first_seen": "2026-10-13",
       "last_seen": "2026-10-18"
     },
@@ -773,12 +777,23 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
         "tiers": {
-          "En uygun bilet": 7001
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 7001
+        "1. Kategori Tam": 27000,
+        "1. Kategori İndirimli": 17500,
+        "2. Kategori Tam": 12000,
+        "2. Kategori İndirimli": 8000,
+        "Balkon Tam": 8000,
+        "En uygun bilet": 7001,
+        "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-18"
@@ -813,12 +828,23 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
         "tiers": {
-          "En uygun bilet": 7001
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 7001
+        "1. Kategori Tam": 27000,
+        "1. Kategori İndirimli": 17500,
+        "2. Kategori Tam": 12000,
+        "2. Kategori İndirimli": 8000,
+        "Balkon Tam": 8000,
+        "En uygun bilet": 7001,
+        "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-18"
@@ -1865,6 +1891,26 @@
       },
       "first_seen": "2026-10-07",
       "last_seen": "2026-10-16"
+    },
+    "biletinial:tirat-gecesi@2026-10-24T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "tirat-gecesi@2026-10-24T19:00",
+        "title": "Tirat Gecesi",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-24T19:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/tirat-gecesi",
+        "tiers": {
+          "Tam": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Tam": 30000
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18"
     },
     "biletinial:ucurtmanin-kuyrugu@2026-10-24T19:00": {
       "event": {
@@ -2913,7 +2959,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 91,
+      "consecutive_failures": 92,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2921,7 +2967,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 49,
+      "last_count": 46,
       "last_error": null
     },
     "Biletix": {
