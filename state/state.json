@@ -351,7 +351,7 @@
         "En uygun bilet": 85500
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-13"
+      "last_seen": "2026-10-18"
     },
     "biletinial:burnunu-kaybeden-palyaco-cocuk-oyunu@2026-11-15T13:30": {
       "event": {
@@ -1030,7 +1030,7 @@
         "Protokol Fiyat": 175000
       },
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-17"
+      "last_seen": "2026-10-18"
     },
     "biletinial:konken-partisi@2026-11-08T23:00": {
       "event": {
@@ -1420,7 +1420,7 @@
         "En uygun bilet": 32900
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-17"
+      "last_seen": "2026-10-18"
     },
     "biletinial:mavi-dostlar@2026-10-24T19:00": {
       "event": {
@@ -1440,7 +1440,7 @@
         "En uygun bilet": 32900
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-17"
+      "last_seen": "2026-10-18"
     },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T20:00": {
       "event": {
@@ -1601,7 +1601,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-17"
+      "last_seen": "2026-10-18"
     },
     "biletinial:on-kisiydiler-dt@2026-10-22T23:00": {
       "event": {
@@ -1652,7 +1652,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-17"
+      "last_seen": "2026-10-18"
     },
     "biletinial:on-kisiydiler-dt@2026-10-23T23:00": {
       "event": {
@@ -1703,7 +1703,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-17"
+      "last_seen": "2026-10-18"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T18:00": {
       "event": {
@@ -1754,7 +1754,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-17"
+      "last_seen": "2026-10-18"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T23:00": {
       "event": {
@@ -2913,7 +2913,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 90,
+      "consecutive_failures": 91,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
