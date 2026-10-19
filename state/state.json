@@ -496,10 +496,8 @@
         "date": "2026-10-29T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -642,10 +640,8 @@
         "date": "2026-10-31T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -900,7 +896,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-06T20:00": {
       "event": {
@@ -940,7 +936,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T15:00": {
       "event": {
@@ -980,7 +976,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T20:00": {
       "event": {
@@ -1020,7 +1016,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:lumera-trio-sezen-aksu-sarkilari@2026-10-23T20:00": {
       "event": {
@@ -1324,7 +1320,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:on-kisiydiler-dt@2026-10-23T20:00": {
       "event": {
@@ -1366,16 +1362,14 @@
         "date": "2026-10-23T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T15:00": {
       "event": {
@@ -1417,16 +1411,14 @@
         "date": "2026-10-24T18:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T20:00": {
       "event": {
@@ -1468,16 +1460,14 @@
         "date": "2026-10-24T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:sahane-pazar-sahnede@2026-11-15T20:30": {
       "event": {
@@ -1503,6 +1493,26 @@
         "4. Kategori": 125000
       },
       "first_seen": "2026-10-18",
+      "last_seen": "2026-10-19"
+    },
+    "biletinial:sahane-pazar-sahnede@2026-11-15T23:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "sahane-pazar-sahnede@2026-11-15T23:30",
+        "title": "Şahane Pazar Sahnede",
+        "venue": "Kayseri Kadir Has Kongre Merkezi",
+        "date": "2026-11-15T23:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/sahane-pazar-sahnede",
+        "tiers": {
+          "En uygun bilet": 125000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 125000
+      },
+      "first_seen": "2026-10-19",
       "last_seen": "2026-10-19"
     },
     "biletinial:sesler-salih-bademci@2026-10-24T20:30": {
@@ -2448,8 +2458,6 @@
         "tiers": {
           "1. Kategori": 181825,
           "2. Kategori": 109095,
-          "4. Kategori": 81170,
-          "Protokol": 270000,
           "VIP": 237280
         },
         "sold_out": false
@@ -2602,7 +2610,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 99,
+      "consecutive_failures": 100,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
