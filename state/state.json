@@ -272,7 +272,7 @@
         "En uygun bilet": 98700
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-10-17"
+      "last_seen": "2026-10-19"
     },
     "biletinial:burak-king-jj@2026-10-28T20:00": {
       "event": {
@@ -454,7 +454,7 @@
         "En uygun bilet": 10001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-29T20:00": {
       "event": {
@@ -465,8 +465,15 @@
         "date": "2026-10-29T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
+        },
+        "sold_out": false
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -611,15 +618,8 @@
         "date": "2026-10-31T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "1. Kategori Tam": 27000,
-          "1. Kategori İndirimli": 17500,
-          "2. Kategori Tam": 12000,
-          "2. Kategori İndirimli": 8000,
-          "Balkon Tam": 8000,
-          "İndirimli Balkon": 7000
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -738,7 +738,7 @@
         "En uygun bilet": 44800
       },
       "first_seen": "2026-10-02",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:ister-soyle-ister-dinle@2026-10-26T19:00": {
       "event": {
@@ -1196,7 +1196,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-17"
+      "last_seen": "2026-10-19"
     },
     "biletinial:nazim@2026-11-21T18:00": {
       "event": {
@@ -1291,15 +1291,8 @@
         "date": "2026-10-22T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
-        "tiers": {
-          "1. Kategori Tam": 27000,
-          "1. Kategori İndirimli": 17500,
-          "2. Kategori Tam": 12000,
-          "2. Kategori İndirimli": 8000,
-          "Balkon Tam": 8000,
-          "İndirimli Balkon": 7000
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -1393,8 +1386,15 @@
         "date": "2026-10-24T15:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "1. Kategori Tam": 27000,
+          "1. Kategori İndirimli": 17500,
+          "2. Kategori Tam": 12000,
+          "2. Kategori İndirimli": 8000,
+          "Balkon Tam": 8000,
+          "İndirimli Balkon": 7000
+        },
+        "sold_out": false
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -1553,7 +1553,7 @@
         "En uygun bilet": 100000
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:tirat-gecesi@2026-10-24T19:00": {
       "event": {
@@ -2602,7 +2602,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 98,
+      "consecutive_failures": 99,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
