@@ -545,10 +545,8 @@
         "date": "2026-10-30T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -596,10 +594,8 @@
         "date": "2026-10-31T18:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -1311,10 +1307,8 @@
         "date": "2026-10-22T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -1479,18 +1473,22 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/sahane-pazar-sahnede",
         "tiers": {
-          "1. Kategori": 250000,
-          "2. Kategori": 200000,
-          "3. Kategori": 150000,
-          "4. Kategori": 125000
+          "1. Kategori": 300000,
+          "2. Kategori": 250000,
+          "3. Kategori": 200000,
+          "4. Kategori": 150000,
+          "5. Kategori": 125000,
+          "6. Kategori": 90000
         },
         "sold_out": false
       },
       "reference": {
-        "1. Kategori": 250000,
-        "2. Kategori": 200000,
-        "3. Kategori": 150000,
-        "4. Kategori": 125000
+        "1. Kategori": 300000,
+        "2. Kategori": 250000,
+        "3. Kategori": 200000,
+        "4. Kategori": 150000,
+        "5. Kategori": 125000,
+        "6. Kategori": 90000
       },
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-19"
@@ -1667,7 +1665,7 @@
         "En uygun bilet": 140000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-19"
     },
     "biletinial:yasar-jj@2026-11-22T19:00": {
       "event": {
@@ -2610,7 +2608,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 100,
+      "consecutive_failures": 101,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
