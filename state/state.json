@@ -1531,12 +1531,12 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/tirat-gecesi",
         "tiers": {
-          "Tam": 30000
+          "Tam": 35000
         },
         "sold_out": false
       },
       "reference": {
-        "Tam": 30000
+        "Tam": 35000
       },
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-20"
@@ -2412,18 +2412,18 @@
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5SONA/TURKIYE/tr",
         "tiers": {
-          "1. Kategori": 181825,
-          "2. Kategori": 109095,
-          "VIP": 237280
+          "1. Kategori": 159100,
+          "2. Kategori": 95460,
+          "VIP": 184560
         },
         "sold_out": false
       },
       "reference": {
-        "1. Kategori": 181825,
-        "2. Kategori": 109095,
+        "1. Kategori": 159100,
+        "2. Kategori": 95460,
         "4. Kategori": 81170,
         "Protokol": 270000,
-        "VIP": 237280
+        "VIP": 184560
       },
       "first_seen": "2026-10-01",
       "last_seen": "2026-10-20"
@@ -2566,7 +2566,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 103,
+      "consecutive_failures": 104,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2574,7 +2574,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 41,
+      "last_count": 40,
       "last_error": null
     },
     "Biletix": {
