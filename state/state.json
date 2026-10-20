@@ -40,7 +40,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:agustos-parki-dt@2026-10-27T11:00": {
       "event": {
@@ -336,6 +336,26 @@
         "Tam": 25000
       },
       "first_seen": "2026-10-15",
+      "last_seen": "2026-10-20"
+    },
+    "biletinial:cem-adrian-konseri@2026-12-26T20:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "cem-adrian-konseri@2026-12-26T20:30",
+        "title": "Cem Adrian Konseri",
+        "venue": "Kayseri Erciyes Kültür Merkezi",
+        "date": "2026-12-26T20:30:00+03:00",
+        "category": "Konser",
+        "url": "https://biletinial.com/tr-tr/muzik/cem-adrian-konseri",
+        "tiers": {
+          "En uygun bilet": 86500
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 86500
+      },
+      "first_seen": "2026-10-20",
       "last_seen": "2026-10-20"
     },
     "biletinial:cizmeli-kedi-tebesir@2026-11-15T15:00": {
@@ -792,13 +812,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/konken-partisi",
         "tiers": {
-          "1. Kategori": 150000,
-          "2. Kategori": 140000,
-          "3. Kategori": 130000,
-          "4. Kategori": 120000,
-          "5. Kategori": 110000,
-          "6. Kategori": 100000,
-          "Protokol Fiyat": 175000
+          "En uygun bilet": 100000
         },
         "sold_out": false
       },
@@ -809,10 +823,11 @@
         "4. Kategori": 120000,
         "5. Kategori": 110000,
         "6. Kategori": 100000,
+        "En uygun bilet": 100000,
         "Protokol Fiyat": 175000
       },
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:konken-partisi@2026-11-08T23:00": {
       "event": {
@@ -1036,7 +1051,7 @@
         "En uygun bilet": 82200
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:mavi-dostlar@2026-10-24T14:00": {
       "event": {
@@ -1475,10 +1490,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/sesler-salih-bademci",
         "tiers": {
-          "1. Kategori": 225000,
-          "2. Kategori": 150000,
-          "3. Kategori": 125000,
-          "4. Kategori": 100000
+          "En uygun bilet": 100000
         },
         "sold_out": false
       },
@@ -1490,7 +1502,8 @@
         "Category 1": 225000,
         "Category 2": 150000,
         "Category 3": 125000,
-        "Category 4": 100000
+        "Category 4": 100000,
+        "En uygun bilet": 100000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-20"
@@ -2559,7 +2572,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 105,
+      "consecutive_failures": 106,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2567,13 +2580,13 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 40,
+      "last_count": 41,
       "last_error": null
     },
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 35,
+      "last_count": 34,
       "last_error": null
     }
   },
