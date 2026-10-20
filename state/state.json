@@ -10,14 +10,14 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/afacan-kardesler-oyun-kuruyor",
         "tiers": {
-          "1. Kategori": 60000,
-          "2. Kategori": 50000
+          "En uygun bilet": 56000
         },
         "sold_out": false
       },
       "reference": {
         "1. Kategori": 60000,
-        "2. Kategori": 50000
+        "2. Kategori": 50000,
+        "En uygun bilet": 56000
       },
       "first_seen": "2026-10-10",
       "last_seen": "2026-10-20"
@@ -52,7 +52,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
         "tiers": {
-          "2. Kategori Çocuk Tam": 7000
+          "En uygun bilet": 7001
         },
         "sold_out": false
       },
@@ -93,7 +93,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
         "tiers": {
-          "2. Kategori Çocuk Tam": 7000
+          "En uygun bilet": 7001
         },
         "sold_out": false
       },
@@ -214,11 +214,12 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ask-ve-sifa",
         "tiers": {
-          "Tam": 30000
+          "En uygun bilet": 33600
         },
         "sold_out": false
       },
       "reference": {
+        "En uygun bilet": 33600,
         "Tam": 30000
       },
       "first_seen": "2026-10-15",
@@ -284,12 +285,12 @@
         "category": "Konser",
         "url": "https://biletinial.com/tr-tr/muzik/burak-king-jj",
         "tiers": {
-          "Genel Giriş Bileti": 75000,
-          "Sahne Önü": 150000
+          "En uygun bilet": 85500
         },
         "sold_out": false
       },
       "reference": {
+        "En uygun bilet": 85500,
         "Genel Giriş Bileti": 75000,
         "Sahne Önü": 150000
       },
@@ -326,11 +327,12 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/burnunu-kaybeden-palyaco-cocuk-oyunu",
         "tiers": {
-          "Tam": 25000
+          "En uygun bilet": 28000
         },
         "sold_out": false
       },
       "reference": {
+        "En uygun bilet": 28000,
         "Tam": 25000
       },
       "first_seen": "2026-10-15",
@@ -346,11 +348,12 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/cizmeli-kedi-tebesir",
         "tiers": {
-          "Tam": 25000
+          "En uygun bilet": 28000
         },
         "sold_out": false
       },
       "reference": {
+        "En uygun bilet": 28000,
         "Tam": 25000
       },
       "first_seen": "2026-10-15",
@@ -406,11 +409,12 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/deli-bayrami-cat-kapi",
         "tiers": {
-          "Tam": 35000
+          "En uygun bilet": 35000
         },
         "sold_out": false
       },
       "reference": {
+        "En uygun bilet": 35000,
         "Tam": 35000
       },
       "first_seen": "2026-10-13",
@@ -634,8 +638,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/fani-but-funny",
         "tiers": {
-          "1. Kategori": 100000,
-          "2. Kategori": 80000
+          "En uygun bilet": 80000
         },
         "sold_out": false
       },
@@ -643,7 +646,8 @@
         "1. Kategori": 100000,
         "2. Kategori": 80000,
         "Category 1": 100000,
-        "Category 2": 80000
+        "Category 2": 80000,
+        "En uygun bilet": 80000
       },
       "first_seen": "2026-09-27",
       "last_seen": "2026-10-20"
@@ -678,14 +682,14 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/insan-kaynaklari",
         "tiers": {
-          "Balkon": 40000,
-          "Salon": 50000
+          "En uygun bilet": 44800
         },
         "sold_out": false
       },
       "reference": {
         "Balcony": 40000,
         "Balkon": 40000,
+        "En uygun bilet": 44800,
         "Salon": 50000
       },
       "first_seen": "2026-09-25",
@@ -721,11 +725,12 @@
         "category": "Konser",
         "url": "https://biletinial.com/tr-tr/muzik/ister-soyle-ister-dinle",
         "tiers": {
-          "Tam": 40000
+          "En uygun bilet": 40000
         },
         "sold_out": false
       },
       "reference": {
+        "En uygun bilet": 40000,
         "Tam": 40000
       },
       "first_seen": "2026-10-14",
@@ -741,12 +746,7 @@
         "category": "Konser",
         "url": "https://biletinial.com/tr-tr/muzik/karsu-konseri",
         "tiers": {
-          "1. Kategori": 365000,
-          "2. Kategori": 295000,
-          "3. Kategori": 245000,
-          "4. Kategori": 195000,
-          "5. Kategori": 145000,
-          "VIP": 425000
+          "En uygun bilet": 145000
         },
         "sold_out": false
       },
@@ -756,6 +756,7 @@
         "3. Kategori": 245000,
         "4. Kategori": 195000,
         "5. Kategori": 145000,
+        "En uygun bilet": 145000,
         "VIP": 425000
       },
       "first_seen": "2026-09-25",
@@ -1003,10 +1004,7 @@
         "category": "Konser",
         "url": "https://biletinial.com/tr-tr/muzik/lumera-trio-sezen-aksu-sarkilari",
         "tiers": {
-          "1. Kategori": 150000,
-          "2. Kategori": 120000,
-          "3. Kategori": 90000,
-          "4. Kategori": 75000
+          "En uygun bilet": 82200
         },
         "sold_out": false
       },
@@ -1014,7 +1012,8 @@
         "1. Kategori": 150000,
         "2. Kategori": 120000,
         "3. Kategori": 90000,
-        "4. Kategori": 75000
+        "4. Kategori": 75000,
+        "En uygun bilet": 82200
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-20"
@@ -1049,14 +1048,14 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/mavi-dostlar",
         "tiers": {
-          "1. Kategori": 40000,
-          "2. Kategori": 30000
+          "En uygun bilet": 32900
         },
         "sold_out": false
       },
       "reference": {
         "1. Kategori": 40000,
-        "2. Kategori": 30000
+        "2. Kategori": 30000,
+        "En uygun bilet": 32900
       },
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-20"
@@ -1071,14 +1070,14 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/mavi-dostlar",
         "tiers": {
-          "1. Kategori": 40000,
-          "2. Kategori": 30000
+          "En uygun bilet": 32900
         },
         "sold_out": false
       },
       "reference": {
         "1. Kategori": 40000,
-        "2. Kategori": 30000
+        "2. Kategori": 30000,
+        "En uygun bilet": 32900
       },
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-20"
@@ -1133,9 +1132,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/memleket-kumasi-sunay-akin",
         "tiers": {
-          "1. Kategori": 90000,
-          "2. Kategori": 70000,
-          "Öğrenci": 50000
+          "En uygun bilet": 56000
         },
         "sold_out": false
       },
@@ -1144,6 +1141,7 @@
         "2. Kategori": 70000,
         "Category 1": 90000,
         "Category 2": 70000,
+        "En uygun bilet": 56000,
         "Öğrenci": 50000
       },
       "first_seen": "2026-09-25",
@@ -1179,14 +1177,14 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/nazim",
         "tiers": {
-          "1. Kategori": 75000,
-          "2. Kategori": 60000
+          "En uygun bilet": 67200
         },
         "sold_out": false
       },
       "reference": {
         "1. Kategori": 75000,
-        "2. Kategori": 60000
+        "2. Kategori": 60000,
+        "En uygun bilet": 67200
       },
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-20"
@@ -1201,14 +1199,14 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/nazim",
         "tiers": {
-          "1. Kategori": 75000,
-          "2. Kategori": 60000
+          "En uygun bilet": 67200
         },
         "sold_out": false
       },
       "reference": {
         "1. Kategori": 75000,
-        "2. Kategori": 60000
+        "2. Kategori": 60000,
+        "En uygun bilet": 67200
       },
       "first_seen": "2026-10-17",
       "last_seen": "2026-10-20"
@@ -1431,12 +1429,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/sahane-pazar-sahnede",
         "tiers": {
-          "1. Kategori": 300000,
-          "2. Kategori": 250000,
-          "3. Kategori": 200000,
-          "4. Kategori": 150000,
-          "5. Kategori": 125000,
-          "6. Kategori": 90000
+          "En uygun bilet": 90000
         },
         "sold_out": false
       },
@@ -1446,7 +1439,8 @@
         "3. Kategori": 200000,
         "4. Kategori": 150000,
         "5. Kategori": 125000,
-        "6. Kategori": 90000
+        "6. Kategori": 90000,
+        "En uygun bilet": 90000
       },
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-20"
@@ -1519,7 +1513,7 @@
         "En uygun bilet": 100000
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:tirat-gecesi@2026-10-24T19:00": {
       "event": {
@@ -1531,11 +1525,12 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/tirat-gecesi",
         "tiers": {
-          "Tam": 35000
+          "En uygun bilet": 35000
         },
         "sold_out": false
       },
       "reference": {
+        "En uygun bilet": 35000,
         "Tam": 35000
       },
       "first_seen": "2026-10-18",
@@ -1591,8 +1586,7 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/ustun-dokmen-ile-kucuk-seyler",
         "tiers": {
-          "1. Kategori": 150000,
-          "2. Kategori": 125000
+          "En uygun bilet": 140000
         },
         "sold_out": false
       },
@@ -1600,7 +1594,8 @@
         "1. Kategori": 150000,
         "2. Kategori": 125000,
         "Category 1": 150000,
-        "Category 2": 125000
+        "Category 2": 125000,
+        "En uygun bilet": 140000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-20"
@@ -1635,11 +1630,7 @@
         "category": "Konser",
         "url": "https://biletinial.com/tr-tr/muzik/yasar-jj",
         "tiers": {
-          "1.Kategori": 300000,
-          "2.Kategori": 250000,
-          "3.Kategori": 200000,
-          "4.Kategori": 150000,
-          "Protokol Fiyat": 400000
+          "En uygun bilet": 171000
         },
         "sold_out": false
       },
@@ -1648,6 +1639,7 @@
         "2.Kategori": 250000,
         "3.Kategori": 200000,
         "4.Kategori": 150000,
+        "En uygun bilet": 171000,
         "Protokol Fiyat": 400000
       },
       "first_seen": "2026-10-07",
@@ -1683,12 +1675,13 @@
         "category": "Konser",
         "url": "https://biletinial.com/tr-tr/muzik/yuksek-sadakat",
         "tiers": {
-          "Tam": 150000
+          "En uygun bilet": 150000
         },
         "sold_out": false
       },
       "reference": {
         "Biletë e plotë": 150000,
+        "En uygun bilet": 150000,
         "Tam": 150000
       },
       "first_seen": "2026-09-25",
@@ -2566,7 +2559,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 104,
+      "consecutive_failures": 105,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
