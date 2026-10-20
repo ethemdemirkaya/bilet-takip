@@ -20,7 +20,7 @@
         "2. Kategori": 50000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:afacan-kardesler-oyun-kuruyor@2026-11-15T17:00": {
       "event": {
@@ -61,7 +61,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:agustos-parki-dt@2026-10-27T14:00": {
       "event": {
@@ -102,7 +102,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:agustos-parki-dt@2026-10-28T17:00": {
       "event": {
@@ -142,7 +142,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:agustos-parki-dt@2026-11-04T14:00": {
       "event": {
@@ -182,7 +182,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:agustos-parki-dt@2026-11-08T17:00": {
       "event": {
@@ -222,7 +222,7 @@
         "Tam": 30000
       },
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:barcelona-guitar-trio-dance@2026-10-27T21:00": {
       "event": {
@@ -252,7 +252,7 @@
         "VIP": 300000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:barcelona-guitar-trio-dance@2026-10-28T00:00": {
       "event": {
@@ -294,7 +294,7 @@
         "Sahne Önü": 150000
       },
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:burak-king-jj@2026-10-28T23:00": {
       "event": {
@@ -334,7 +334,7 @@
         "Tam": 25000
       },
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:cizmeli-kedi-tebesir@2026-11-15T15:00": {
       "event": {
@@ -354,7 +354,7 @@
         "Tam": 25000
       },
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:cizmeli-kedi-tebesir@2026-11-15T18:00": {
       "event": {
@@ -414,7 +414,7 @@
         "Tam": 35000
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:dt-mutfak-leenanein-guzellik-kralicesi@2026-11-03T18:00": {
       "event": {
@@ -434,7 +434,7 @@
         "En uygun bilet": 10001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:dt-mutfak-leenanein-guzellik-kralicesi@2026-11-03T21:00": {
       "event": {
@@ -465,15 +465,8 @@
         "date": "2026-10-29T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "1. Kategori Tam": 27000,
-          "1. Kategori İndirimli": 17500,
-          "2. Kategori Tam": 12000,
-          "2. Kategori İndirimli": 8000,
-          "Balkon Tam": 8000,
-          "İndirimli Balkon": 7000
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -485,7 +478,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-29T23:00": {
       "event": {
@@ -514,15 +507,8 @@
         "date": "2026-10-30T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "1. Kategori Tam": 27000,
-          "1. Kategori İndirimli": 17500,
-          "2. Kategori Tam": 12000,
-          "2. Kategori İndirimli": 8000,
-          "Balkon Tam": 8000,
-          "İndirimli Balkon": 7000
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -534,7 +520,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-30T23:00": {
       "event": {
@@ -563,15 +549,8 @@
         "date": "2026-10-31T15:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "1. Kategori Tam": 27000,
-          "1. Kategori İndirimli": 17500,
-          "2. Kategori Tam": 12000,
-          "2. Kategori İndirimli": 8000,
-          "Balkon Tam": 8000,
-          "İndirimli Balkon": 7000
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -583,7 +562,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T18:00": {
       "event": {
@@ -625,7 +604,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T23:00": {
       "event": {
@@ -667,7 +646,7 @@
         "Category 2": 80000
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:fani-but-funny@2026-10-30T23:30": {
       "event": {
@@ -710,7 +689,7 @@
         "Salon": 50000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:insan-kaynaklari@2026-10-31T23:00": {
       "event": {
@@ -750,7 +729,7 @@
         "Tam": 40000
       },
       "first_seen": "2026-10-14",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:karsu-konseri@2026-11-27T21:00": {
       "event": {
@@ -780,7 +759,7 @@
         "VIP": 425000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:karsu-konseri@2026-11-28T00:00": {
       "event": {
@@ -852,7 +831,7 @@
         "En uygun bilet": 100000
       },
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-05T20:00": {
       "event": {
@@ -892,7 +871,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-06T20:00": {
       "event": {
@@ -932,7 +911,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T15:00": {
       "event": {
@@ -972,7 +951,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T20:00": {
       "event": {
@@ -1012,7 +991,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:lumera-trio-sezen-aksu-sarkilari@2026-10-23T20:00": {
       "event": {
@@ -1038,7 +1017,7 @@
         "4. Kategori": 75000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:lumera-trio-sezen-aksu-sarkilari@2026-10-23T23:00": {
       "event": {
@@ -1080,7 +1059,7 @@
         "2. Kategori": 30000
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:mavi-dostlar@2026-10-24T16:00": {
       "event": {
@@ -1102,7 +1081,7 @@
         "2. Kategori": 30000
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:mavi-dostlar@2026-10-24T17:00": {
       "event": {
@@ -1168,7 +1147,7 @@
         "Öğrenci": 50000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T23:00": {
       "event": {
@@ -1210,7 +1189,7 @@
         "2. Kategori": 60000
       },
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:nazim@2026-11-21T20:00": {
       "event": {
@@ -1232,7 +1211,7 @@
         "2. Kategori": 60000
       },
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:nazim@2026-11-21T21:00": {
       "event": {
@@ -1296,7 +1275,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:on-kisiydiler-dt@2026-10-22T23:00": {
       "event": {
@@ -1325,15 +1304,8 @@
         "date": "2026-10-23T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
-        "tiers": {
-          "1. Kategori Tam": 27000,
-          "1. Kategori İndirimli": 17500,
-          "2. Kategori Tam": 12000,
-          "2. Kategori İndirimli": 8000,
-          "Balkon Tam": 8000,
-          "İndirimli Balkon": 7000
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -1345,7 +1317,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:on-kisiydiler-dt@2026-10-23T23:00": {
       "event": {
@@ -1374,15 +1346,8 @@
         "date": "2026-10-24T15:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
-        "tiers": {
-          "1. Kategori Tam": 27000,
-          "1. Kategori İndirimli": 17500,
-          "2. Kategori Tam": 12000,
-          "2. Kategori İndirimli": 8000,
-          "Balkon Tam": 8000,
-          "İndirimli Balkon": 7000
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -1394,7 +1359,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T18:00": {
       "event": {
@@ -1423,15 +1388,8 @@
         "date": "2026-10-24T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
-        "tiers": {
-          "1. Kategori Tam": 27000,
-          "1. Kategori İndirimli": 17500,
-          "2. Kategori Tam": 12000,
-          "2. Kategori İndirimli": 8000,
-          "Balkon Tam": 8000,
-          "İndirimli Balkon": 7000
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -1443,7 +1401,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T23:00": {
       "event": {
@@ -1491,7 +1449,7 @@
         "6. Kategori": 90000
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:sahane-pazar-sahnede@2026-11-15T23:30": {
       "event": {
@@ -1541,7 +1499,7 @@
         "Category 4": 100000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:sesler-salih-bademci@2026-10-24T23:30": {
       "event": {
@@ -1581,7 +1539,7 @@
         "Tam": 30000
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:ucurtmanin-kuyrugu@2026-10-24T19:00": {
       "event": {
@@ -1665,7 +1623,7 @@
         "En uygun bilet": 140000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:yasar-jj@2026-11-22T19:00": {
       "event": {
@@ -1693,7 +1651,7 @@
         "Protokol Fiyat": 400000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:yasar-jj@2026-11-22T22:00": {
       "event": {
@@ -1734,7 +1692,7 @@
         "Tam": 150000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletinial:yuksek-sadakat@2026-11-20T23:30": {
       "event": {
@@ -1765,10 +1723,7 @@
         "date": "2026-10-28T17:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/48S01/TURKIYE/tr",
-        "tiers": {
-          "Genel Giriş": 85500,
-          "Sahne Önü": 171000
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -1776,7 +1731,7 @@
         "Sahne Önü": 171000
       },
       "first_seen": "2026-09-30",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5ADBS": {
       "event": {
@@ -1787,13 +1742,7 @@
         "date": "2026-11-28T17:30:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5ADBS/TURKIYE/tr",
-        "tiers": {
-          "1. Kategori": 170000,
-          "2. Kategori": 140000,
-          "3. Kategori": 110000,
-          "4. Kategori": 80000,
-          "Protokol": 200000
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -1804,7 +1753,7 @@
         "Protokol": 200000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5ADBV": {
       "event": {
@@ -1832,7 +1781,7 @@
         "Protokol": 200000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5CHME": {
       "event": {
@@ -1852,7 +1801,7 @@
         "1. Kategori": 45800
       },
       "first_seen": "2026-10-05",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5DTCJ": {
       "event": {
@@ -1884,7 +1833,7 @@
         "Protokol": 122500
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5FKDU": {
       "event": {
@@ -1906,7 +1855,7 @@
         "Öğrenci": 35000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5FKDV": {
       "event": {
@@ -1917,10 +1866,7 @@
         "date": "2026-10-25T15:00:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5FKDV/TURKIYE/tr",
-        "tiers": {
-          "Genel Giriş": 40000,
-          "Öğrenci": 35000
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -1928,7 +1874,7 @@
         "Öğrenci": 35000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5FKDW": {
       "event": {
@@ -1950,7 +1896,7 @@
         "Öğrenci": 35000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5FKDY": {
       "event": {
@@ -1961,10 +1907,7 @@
         "date": "2026-10-25T16:30:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5FKDY/TURKIYE/tr",
-        "tiers": {
-          "Genel Giriş": 40000,
-          "Öğrenci": 35000
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -1972,7 +1915,7 @@
         "Öğrenci": 35000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5FKDZ": {
       "event": {
@@ -1983,10 +1926,7 @@
         "date": "2026-10-25T17:30:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5FKDZ/TURKIYE/tr",
-        "tiers": {
-          "Genel Giriş": 40000,
-          "Öğrenci": 35000
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -1994,7 +1934,7 @@
         "Öğrenci": 35000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5JBB1": {
       "event": {
@@ -2005,14 +1945,7 @@
         "date": "2026-11-13T18:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5JBB1/TURKIYE/tr",
-        "tiers": {
-          "1. Kategori": 250000,
-          "2. Kategori": 200000,
-          "3. Kategori": 160000,
-          "4. Kategori": 130000,
-          "5. Kategori": 100000,
-          "VIP": 325000
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -2024,7 +1957,7 @@
         "VIP": 325000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5JBCH": {
       "event": {
@@ -2035,14 +1968,7 @@
         "date": "2026-11-21T18:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5JBCH/TURKIYE/tr",
-        "tiers": {
-          "1. Kategori": 200000,
-          "2. Kategori": 160000,
-          "3. Kategori": 140000,
-          "4. Kategori": 120000,
-          "5. Kategori": 100000,
-          "VIP": 250000
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -2054,7 +1980,7 @@
         "VIP": 250000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5JDH8": {
       "event": {
@@ -2082,7 +2008,7 @@
         "Protokol": 456000
       },
       "first_seen": "2026-10-06",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5KS04": {
       "event": {
@@ -2093,12 +2019,7 @@
         "date": "2026-11-15T17:30:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5KS04/TURKIYE/tr",
-        "tiers": {
-          "1. Kategori": 250000,
-          "2. Kategori": 200000,
-          "3. Kategori": 150000,
-          "4. Kategori": 125000
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -2108,7 +2029,7 @@
         "4. Kategori": 125000
       },
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5LWI0": {
       "event": {
@@ -2119,10 +2040,7 @@
         "date": "2026-11-18T17:00:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5LWI0/TURKIYE/tr",
-        "tiers": {
-          "1. Kategori": 171600,
-          "2. Kategori": 114400
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -2130,7 +2048,7 @@
         "2. Kategori": 114400
       },
       "first_seen": "2026-09-29",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5MO27": {
       "event": {
@@ -2141,15 +2059,7 @@
         "date": "2026-11-12T17:30:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5MO27/TURKIYE/tr",
-        "tiers": {
-          "1. Kategori": 220000,
-          "2. Kategori": 200000,
-          "3. Kategori": 175000,
-          "4. Kategori": 150000,
-          "5. Kategori": 125000,
-          "6. Kategori": 100000,
-          "7. Kategori": 85000
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -2162,7 +2072,7 @@
         "7. Kategori": 85000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5MO30": {
       "event": {
@@ -2173,12 +2083,7 @@
         "date": "2026-10-24T17:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5MO30/TURKIYE/tr",
-        "tiers": {
-          "1. Kategori": 150000,
-          "2. Kategori": 125000,
-          "3. Kategori": 100000,
-          "4. Kategori": 85000
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -2188,7 +2093,7 @@
         "4. Kategori": 85000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5MS28": {
       "event": {
@@ -2204,7 +2109,7 @@
       },
       "reference": {},
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5MY27": {
       "event": {
@@ -2215,14 +2120,7 @@
         "date": "2026-11-27T18:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5MY27/TURKIYE/tr",
-        "tiers": {
-          "1. Kategori": 365000,
-          "2. Kategori": 295000,
-          "3. Kategori": 245000,
-          "4. Kategori": 195000,
-          "5. Kategori": 145000,
-          "VIP": 425000
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -2234,7 +2132,7 @@
         "VIP": 425000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5ON61": {
       "event": {
@@ -2245,11 +2143,7 @@
         "date": "2026-12-24T17:00:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5ON61/TURKIYE/tr",
-        "tiers": {
-          "1. Kategori": 136250,
-          "2. Kategori": 110000,
-          "3. Kategori": 99000
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -2258,7 +2152,7 @@
         "3. Kategori": 99000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5OSAP": {
       "event": {
@@ -2269,16 +2163,14 @@
         "date": "2026-12-13T18:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5OSAP/TURKIYE/tr",
-        "tiers": {
-          "Genel Giriş": 80000
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
         "Genel Giriş": 80000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5OSAX": {
       "event": {
@@ -2300,7 +2192,7 @@
         "Sahne Önü": 150000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5OSB3": {
       "event": {
@@ -2311,10 +2203,7 @@
         "date": "2026-11-29T18:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5OSB3/TURKIYE/tr",
-        "tiers": {
-          "Genel Giriş": 70000,
-          "VIP": 150000
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -2322,7 +2211,7 @@
         "VIP": 150000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5R233": {
       "event": {
@@ -2342,7 +2231,7 @@
         "Genel Giriş": 25200
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5R234": {
       "event": {
@@ -2362,7 +2251,7 @@
         "Genel Giriş": 25200
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5R235": {
       "event": {
@@ -2382,7 +2271,7 @@
         "Genel Giriş": 25200
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5R236": {
       "event": {
@@ -2402,7 +2291,7 @@
         "Genel Giriş": 25200
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5R237": {
       "event": {
@@ -2422,7 +2311,7 @@
         "Genel Giriş": 25200
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5R238": {
       "event": {
@@ -2442,7 +2331,7 @@
         "Genel Giriş": 25200
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5SONA": {
       "event": {
@@ -2453,11 +2342,7 @@
         "date": "2026-11-07T17:30:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5SONA/TURKIYE/tr",
-        "tiers": {
-          "1. Kategori": 181825,
-          "2. Kategori": 109095,
-          "VIP": 237280
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -2468,7 +2353,7 @@
         "VIP": 237280
       },
       "first_seen": "2026-10-01",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5T9O4": {
       "event": {
@@ -2479,13 +2364,7 @@
         "date": "2026-11-22T12:30:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5T9O4/TURKIYE/tr",
-        "tiers": {
-          "1. Kategori": 275000,
-          "2. Kategori": 230000,
-          "3. Kategori": 200000,
-          "4. Kategori": 160000,
-          "Protokol": 385000
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -2496,7 +2375,7 @@
         "Protokol": 385000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5WEMD": {
       "event": {
@@ -2523,7 +2402,7 @@
         "VIP": 280000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5YHE0": {
       "event": {
@@ -2534,10 +2413,7 @@
         "date": "2026-12-10T18:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5YHE0/TURKIYE/tr",
-        "tiers": {
-          "Genel Giriş": 90000,
-          "Genel Giriş Ön Alan": 400000
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -2548,7 +2424,7 @@
         "VIP Bistro": 700000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5YHE2": {
       "event": {
@@ -2559,10 +2435,7 @@
         "date": "2026-11-15T18:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5YHE2/TURKIYE/tr",
-        "tiers": {
-          "Genel Giriş": 70000,
-          "VIP": 150000
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -2570,7 +2443,7 @@
         "VIP": 150000
       },
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     },
     "biletix:5YS2H": {
       "event": {
@@ -2598,7 +2471,7 @@
         "Öğrenci": 75000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-20"
     }
   },
   "initialized_sources": [
@@ -2608,7 +2481,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 101,
+      "consecutive_failures": 102,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
