@@ -358,6 +358,26 @@
       "first_seen": "2026-10-20",
       "last_seen": "2026-10-21"
     },
+    "biletinial:cem-adrian-konseri@2026-12-26T23:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "cem-adrian-konseri@2026-12-26T23:30",
+        "title": "Cem Adrian Konseri",
+        "venue": "Kayseri Erciyes Kültür Merkezi",
+        "date": "2026-12-26T23:30:00+03:00",
+        "category": "Konser",
+        "url": "https://biletinial.com/tr-tr/muzik/cem-adrian-konseri",
+        "tiers": {
+          "En uygun bilet": 86500
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 86500
+      },
+      "first_seen": "2026-10-21",
+      "last_seen": "2026-10-21"
+    },
     "biletinial:cizmeli-kedi-tebesir@2026-11-15T15:00": {
       "event": {
         "source": "Biletinial",
@@ -520,7 +540,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-20"
+      "last_seen": "2026-10-21"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-30T20:00": {
       "event": {
@@ -562,7 +582,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-20"
+      "last_seen": "2026-10-21"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T15:00": {
       "event": {
@@ -604,7 +624,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-20"
+      "last_seen": "2026-10-21"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T20:00": {
       "event": {
@@ -646,7 +666,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-20"
+      "last_seen": "2026-10-21"
     },
     "biletinial:fani-but-funny@2026-10-30T20:30": {
       "event": {
@@ -800,7 +820,7 @@
         "En uygun bilet": 145000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-18"
+      "last_seen": "2026-10-21"
     },
     "biletinial:konken-partisi@2026-11-08T20:00": {
       "event": {
@@ -2545,7 +2565,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 108,
+      "consecutive_failures": 109,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
