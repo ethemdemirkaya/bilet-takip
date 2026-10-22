@@ -820,6 +820,66 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-21"
     },
+    "biletinial:kayseride-buyuk-cocuk-senligi@2026-11-28T16:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kayseride-buyuk-cocuk-senligi@2026-11-28T16:30",
+        "title": "Kayseri'de Büyük Çocuk Şenliği",
+        "venue": "Kayseri Kültür Merkezi I. Alaeddin Keykubat Salonu",
+        "date": "2026-11-28T16:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kayseride-buyuk-cocuk-senligi",
+        "tiers": {
+          "En uygun bilet": 33600
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 33600
+      },
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
+    },
+    "biletinial:kayseride-buyuk-cocuk-senligi@2026-11-28T18:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kayseride-buyuk-cocuk-senligi@2026-11-28T18:30",
+        "title": "Kayseri'de Büyük Çocuk Şenliği",
+        "venue": "Kayseri Kültür Merkezi I. Alaeddin Keykubat Salonu",
+        "date": "2026-11-28T18:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kayseride-buyuk-cocuk-senligi",
+        "tiers": {
+          "En uygun bilet": 33600
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 33600
+      },
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
+    },
+    "biletinial:kayseride-buyuk-cocuk-senligi@2026-11-28T22:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kayseride-buyuk-cocuk-senligi@2026-11-28T22:00",
+        "title": "Kayseri'de Büyük Çocuk Şenliği",
+        "venue": "Kayseri Kültür Merkezi I. Alaeddin Keykubat Salonu",
+        "date": "2026-11-28T22:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kayseride-buyuk-cocuk-senligi",
+        "tiers": {
+          "En uygun bilet": 33600
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 33600
+      },
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
+    },
     "biletinial:konken-partisi@2026-11-08T20:00": {
       "event": {
         "source": "Biletinial",
@@ -865,7 +925,7 @@
         "En uygun bilet": 100000
       },
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-05T20:00": {
       "event": {
@@ -1262,7 +1322,7 @@
         "En uygun bilet": 67200
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     "biletinial:nazim@2026-11-21T23:00": {
       "event": {
@@ -1282,7 +1342,7 @@
         "En uygun bilet": 67200
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     "biletinial:on-kisiydiler-dt@2026-10-22T20:00": {
       "event": {
@@ -2565,7 +2625,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 115,
+      "consecutive_failures": 116,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2573,7 +2633,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 41,
+      "last_count": 44,
       "last_error": null
     },
     "Biletix": {
