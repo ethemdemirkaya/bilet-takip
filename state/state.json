@@ -40,7 +40,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     "biletinial:agustos-parki-dt@2026-10-27T11:00": {
       "event": {
@@ -708,7 +708,7 @@
         "En uygun bilet": 80000
       },
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-20"
+      "last_seen": "2026-10-22"
     },
     "biletinial:insan-kaynaklari@2026-10-31T20:00": {
       "event": {
@@ -1049,7 +1049,7 @@
         "En uygun bilet": 82200
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     "biletinial:lumera-trio-sezen-aksu-sarkilari@2026-10-23T23:00": {
       "event": {
@@ -1419,8 +1419,10 @@
         "date": "2026-10-24T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -1544,7 +1546,7 @@
         "En uygun bilet": 100000
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-21"
+      "last_seen": "2026-10-22"
     },
     "biletinial:tirat-gecesi@2026-10-24T19:00": {
       "event": {
@@ -2563,7 +2565,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 114,
+      "consecutive_failures": 115,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
