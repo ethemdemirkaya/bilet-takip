@@ -820,6 +820,46 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-21"
     },
+    "biletinial:kayseride-buyuk-cocuk-senligi@2026-11-28T13:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kayseride-buyuk-cocuk-senligi@2026-11-28T13:30",
+        "title": "Kayseri'de Büyük Çocuk Şenliği",
+        "venue": "Kayseri Kültür Merkezi I. Alaeddin Keykubat Salonu",
+        "date": "2026-11-28T13:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kayseride-buyuk-cocuk-senligi",
+        "tiers": {
+          "En uygun bilet": 33600
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 33600
+      },
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
+    },
+    "biletinial:kayseride-buyuk-cocuk-senligi@2026-11-28T15:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kayseride-buyuk-cocuk-senligi@2026-11-28T15:30",
+        "title": "Kayseri'de Büyük Çocuk Şenliği",
+        "venue": "Kayseri Kültür Merkezi I. Alaeddin Keykubat Salonu",
+        "date": "2026-11-28T15:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kayseride-buyuk-cocuk-senligi",
+        "tiers": {
+          "En uygun bilet": 33600
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 33600
+      },
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
+    },
     "biletinial:kayseride-buyuk-cocuk-senligi@2026-11-28T16:30": {
       "event": {
         "source": "Biletinial",
@@ -847,6 +887,26 @@
         "title": "Kayseri'de Büyük Çocuk Şenliği",
         "venue": "Kayseri Kültür Merkezi I. Alaeddin Keykubat Salonu",
         "date": "2026-11-28T18:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kayseride-buyuk-cocuk-senligi",
+        "tiers": {
+          "En uygun bilet": 33600
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 33600
+      },
+      "first_seen": "2026-10-22",
+      "last_seen": "2026-10-22"
+    },
+    "biletinial:kayseride-buyuk-cocuk-senligi@2026-11-28T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kayseride-buyuk-cocuk-senligi@2026-11-28T19:00",
+        "title": "Kayseri'de Büyük Çocuk Şenliği",
+        "venue": "Kayseri Kültür Merkezi I. Alaeddin Keykubat Salonu",
+        "date": "2026-11-28T19:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/kayseride-buyuk-cocuk-senligi",
         "tiers": {
@@ -1258,7 +1318,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-03",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-22"
     },
     "biletinial:nazim@2026-11-21T18:00": {
       "event": {
@@ -1419,8 +1479,10 @@
         "date": "2026-10-23T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
       },
       "reference": {
         "En uygun bilet": 7001
@@ -1505,10 +1567,8 @@
         "date": "2026-10-24T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -2627,7 +2687,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 117,
+      "consecutive_failures": 118,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2635,7 +2695,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 43,
+      "last_count": 42,
       "last_error": null
     },
     "Biletix": {
