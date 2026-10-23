@@ -688,7 +688,7 @@
         "En uygun bilet": 80000
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:fani-but-funny@2026-10-30T23:30": {
       "event": {
@@ -798,7 +798,7 @@
         "VIP": 425000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:karsu-konseri@2026-11-28T00:00": {
       "event": {
@@ -1189,7 +1189,7 @@
         "En uygun bilet": 82200
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:mavi-dostlar@2026-10-24T14:00": {
       "event": {
@@ -1211,7 +1211,7 @@
         "En uygun bilet": 32900
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:mavi-dostlar@2026-10-24T16:00": {
       "event": {
@@ -1233,7 +1233,7 @@
         "En uygun bilet": 32900
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:mavi-dostlar@2026-10-24T17:00": {
       "event": {
@@ -1298,7 +1298,7 @@
         "Öğrenci": 50000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T23:00": {
       "event": {
@@ -1426,7 +1426,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:on-kisiydiler-dt@2026-10-23T23:00": {
       "event": {
@@ -1468,7 +1468,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T18:00": {
       "event": {
@@ -1497,10 +1497,8 @@
         "date": "2026-10-24T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/on-kisiydiler-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -1512,7 +1510,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:on-kisiydiler-dt@2026-10-24T23:00": {
       "event": {
@@ -1556,7 +1554,7 @@
         "En uygun bilet": 90000
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:sahane-pazar-sahnede@2026-11-15T23:30": {
       "event": {
@@ -1624,7 +1622,7 @@
         "En uygun bilet": 100000
       },
       "first_seen": "2026-10-04",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:tirat-gecesi@2026-10-24T19:00": {
       "event": {
@@ -1754,7 +1752,7 @@
         "Protokol Fiyat": 400000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:yasar-jj@2026-11-22T22:00": {
       "event": {
@@ -1796,7 +1794,7 @@
         "Tam": 150000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:yuksek-sadakat@2026-11-20T23:30": {
       "event": {
@@ -2643,7 +2641,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 119,
+      "consecutive_failures": 120,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
