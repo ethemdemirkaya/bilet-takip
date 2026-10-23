@@ -469,8 +469,10 @@
         "date": "2026-11-03T18:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dt-mutfak-leenanein-guzellik-kralicesi",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "En uygun bilet": 10001
+        },
+        "sold_out": false
       },
       "reference": {
         "En uygun bilet": 10001
@@ -538,7 +540,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-30T20:00": {
       "event": {
@@ -580,7 +582,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T15:00": {
       "event": {
@@ -622,7 +624,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T20:00": {
       "event": {
@@ -657,14 +659,16 @@
         "date": "2026-10-31T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:fani-but-funny@2026-10-30T20:30": {
       "event": {
@@ -1025,7 +1029,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-06T20:00": {
       "event": {
@@ -1065,7 +1069,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T15:00": {
       "event": {
@@ -1105,7 +1109,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T20:00": {
       "event": {
@@ -1145,7 +1149,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:lumera-trio-sezen-aksu-sarkilari@2026-10-23T20:00": {
       "event": {
@@ -1340,7 +1344,7 @@
         "En uygun bilet": 67200
       },
       "first_seen": "2026-10-09",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:nazim@2026-11-21T20:00": {
       "event": {
@@ -1362,7 +1366,7 @@
         "En uygun bilet": 67200
       },
       "first_seen": "2026-10-17",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:nazim@2026-11-21T21:00": {
       "event": {
@@ -2641,7 +2645,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 120,
+      "consecutive_failures": 121,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2661,5 +2665,5 @@
   },
   "telegram_offset": 770271864,
   "min_drop_percent_override": null,
-  "keepalive": "2026-10-16T03:56:13.782158858Z"
+  "keepalive": "2026-10-23T06:49:40.159411079Z"
 }
