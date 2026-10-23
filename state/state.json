@@ -40,7 +40,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:agustos-parki-dt@2026-10-27T11:00": {
       "event": {
@@ -81,7 +81,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:agustos-parki-dt@2026-10-28T14:00": {
       "event": {
@@ -122,7 +122,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:agustos-parki-dt@2026-11-04T11:00": {
       "event": {
@@ -162,7 +162,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:agustos-parki-dt@2026-11-08T14:00": {
       "event": {
@@ -202,7 +202,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:ask-ve-sifa@2026-11-15T19:30": {
       "event": {
@@ -1289,6 +1289,26 @@
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23"
     },
+    "biletinial:masal-gulleri-kayseri-dt@2026-11-11T17:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "masal-gulleri-kayseri-dt@2026-11-11T17:00",
+        "title": "MASAL GÜLLERİ",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-11T17:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/masal-gulleri-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-15T14:00": {
       "event": {
         "source": "Biletinial",
@@ -1296,6 +1316,26 @@
         "title": "MASAL GÜLLERİ",
         "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
         "date": "2026-11-15T14:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/masal-gulleri-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23"
+    },
+    "biletinial:masal-gulleri-kayseri-dt@2026-11-15T17:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "masal-gulleri-kayseri-dt@2026-11-15T17:00",
+        "title": "MASAL GÜLLERİ",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-15T17:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/masal-gulleri-kayseri-dt",
         "tiers": {
@@ -2761,7 +2801,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 123,
+      "consecutive_failures": 124,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2769,7 +2809,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 47,
+      "last_count": 46,
       "last_error": null
     },
     "Biletix": {
