@@ -489,16 +489,14 @@
         "date": "2026-11-03T21:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dt-mutfak-leenanein-guzellik-kralicesi",
-        "tiers": {
-          "En uygun bilet": 10001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 10001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-19"
+      "last_seen": "2026-10-23"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-29T20:00": {
       "event": {
@@ -989,7 +987,7 @@
         "En uygun bilet": 100000
       },
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-05T20:00": {
       "event": {
@@ -1731,7 +1729,7 @@
         "En uygun bilet": 140000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-22"
+      "last_seen": "2026-10-23"
     },
     "biletinial:yasar-jj@2026-11-22T19:00": {
       "event": {
@@ -2645,7 +2643,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 121,
+      "consecutive_failures": 122,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2653,7 +2651,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 42,
+      "last_count": 41,
       "last_error": null
     },
     "Biletix": {
