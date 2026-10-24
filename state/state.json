@@ -2833,7 +2833,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 129,
+      "consecutive_failures": 130,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2841,13 +2841,13 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 44,
+      "last_count": 41,
       "last_error": null
     },
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 34,
+      "last_count": 32,
       "last_error": null
     }
   },
