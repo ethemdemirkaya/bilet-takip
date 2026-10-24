@@ -1776,6 +1776,26 @@
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-24"
     },
+    "biletinial:super-kediler-tiyatro-oyunu@2026-11-15T16:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "super-kediler-tiyatro-oyunu@2026-11-15T16:00",
+        "title": "Süper Kediler Tiyatro Oyunu",
+        "venue": "Kayseri Kültür Merkezi 1. Alaaddin Keykubat Salonu",
+        "date": "2026-11-15T16:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/super-kediler-tiyatro-oyunu",
+        "tiers": {
+          "En uygun bilet": 56000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 56000
+      },
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-24"
+    },
     "biletinial:tirat-gecesi@2026-10-24T19:00": {
       "event": {
         "source": "Biletinial",
@@ -1899,7 +1919,7 @@
         "En uygun bilet": 140000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-23"
+      "last_seen": "2026-10-24"
     },
     "biletinial:yasar-jj@2026-11-22T19:00": {
       "event": {
@@ -1944,7 +1964,7 @@
         "En uygun bilet": 171000
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-23"
+      "last_seen": "2026-10-24"
     },
     "biletinial:yuksek-sadakat@2026-11-20T20:30": {
       "event": {
@@ -2813,7 +2833,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 128,
+      "consecutive_failures": 129,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
