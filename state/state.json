@@ -474,7 +474,7 @@
         "En uygun bilet": 10001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-29T20:00": {
       "event": {
@@ -593,10 +593,8 @@
         "date": "2026-10-31T18:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -1849,7 +1847,7 @@
         "id": "5FKDU",
         "title": "Garip Bir Rüya",
         "venue": "Çat Kapı Sahne",
-        "date": "2026-10-25T13:00:00Z",
+        "date": "2026-11-08T13:00:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5FKDU/TURKIYE/tr",
         "tiers": {
@@ -1871,7 +1869,7 @@
         "id": "5FKDV",
         "title": "Küçük Kadınlar",
         "venue": "Çat Kapı Sahne",
-        "date": "2026-10-25T15:00:00Z",
+        "date": "2026-11-08T15:00:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5FKDV/TURKIYE/tr",
         "tiers": {
@@ -1893,7 +1891,7 @@
         "id": "5FKDW",
         "title": "Kuyucaklı Yusuf Muazzez",
         "venue": "Çat Kapı Sahne",
-        "date": "2026-10-25T14:00:00Z",
+        "date": "2026-11-08T14:00:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5FKDW/TURKIYE/tr",
         "tiers": {
@@ -1915,7 +1913,7 @@
         "id": "5FKDY",
         "title": "Lady Macbeth",
         "venue": "Çat Kapı Sahne",
-        "date": "2026-10-25T16:30:00Z",
+        "date": "2026-11-08T16:30:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5FKDY/TURKIYE/tr",
         "tiers": {
@@ -2484,7 +2482,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 135,
+      "consecutive_failures": 136,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
