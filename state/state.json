@@ -20,7 +20,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     "biletinial:afacan-kardesler-oyun-kuruyor@2026-11-15T17:00": {
       "event": {
@@ -670,7 +670,7 @@
         "En uygun bilet": 80000
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     "biletinial:fani-but-funny@2026-10-30T23:30": {
       "event": {
@@ -947,7 +947,7 @@
         "Protokol Fiyat": 175000
       },
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-24"
+      "last_seen": "2026-10-25"
     },
     "biletinial:konken-partisi@2026-11-08T23:00": {
       "event": {
@@ -2486,7 +2486,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 133,
+      "consecutive_failures": 134,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
