@@ -440,6 +440,26 @@
       "first_seen": "2026-10-13",
       "last_seen": "2026-10-26"
     },
+    "biletinial:deli-bayrami-cat-kapi@2026-11-15T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "deli-bayrami-cat-kapi@2026-11-15T19:00",
+        "title": "Deli Bayramı",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-11-15T19:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/deli-bayrami-cat-kapi",
+        "tiers": {
+          "En uygun bilet": 35000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 35000
+      },
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26"
+    },
     "biletinial:dt-mutfak-leenanein-guzellik-kralicesi@2026-11-03T18:00": {
       "event": {
         "source": "Biletinial",
@@ -474,7 +494,7 @@
         "En uygun bilet": 10001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-26"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-29T20:00": {
       "event": {
@@ -516,7 +536,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-26"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-30T20:00": {
       "event": {
@@ -558,7 +578,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-26"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T15:00": {
       "event": {
@@ -600,7 +620,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-26"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T20:00": {
       "event": {
@@ -642,7 +662,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-26"
     },
     "biletinial:fani-but-funny@2026-10-30T20:30": {
       "event": {
@@ -963,7 +983,7 @@
         "En uygun bilet": 100000
       },
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-26"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-05T20:00": {
       "event": {
@@ -1578,7 +1598,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-26"
     },
     "biletinial:ustun-dokmen-ile-kucuk-seyler@2026-11-19T20:00": {
       "event": {
@@ -1709,7 +1729,7 @@
         "En uygun bilet": 150000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-10-23"
+      "last_seen": "2026-10-26"
     },
     "biletix:48S01": {
       "event": {
@@ -1819,24 +1839,24 @@
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5DTCJ/TURKIYE/tr",
         "tiers": {
-          "1. Kategori": 105000,
+          "1. Kategori": 150000,
           "2. Kategori": 70000,
           "3. Kategori": 65000,
           "4. Kategori": 60000,
           "5. Kategori": 55000,
           "6. Kategori": 50000,
-          "Protokol": 122500
+          "Protokol": 175000
         },
         "sold_out": false
       },
       "reference": {
-        "1. Kategori": 105000,
+        "1. Kategori": 150000,
         "2. Kategori": 70000,
         "3. Kategori": 65000,
         "4. Kategori": 60000,
         "5. Kategori": 55000,
         "6. Kategori": 50000,
-        "Protokol": 122500
+        "Protokol": 175000
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-10-26"
@@ -2473,6 +2493,36 @@
       },
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-26"
+    },
+    "biletix:6JB01": {
+      "event": {
+        "source": "Biletix",
+        "id": "6JB01",
+        "title": "Teoman",
+        "venue": "EKM Erciyes Kültür Merkezi",
+        "date": "2027-01-08T18:00:00Z",
+        "category": "Konser",
+        "url": "https://www.biletix.com/etkinlik/6JB01/TURKIYE/tr",
+        "tiers": {
+          "1. Kategori": 250000,
+          "2. Kategori": 200000,
+          "3. Kategori": 150000,
+          "4. Kategori": 125000,
+          "5. Kategori": 100000,
+          "VIP": 300000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori": 250000,
+        "2. Kategori": 200000,
+        "3. Kategori": 150000,
+        "4. Kategori": 125000,
+        "5. Kategori": 100000,
+        "VIP": 300000
+      },
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26"
     }
   },
   "initialized_sources": [
@@ -2482,7 +2532,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 141,
+      "consecutive_failures": 142,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2490,13 +2540,13 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 41,
+      "last_count": 37,
       "last_error": null
     },
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 32,
+      "last_count": 33,
       "last_error": null
     }
   },
