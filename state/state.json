@@ -1538,7 +1538,7 @@
         "En uygun bilet": 90000
       },
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-26"
     },
     "biletinial:super-kediler-tiyatro-oyunu@2026-11-15T16:00": {
       "event": {
@@ -2482,7 +2482,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 139,
+      "consecutive_failures": 140,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
