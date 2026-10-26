@@ -1600,6 +1600,26 @@
       "first_seen": "2026-10-25",
       "last_seen": "2026-10-26"
     },
+    "biletinial:tirat-gecesi@2026-10-31T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "tirat-gecesi@2026-10-31T19:00",
+        "title": "Tirat Gecesi",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-31T19:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/tirat-gecesi",
+        "tiers": {
+          "En uygun bilet": 35000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 35000
+      },
+      "first_seen": "2026-10-26",
+      "last_seen": "2026-10-26"
+    },
     "biletinial:ustun-dokmen-ile-kucuk-seyler@2026-11-19T20:00": {
       "event": {
         "source": "Biletinial",
@@ -2532,7 +2552,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 142,
+      "consecutive_failures": 143,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2540,7 +2560,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 37,
+      "last_count": 38,
       "last_error": null
     },
     "Biletix": {
