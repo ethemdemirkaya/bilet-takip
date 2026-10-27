@@ -61,7 +61,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     "biletinial:agustos-parki-dt@2026-10-27T14:00": {
       "event": {
@@ -102,7 +102,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     "biletinial:agustos-parki-dt@2026-10-28T17:00": {
       "event": {
@@ -142,7 +142,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     "biletinial:agustos-parki-dt@2026-11-04T14:00": {
       "event": {
@@ -182,7 +182,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     "biletinial:agustos-parki-dt@2026-11-08T17:00": {
       "event": {
@@ -518,7 +518,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-29T23:00": {
       "event": {
@@ -560,7 +560,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-30T23:00": {
       "event": {
@@ -602,7 +602,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T18:00": {
       "event": {
@@ -644,7 +644,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T23:00": {
       "event": {
@@ -1387,7 +1387,7 @@
         "Öğrenci": 50000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T23:00": {
       "event": {
@@ -1471,7 +1471,7 @@
         "En uygun bilet": 67200
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     "biletinial:nazim@2026-11-21T23:00": {
       "event": {
@@ -1491,7 +1491,7 @@
         "En uygun bilet": 67200
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-27"
     },
     "biletinial:sahane-pazar-sahnede@2026-11-15T20:30": {
       "event": {
@@ -2531,7 +2531,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 144,
+      "consecutive_failures": 145,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
