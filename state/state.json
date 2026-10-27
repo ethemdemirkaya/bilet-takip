@@ -942,7 +942,7 @@
         "Protokol Fiyat": 175000
       },
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     "biletinial:konken-partisi@2026-11-08T23:00": {
       "event": {
@@ -1557,7 +1557,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-27"
     },
     "biletinial:super-kediler-tiyatro-oyunu@2026-11-15T19:00": {
       "event": {
@@ -2531,7 +2531,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 145,
+      "consecutive_failures": 146,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
