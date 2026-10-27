@@ -460,6 +460,26 @@
       "first_seen": "2026-10-26",
       "last_seen": "2026-10-27"
     },
+    "biletinial:deli-bayrami-cat-kapi@2026-11-15T22:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "deli-bayrami-cat-kapi@2026-11-15T22:00",
+        "title": "Deli Bayramı",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-11-15T22:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/deli-bayrami-cat-kapi",
+        "tiers": {
+          "En uygun bilet": 35000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 35000
+      },
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27"
+    },
     "biletinial:dt-mutfak-leenanein-guzellik-kralicesi@2026-11-03T18:00": {
       "event": {
         "source": "Biletinial",
@@ -2533,7 +2553,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 147,
+      "consecutive_failures": 148,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
