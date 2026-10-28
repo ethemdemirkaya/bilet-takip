@@ -478,10 +478,8 @@
         "date": "2026-10-29T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -522,10 +520,8 @@
         "date": "2026-10-30T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -748,7 +744,7 @@
         "En uygun bilet": 145000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-28"
     },
     "biletinial:kayseride-buyuk-cocuk-senligi@2026-11-28T13:30": {
       "event": {
@@ -2370,7 +2366,7 @@
         "id": "5REP0",
         "title": "Çok Tuhaf Soruşturma",
         "venue": "Kayseri İl Kültür Merkezi",
-        "date": "2026-11-17T16:30:00Z",
+        "date": "2026-11-17T17:00:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5REP0/TURKIYE/tr",
         "tiers": {
@@ -2525,7 +2521,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 152,
+      "consecutive_failures": 153,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2533,13 +2529,13 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 36,
+      "last_count": 35,
       "last_error": null
     },
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 34,
+      "last_count": 27,
       "last_error": null
     }
   },
