@@ -40,7 +40,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-25"
+      "last_seen": "2026-10-28"
     },
     "biletinial:agustos-parki-dt@2026-10-28T14:00": {
       "event": {
@@ -467,7 +467,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-29T23:00": {
       "event": {
@@ -509,7 +509,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-30T23:00": {
       "event": {
@@ -538,10 +538,8 @@
         "date": "2026-10-31T15:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "1. Kategori Tam": 27000,
@@ -553,7 +551,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T18:00": {
       "event": {
@@ -595,7 +593,7 @@
         "İndirimli Balkon": 7000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T23:00": {
       "event": {
@@ -913,7 +911,7 @@
         "En uygun bilet": 100000
       },
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-05T20:00": {
       "event": {
@@ -933,7 +931,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-05T23:00": {
       "event": {
@@ -973,7 +971,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-06T23:00": {
       "event": {
@@ -1013,7 +1011,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T18:00": {
       "event": {
@@ -1053,7 +1051,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T23:00": {
       "event": {
@@ -1093,7 +1091,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-12T23:00": {
       "event": {
@@ -1133,7 +1131,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-13T23:00": {
       "event": {
@@ -1173,7 +1171,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-14T18:00": {
       "event": {
@@ -1213,7 +1211,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-14T23:00": {
       "event": {
@@ -1548,6 +1546,26 @@
         "En uygun bilet": 35000
       },
       "first_seen": "2026-10-26",
+      "last_seen": "2026-10-28"
+    },
+    "biletinial:tirat-gecesi@2026-10-31T22:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "tirat-gecesi@2026-10-31T22:00",
+        "title": "Tirat Gecesi",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-10-31T22:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/tirat-gecesi",
+        "tiers": {
+          "En uygun bilet": 35000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 35000
+      },
+      "first_seen": "2026-10-28",
       "last_seen": "2026-10-28"
     },
     "biletinial:ustun-dokmen-ile-kucuk-seyler@2026-11-19T20:00": {
@@ -2482,7 +2500,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 149,
+      "consecutive_failures": 150,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
