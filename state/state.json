@@ -1466,7 +1466,7 @@
         "En uygun bilet": 90000
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-10-27"
+      "last_seen": "2026-10-28"
     },
     "biletinial:sahane-pazar-sahnede@2026-11-15T23:30": {
       "event": {
@@ -2361,6 +2361,28 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-28"
     },
+    "biletix:5REP0": {
+      "event": {
+        "source": "Biletix",
+        "id": "5REP0",
+        "title": "Çok Tuhaf Soruşturma",
+        "venue": "Kayseri İl Kültür Merkezi",
+        "date": "2026-11-17T16:30:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5REP0/TURKIYE/tr",
+        "tiers": {
+          "1. Kategori": 55000,
+          "2. Kategori": 40000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori": 55000,
+        "2. Kategori": 40000
+      },
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28"
+    },
     "biletix:5SONA": {
       "event": {
         "source": "Biletix",
@@ -2500,7 +2522,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 150,
+      "consecutive_failures": 151,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2514,7 +2536,7 @@
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 33,
+      "last_count": 34,
       "last_error": null
     }
   },
