@@ -340,7 +340,7 @@
         "En uygun bilet": 10001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-29"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-29T20:00": {
       "event": {
@@ -2396,7 +2396,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 156,
+      "consecutive_failures": 157,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2404,7 +2404,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 35,
+      "last_count": 34,
       "last_error": null
     },
     "Biletix": {
