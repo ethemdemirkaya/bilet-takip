@@ -746,7 +746,7 @@
         "Protokol Fiyat": 175000
       },
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-29"
+      "last_seen": "2026-10-30"
     },
     "biletinial:konken-partisi@2026-11-08T23:00": {
       "event": {
@@ -1445,7 +1445,7 @@
         "En uygun bilet": 140000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-29"
+      "last_seen": "2026-10-30"
     },
     "biletinial:ustun-dokmen-ile-kucuk-seyler@2026-11-19T23:00": {
       "event": {
@@ -2354,7 +2354,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 158,
+      "consecutive_failures": 159,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
