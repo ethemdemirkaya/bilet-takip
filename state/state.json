@@ -40,7 +40,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-29"
+      "last_seen": "2026-10-30"
     },
     "biletinial:agustos-parki-dt@2026-11-04T11:00": {
       "event": {
@@ -469,6 +469,86 @@
       },
       "first_seen": "2026-09-27",
       "last_seen": "2026-10-29"
+    },
+    "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-19T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "dugun-ya-da-davul-kayseri-dt@2026-11-19T20:00",
+        "title": "DÜĞÜN YA DA DAVUL",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-19T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30"
+    },
+    "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-20T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "dugun-ya-da-davul-kayseri-dt@2026-11-20T20:00",
+        "title": "DÜĞÜN YA DA DAVUL",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-20T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30"
+    },
+    "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T15:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "dugun-ya-da-davul-kayseri-dt@2026-11-21T15:00",
+        "title": "DÜĞÜN YA DA DAVUL",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-21T15:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30"
+    },
+    "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "dugun-ya-da-davul-kayseri-dt@2026-11-21T20:00",
+        "title": "DÜĞÜN YA DA DAVUL",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-21T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30"
     },
     "biletinial:fani-but-funny@2026-10-30T20:30": {
       "event": {
@@ -1552,7 +1632,7 @@
         "En uygun bilet": 150000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-10-26"
+      "last_seen": "2026-10-30"
     },
     "biletix:5ADBS": {
       "event": {
@@ -2192,6 +2272,26 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-28"
     },
+    "biletix:5R529": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R529",
+        "title": "Veronika Ölmek İstiyor",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-11-07T12:00:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R529/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 30000
+      },
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30"
+    },
     "biletix:5REP0": {
       "event": {
         "source": "Biletix",
@@ -2353,7 +2453,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 161,
+      "consecutive_failures": 162,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2361,13 +2461,13 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 34,
+      "last_count": 36,
       "last_error": null
     },
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 27,
+      "last_count": 28,
       "last_error": null
     }
   },
