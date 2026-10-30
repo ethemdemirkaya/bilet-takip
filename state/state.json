@@ -479,10 +479,8 @@
         "date": "2026-10-30T20:30:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/fani-but-funny",
-        "tiers": {
-          "En uygun bilet": 80000
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "1. Kategori": 100000,
@@ -1343,7 +1341,7 @@
         "En uygun bilet": 90000
       },
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-29"
+      "last_seen": "2026-10-30"
     },
     "biletinial:super-kediler-tiyatro-oyunu@2026-11-15T16:00": {
       "event": {
@@ -1383,7 +1381,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-29"
+      "last_seen": "2026-10-30"
     },
     "biletinial:tirat-gecesi@2026-10-31T19:00": {
       "event": {
@@ -1898,13 +1896,12 @@
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5LWI0/TURKIYE/tr",
         "tiers": {
-          "1. Kategori": 171600,
-          "2. Kategori": 114400
+          "1. Kategori": 114400
         },
         "sold_out": false
       },
       "reference": {
-        "1. Kategori": 171600,
+        "1. Kategori": 114400,
         "2. Kategori": 114400
       },
       "first_seen": "2026-09-29",
@@ -2356,7 +2353,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 160,
+      "consecutive_failures": 161,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
