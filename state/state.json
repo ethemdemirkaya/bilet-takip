@@ -862,7 +862,7 @@
         "En uygun bilet": 100000
       },
       "first_seen": "2026-10-15",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-05T20:00": {
       "event": {
@@ -2308,6 +2308,346 @@
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-31"
     },
+    "biletix:5R530": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R530",
+        "title": "Anna Karenina",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-11-07T13:00:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R530/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 30000
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    "biletix:5R531": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R531",
+        "title": "Çalıkuşu",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-11-07T14:00:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R531/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 30000
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    "biletix:5R532": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R532",
+        "title": "Kürk Mantolu Madonna",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-11-07T15:15:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R532/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 30000
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    "biletix:5R533": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R533",
+        "title": "Gece Yarısı Kütüphanesi",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-11-07T16:30:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R533/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 30000
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    "biletix:5R534": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R534",
+        "title": "İçimizdeki Şeytan",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-11-07T17:30:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R534/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 30000
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    "biletix:5R535": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R535",
+        "title": "Bir Kadının Yaşamından 24 Saat",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-11-27T13:00:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R535/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 30000
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    "biletix:5R536": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R536",
+        "title": "Verity Gerçeğin Diğer Kıyısı",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-11-27T17:30:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R536/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 30000
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    "biletix:5R537": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R537",
+        "title": "Malma İstasyonu",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-11-27T16:30:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R537/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 30000
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    "biletix:5R538": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R538",
+        "title": "Hizmetçi",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-11-27T15:00:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R538/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 30000
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    "biletix:5R539": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R539",
+        "title": "Acımak",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-11-29T16:30:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R539/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 30000
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    "biletix:5R540": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R540",
+        "title": "Serenad",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-11-29T15:15:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R540/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 30000
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    "biletix:5R541": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R541",
+        "title": "Martı",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-12-11T15:15:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R541/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 30000
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    "biletix:5R542": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R542",
+        "title": "Algernon'a Çiçekler",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-12-11T13:00:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R542/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 30000
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    "biletix:5R543": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R543",
+        "title": "Operadaki Hayalet",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-12-11T17:30:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R543/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 30000
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    "biletix:5R544": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R544",
+        "title": "Fareler Ve İnsanlar",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-12-11T16:30:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R544/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 30000
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    "biletix:5R545": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R545",
+        "title": "Genç Werther'ın Acıları",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-12-11T12:00:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R545/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 30000
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    "biletix:5R546": {
+      "event": {
+        "source": "Biletix",
+        "id": "5R546",
+        "title": "Masumiyet Müzesi",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-12-11T14:00:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5R546/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 30000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 30000
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
     "biletix:5REP0": {
       "event": {
         "source": "Biletix",
@@ -2469,7 +2809,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 166,
+      "consecutive_failures": 167,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2477,13 +2817,13 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 38,
+      "last_count": 37,
       "last_error": null
     },
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 28,
+      "last_count": 45,
       "last_error": null
     }
   },
