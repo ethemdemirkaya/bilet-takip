@@ -20,7 +20,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     "biletinial:afacan-kardesler-oyun-kuruyor@2026-11-15T17:00": {
       "event": {
@@ -80,7 +80,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-29"
+      "last_seen": "2026-10-31"
     },
     "biletinial:agustos-parki-dt@2026-11-08T14:00": {
       "event": {
@@ -120,7 +120,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-29"
+      "last_seen": "2026-10-31"
     },
     "biletinial:ask-ve-sifa@2026-11-15T19:30": {
       "event": {
@@ -340,7 +340,7 @@
         "En uygun bilet": 10001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-29"
+      "last_seen": "2026-10-31"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T15:00": {
       "event": {
@@ -382,7 +382,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-29"
+      "last_seen": "2026-10-31"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-10-31T20:00": {
       "event": {
@@ -424,7 +424,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-09-27",
-      "last_seen": "2026-10-29"
+      "last_seen": "2026-10-31"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-19T20:00": {
       "event": {
@@ -444,6 +444,26 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-30",
+      "last_seen": "2026-10-31"
+    },
+    "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-19T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "dugun-ya-da-davul-kayseri-dt@2026-11-19T23:00",
+        "title": "DÜĞÜN YA DA DAVUL",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-19T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-31",
       "last_seen": "2026-10-31"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-20T20:00": {
@@ -466,6 +486,26 @@
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-31"
     },
+    "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-20T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "dugun-ya-da-davul-kayseri-dt@2026-11-20T23:00",
+        "title": "DÜĞÜN YA DA DAVUL",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-20T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T15:00": {
       "event": {
         "source": "Biletinial",
@@ -486,6 +526,26 @@
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-31"
     },
+    "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T18:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "dugun-ya-da-davul-kayseri-dt@2026-11-21T18:00",
+        "title": "DÜĞÜN YA DA DAVUL",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-21T18:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T20:00": {
       "event": {
         "source": "Biletinial",
@@ -504,6 +564,26 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-30",
+      "last_seen": "2026-10-31"
+    },
+    "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "dugun-ya-da-davul-kayseri-dt@2026-11-21T23:00",
+        "title": "DÜĞÜN YA DA DAVUL",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-21T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-31",
       "last_seen": "2026-10-31"
     },
     "biletinial:insan-kaynaklari@2026-10-31T20:00": {
@@ -573,7 +653,7 @@
         "VIP": 425000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     "biletinial:karsu-konseri@2026-11-28T00:00": {
       "event": {
@@ -1182,6 +1262,26 @@
       "first_seen": "2026-10-31",
       "last_seen": "2026-10-31"
     },
+    "biletinial:masal-gulleri-kayseri-dt@2026-11-18T17:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "masal-gulleri-kayseri-dt@2026-11-18T17:00",
+        "title": "MASAL GÜLLERİ",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-18T17:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/masal-gulleri-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-22T14:00": {
       "event": {
         "source": "Biletinial",
@@ -1189,6 +1289,26 @@
         "title": "MASAL GÜLLERİ",
         "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
         "date": "2026-11-22T14:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/masal-gulleri-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
+    "biletinial:masal-gulleri-kayseri-dt@2026-11-22T17:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "masal-gulleri-kayseri-dt@2026-11-22T17:00",
+        "title": "MASAL GÜLLERİ",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-22T17:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/masal-gulleri-kayseri-dt",
         "tiers": {
@@ -1415,7 +1535,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-25",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     "biletinial:tirat-gecesi@2026-10-31T19:00": {
       "event": {
@@ -1544,7 +1664,7 @@
         "En uygun bilet": 171000
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     "biletinial:yuksek-sadakat@2026-11-20T20:30": {
       "event": {
@@ -2287,7 +2407,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 163,
+      "consecutive_failures": 164,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
