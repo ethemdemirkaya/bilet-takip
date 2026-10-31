@@ -306,6 +306,26 @@
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27"
     },
+    "biletinial:deli-bayrami-cat-kapi@2026-11-28T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "deli-bayrami-cat-kapi@2026-11-28T19:00",
+        "title": "Deli Bayramı",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-11-28T19:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/deli-bayrami-cat-kapi",
+        "tiers": {
+          "En uygun bilet": 35000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 35000
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
     "biletinial:dt-mutfak-leenanein-guzellik-kralicesi@2026-11-03T18:00": {
       "event": {
         "source": "Biletinial",
@@ -1577,6 +1597,26 @@
       "first_seen": "2026-10-28",
       "last_seen": "2026-10-28"
     },
+    "biletinial:tirat-gecesi@2026-11-15T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "tirat-gecesi@2026-11-15T19:00",
+        "title": "Tirat Gecesi",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-11-15T19:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/tirat-gecesi",
+        "tiers": {
+          "En uygun bilet": 35000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 35000
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
+    },
     "biletinial:ustun-dokmen-ile-kucuk-seyler@2026-11-19T20:00": {
       "event": {
         "source": "Biletinial",
@@ -1706,7 +1746,7 @@
         "En uygun bilet": 150000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     "biletix:5ADBS": {
       "event": {
@@ -2407,7 +2447,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 164,
+      "consecutive_failures": 165,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
