@@ -437,8 +437,10 @@
         "date": "2026-10-31T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
       },
       "reference": {
         "En uygun bilet": 7001
@@ -880,7 +882,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-05T23:00": {
       "event": {
@@ -920,7 +922,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-06T23:00": {
       "event": {
@@ -960,7 +962,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T18:00": {
       "event": {
@@ -1000,7 +1002,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-12",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T23:00": {
       "event": {
@@ -1040,7 +1042,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-12T23:00": {
       "event": {
@@ -1080,7 +1082,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-13T23:00": {
       "event": {
@@ -1120,7 +1122,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-14T18:00": {
       "event": {
@@ -1160,7 +1162,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-23",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-10-31"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-14T23:00": {
       "event": {
@@ -1470,6 +1472,26 @@
       },
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-28"
+    },
+    "biletinial:pinokyo-cocuk-oyunu-@2026-11-29T15:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "pinokyo-cocuk-oyunu-@2026-11-29T15:00",
+        "title": "Pinokyo",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-11-29T15:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/pinokyo-cocuk-oyunu-",
+        "tiers": {
+          "En uygun bilet": 38400
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 38400
+      },
+      "first_seen": "2026-10-31",
+      "last_seen": "2026-10-31"
     },
     "biletinial:sahane-pazar-sahnede@2026-11-15T20:30": {
       "event": {
@@ -2447,7 +2469,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 165,
+      "consecutive_failures": 166,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
