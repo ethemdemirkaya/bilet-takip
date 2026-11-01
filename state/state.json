@@ -20,7 +20,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     "biletinial:afacan-kardesler-oyun-kuruyor@2026-11-15T17:00": {
       "event": {
@@ -80,7 +80,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     "biletinial:agustos-parki-dt@2026-11-08T14:00": {
       "event": {
@@ -120,7 +120,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     "biletinial:ask-ve-sifa@2026-11-15T19:30": {
       "event": {
@@ -379,7 +379,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-20T20:00": {
       "event": {
@@ -419,7 +419,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T15:00": {
       "event": {
@@ -459,7 +459,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T20:00": {
       "event": {
@@ -499,7 +499,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     "biletinial:karsu-konseri@2026-11-27T21:00": {
       "event": {
@@ -741,16 +741,14 @@
         "date": "2026-11-05T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/leenanein-guzellik-kralicesi-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-06T20:00": {
       "event": {
@@ -790,7 +788,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T15:00": {
       "event": {
@@ -830,7 +828,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-07T20:00": {
       "event": {
@@ -870,7 +868,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-13",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-12T20:00": {
       "event": {
@@ -910,7 +908,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-13T20:00": {
       "event": {
@@ -950,7 +948,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-14T15:00": {
       "event": {
@@ -990,7 +988,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-14T20:00": {
       "event": {
@@ -1030,7 +1028,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-11T14:00": {
       "event": {
@@ -1385,7 +1383,7 @@
         "En uygun bilet": 90000
       },
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-11-01"
     },
     "biletinial:super-kediler-tiyatro-oyunu@2026-11-15T16:00": {
       "event": {
@@ -1514,7 +1512,7 @@
         "Protokol Fiyat": 400000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     "biletinial:yasar-jj@2026-11-22T22:00": {
       "event": {
@@ -1806,22 +1804,22 @@
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5JBB1/TURKIYE/tr",
         "tiers": {
-          "1. Kategori": 250000,
-          "2. Kategori": 200000,
-          "3. Kategori": 160000,
-          "4. Kategori": 130000,
-          "5. Kategori": 100000,
-          "VIP": 325000
+          "1. Kategori": 139400,
+          "2. Kategori": 111500,
+          "3. Kategori": 89200,
+          "4. Kategori": 72500,
+          "5. Kategori": 55750,
+          "VIP": 181200
         },
         "sold_out": false
       },
       "reference": {
-        "1. Kategori": 250000,
-        "2. Kategori": 200000,
-        "3. Kategori": 160000,
-        "4. Kategori": 130000,
-        "5. Kategori": 100000,
-        "VIP": 325000
+        "1. Kategori": 139400,
+        "2. Kategori": 111500,
+        "3. Kategori": 89200,
+        "4. Kategori": 72500,
+        "5. Kategori": 55750,
+        "VIP": 181200
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-11-01"
@@ -1836,22 +1834,22 @@
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5JBCH/TURKIYE/tr",
         "tiers": {
-          "1. Kategori": 200000,
-          "2. Kategori": 160000,
-          "3. Kategori": 140000,
-          "4. Kategori": 120000,
-          "5. Kategori": 100000,
-          "VIP": 250000
+          "1. Kategori": 111500,
+          "2. Kategori": 89200,
+          "3. Kategori": 78050,
+          "4. Kategori": 66900,
+          "5. Kategori": 55750,
+          "VIP": 139400
         },
         "sold_out": false
       },
       "reference": {
-        "1. Kategori": 200000,
-        "2. Kategori": 160000,
-        "3. Kategori": 140000,
-        "4. Kategori": 120000,
-        "5. Kategori": 100000,
-        "VIP": 250000
+        "1. Kategori": 111500,
+        "2. Kategori": 89200,
+        "3. Kategori": 78050,
+        "4. Kategori": 66900,
+        "5. Kategori": 55750,
+        "VIP": 139400
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-11-01"
@@ -2589,22 +2587,22 @@
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/6JB01/TURKIYE/tr",
         "tiers": {
-          "1. Kategori": 250000,
-          "2. Kategori": 200000,
-          "3. Kategori": 150000,
-          "4. Kategori": 125000,
-          "5. Kategori": 100000,
-          "VIP": 300000
+          "1. Kategori": 139400,
+          "2. Kategori": 111500,
+          "3. Kategori": 83650,
+          "4. Kategori": 69700,
+          "5. Kategori": 55750,
+          "VIP": 167250
         },
         "sold_out": false
       },
       "reference": {
-        "1. Kategori": 250000,
-        "2. Kategori": 200000,
-        "3. Kategori": 150000,
-        "4. Kategori": 125000,
-        "5. Kategori": 100000,
-        "VIP": 300000
+        "1. Kategori": 139400,
+        "2. Kategori": 111500,
+        "3. Kategori": 83650,
+        "4. Kategori": 69700,
+        "5. Kategori": 55750,
+        "VIP": 167250
       },
       "first_seen": "2026-10-26",
       "last_seen": "2026-11-01"
@@ -2617,7 +2615,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 169,
+      "consecutive_failures": 170,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
