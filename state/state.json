@@ -692,7 +692,7 @@
         "Protokol Fiyat": 175000
       },
       "first_seen": "2026-10-16",
-      "last_seen": "2026-10-31"
+      "last_seen": "2026-11-01"
     },
     "biletinial:konken-partisi@2026-11-08T23:00": {
       "event": {
@@ -2617,7 +2617,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 168,
+      "consecutive_failures": 169,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
