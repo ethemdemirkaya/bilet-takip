@@ -279,7 +279,7 @@
         "En uygun bilet": 160000
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     "biletinial:cok-guzel-hareketler@2026-11-22T20:30": {
       "event": {
@@ -319,7 +319,7 @@
         "En uygun bilet": 160000
       },
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     "biletinial:deli-bayrami-cat-kapi@2026-11-15T19:00": {
       "event": {
@@ -806,7 +806,7 @@
         "En uygun bilet": 100000
       },
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-03"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-05T20:00": {
       "event": {
@@ -1124,6 +1124,26 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-24",
+      "last_seen": "2026-11-03"
+    },
+    "biletinial:mahseri-cumbus-sanart@2026-11-18T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "mahseri-cumbus-sanart@2026-11-18T20:00",
+        "title": "Mahşer-i Cümbüş",
+        "venue": "Kayseri İl Kültür Merkezi",
+        "date": "2026-11-18T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/mahseri-cumbus-sanart",
+        "tiers": {
+          "En uygun bilet": 112000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 112000
+      },
+      "first_seen": "2026-11-03",
       "last_seen": "2026-11-03"
     },
     "biletinial:mahseri-cumbus-sanart@2026-11-18T23:00": {
@@ -1493,7 +1513,7 @@
         "En uygun bilet": 38400
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-03"
     },
     "biletinial:pinokyo-cocuk-oyunu-@2026-11-29T20:00": {
       "event": {
@@ -1513,7 +1533,7 @@
         "En uygun bilet": 38400
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-03"
     },
     "biletinial:sahane-pazar-sahnede@2026-11-15T20:30": {
       "event": {
@@ -1709,6 +1729,46 @@
       },
       "first_seen": "2026-10-08",
       "last_seen": "2026-11-02"
+    },
+    "biletinial:yetenek-biziz@2026-11-22T16:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "yetenek-biziz@2026-11-22T16:00",
+        "title": "Yetenek Biziz",
+        "venue": "Kayseri Kültür Merkezi I. Alaeddin Keykubat Salonu",
+        "date": "2026-11-22T16:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/yetenek-biziz",
+        "tiers": {
+          "En uygun bilet": 70000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 70000
+      },
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
+    },
+    "biletinial:yetenek-biziz@2026-11-22T18:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "yetenek-biziz@2026-11-22T18:00",
+        "title": "Yetenek Biziz",
+        "venue": "Kayseri Kültür Merkezi I. Alaeddin Keykubat Salonu",
+        "date": "2026-11-22T18:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/yetenek-biziz",
+        "tiers": {
+          "En uygun bilet": 70000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 70000
+      },
+      "first_seen": "2026-11-03",
+      "last_seen": "2026-11-03"
     },
     "biletinial:yuksek-sadakat@2026-11-20T20:30": {
       "event": {
@@ -2041,7 +2101,7 @@
         "url": "https://www.biletix.com/etkinlik/5JDH8/TURKIYE/tr",
         "tiers": {
           "1. Kategori": 342000,
-          "2. Kategori": 285000,
+          "2. Kategori": 228000,
           "3. Kategori": 228000,
           "4. Kategori": 171000,
           "Protokol": 456000
@@ -2050,7 +2110,7 @@
       },
       "reference": {
         "1. Kategori": 342000,
-        "2. Kategori": 285000,
+        "2. Kategori": 228000,
         "3. Kategori": 228000,
         "4. Kategori": 171000,
         "Protokol": 456000
@@ -2790,7 +2850,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 178,
+      "consecutive_failures": 179,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2798,7 +2858,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 42,
+      "last_count": 44,
       "last_error": null
     },
     "Biletix": {
