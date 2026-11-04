@@ -118,6 +118,26 @@
       "first_seen": "2026-10-13",
       "last_seen": "2026-11-03"
     },
+    "biletinial:anna-karenina-oyunu-biletleri@2026-11-22T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "anna-karenina-oyunu-biletleri@2026-11-22T20:00",
+        "title": "Anna Karenina",
+        "venue": "Kayseri Kültür Merkezi I. Alaeddin Keykubat Salonu",
+        "date": "2026-11-22T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/anna-karenina-oyunu-biletleri",
+        "tiers": {
+          "En uygun bilet": 75000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 75000
+      },
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04"
+    },
     "biletinial:ask-ve-sifa@2026-11-15T19:30": {
       "event": {
         "source": "Biletinial",
@@ -605,6 +625,26 @@
       "first_seen": "2026-09-25",
       "last_seen": "2026-11-04"
     },
+    "biletinial:kayip-renkler-dt@2026-11-25T11:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kayip-renkler-dt@2026-11-25T11:00",
+        "title": "KAYIP RENKLER",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-25T11:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kayip-renkler-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04"
+    },
     "biletinial:kayseride-buyuk-cocuk-senligi@2026-11-28T13:30": {
       "event": {
         "source": "Biletinial",
@@ -725,6 +765,86 @@
       "first_seen": "2026-10-22",
       "last_seen": "2026-10-22"
     },
+    "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-26T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kesanli-ali-destani-kayseri-dt@2026-11-26T23:00",
+        "title": "KEŞANLI ALİ DESTANI - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-26T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kesanli-ali-destani-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04"
+    },
+    "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-27T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kesanli-ali-destani-kayseri-dt@2026-11-27T23:00",
+        "title": "KEŞANLI ALİ DESTANI - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-27T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kesanli-ali-destani-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04"
+    },
+    "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-28T18:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kesanli-ali-destani-kayseri-dt@2026-11-28T18:00",
+        "title": "KEŞANLI ALİ DESTANI - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-28T18:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kesanli-ali-destani-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04"
+    },
+    "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-28T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kesanli-ali-destani-kayseri-dt@2026-11-28T23:00",
+        "title": "KEŞANLI ALİ DESTANI - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-28T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kesanli-ali-destani-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-04"
+    },
     "biletinial:konken-partisi@2026-11-08T20:00": {
       "event": {
         "source": "Biletinial",
@@ -781,8 +901,10 @@
         "date": "2026-11-05T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/leenanein-guzellik-kralicesi-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
       },
       "reference": {
         "En uygun bilet": 7001
@@ -819,10 +941,8 @@
         "date": "2026-11-06T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/leenanein-guzellik-kralicesi-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -1100,12 +1220,12 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/mahseri-cumbus-sanart",
         "tiers": {
-          "En uygun bilet": 112000
+          "En uygun bilet": 134400
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 112000
+        "En uygun bilet": 134400
       },
       "first_seen": "2026-11-03",
       "last_seen": "2026-11-04"
@@ -1288,6 +1408,26 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
+      "last_seen": "2026-11-04"
+    },
+    "biletinial:masal-gulleri-kayseri-dt@2026-11-29T14:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "masal-gulleri-kayseri-dt@2026-11-29T14:00",
+        "title": "MASAL GÜLLERİ",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-11-29T14:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/masal-gulleri-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-04",
       "last_seen": "2026-11-04"
     },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T20:00": {
@@ -1543,6 +1683,26 @@
         "En uygun bilet": 90000
       },
       "first_seen": "2026-10-19",
+      "last_seen": "2026-11-04"
+    },
+    "biletinial:simyaci@2026-12-07T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "simyaci@2026-12-07T20:00",
+        "title": "Simyacı",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-12-07T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/simyaci",
+        "tiers": {
+          "En uygun bilet": 75000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 75000
+      },
+      "first_seen": "2026-11-04",
       "last_seen": "2026-11-04"
     },
     "biletinial:super-kediler-tiyatro-oyunu@2026-11-15T16:00": {
@@ -2148,7 +2308,7 @@
         "id": "5KS04",
         "title": "Şahane Pazar Sahnede",
         "venue": "Kadir Has Gösteri ve Sanat Merkezi",
-        "date": "2026-11-15T17:30:00Z",
+        "date": "2026-12-23T17:30:00Z",
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5KS04/TURKIYE/tr",
         "tiers": {
@@ -2166,6 +2326,26 @@
         "4. Kategori": 150000
       },
       "first_seen": "2026-10-16",
+      "last_seen": "2026-11-04"
+    },
+    "biletix:5KZ28": {
+      "event": {
+        "source": "Biletix",
+        "id": "5KZ28",
+        "title": "Anna Karenina",
+        "venue": "Kayseri İl Kültür Merkezi",
+        "date": "2026-11-22T17:00:00Z",
+        "category": "Tiyatro",
+        "url": "https://www.biletix.com/etkinlik/5KZ28/TURKIYE/tr",
+        "tiers": {
+          "1. Kategori": 75000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "1. Kategori": 75000
+      },
+      "first_seen": "2026-11-04",
       "last_seen": "2026-11-04"
     },
     "biletix:5LWI0": {
@@ -2874,7 +3054,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 182,
+      "consecutive_failures": 183,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2882,13 +3062,13 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 42,
+      "last_count": 49,
       "last_error": null
     },
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 45,
+      "last_count": 46,
       "last_error": null
     }
   },
