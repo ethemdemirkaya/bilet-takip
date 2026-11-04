@@ -603,7 +603,7 @@
         "En uygun bilet": 145000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-04"
     },
     "biletinial:kayseride-buyuk-cocuk-senligi@2026-11-28T13:30": {
       "event": {
@@ -781,10 +781,8 @@
         "date": "2026-11-05T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/leenanein-guzellik-kralicesi-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -1479,7 +1477,7 @@
         "En uygun bilet": 38400
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "biletinial:pinokyo-cocuk-oyunu-@2026-11-29T20:00": {
       "event": {
@@ -1499,7 +1497,7 @@
         "En uygun bilet": 38400
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "biletinial:sahane-pazar-sahnede@2026-11-15T20:30": {
       "event": {
@@ -1714,7 +1712,7 @@
         "En uygun bilet": 171000
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-04"
     },
     "biletinial:yetenek-biziz@2026-11-22T13:00": {
       "event": {
@@ -1836,7 +1834,7 @@
         "En uygun bilet": 150000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-04"
     },
     "biletix:5ADBS": {
       "event": {
@@ -2180,12 +2178,12 @@
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5LWI0/TURKIYE/tr",
         "tiers": {
-          "1. Kategori": 114400
+          "1. Kategori": 137250
         },
         "sold_out": false
       },
       "reference": {
-        "1. Kategori": 114400,
+        "1. Kategori": 137250,
         "2. Kategori": 114400
       },
       "first_seen": "2026-09-29",
@@ -2876,7 +2874,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 181,
+      "consecutive_failures": 182,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2884,7 +2882,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 43,
+      "last_count": 42,
       "last_error": null
     },
     "Biletix": {
