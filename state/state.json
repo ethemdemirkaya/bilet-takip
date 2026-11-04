@@ -750,7 +750,7 @@
         "Protokol Fiyat": 175000
       },
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "biletinial:konken-partisi@2026-11-08T23:00": {
       "event": {
@@ -1130,7 +1130,7 @@
         "En uygun bilet": 112000
       },
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-11T14:00": {
       "event": {
@@ -1230,7 +1230,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-18T17:00": {
       "event": {
@@ -1270,7 +1270,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-22T17:00": {
       "event": {
@@ -1357,7 +1357,7 @@
         "En uygun bilet": 67200
       },
       "first_seen": "2026-10-09",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "biletinial:nazim@2026-11-21T20:00": {
       "event": {
@@ -1379,7 +1379,7 @@
         "En uygun bilet": 67200
       },
       "first_seen": "2026-10-17",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "biletinial:nazim@2026-11-21T21:00": {
       "event": {
@@ -1545,7 +1545,7 @@
         "En uygun bilet": 90000
       },
       "first_seen": "2026-10-19",
-      "last_seen": "2026-11-02"
+      "last_seen": "2026-11-04"
     },
     "biletinial:super-kediler-tiyatro-oyunu@2026-11-15T16:00": {
       "event": {
@@ -1605,7 +1605,7 @@
         "En uygun bilet": 35000
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-04"
     },
     "biletinial:tirat-gecesi@2026-11-15T22:00": {
       "event": {
@@ -1669,7 +1669,7 @@
         "En uygun bilet": 140000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-10-30"
+      "last_seen": "2026-11-04"
     },
     "biletinial:yasar-jj@2026-11-22T19:00": {
       "event": {
@@ -2876,7 +2876,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 180,
+      "consecutive_failures": 181,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
