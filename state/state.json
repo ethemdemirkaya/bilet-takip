@@ -40,7 +40,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-11-03"
+      "last_seen": "2026-11-05"
     },
     "biletinial:agustos-parki-dt@2026-11-08T14:00": {
       "event": {
@@ -368,16 +368,14 @@
         "date": "2026-11-19T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-05"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-20T20:00": {
       "event": {
@@ -417,7 +415,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-05"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T15:00": {
       "event": {
@@ -457,7 +455,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-05"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T20:00": {
       "event": {
@@ -497,7 +495,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-01"
+      "last_seen": "2026-11-05"
     },
     "biletinial:edi-ile-budu@2026-12-14T20:00": {
       "event": {
@@ -959,8 +957,10 @@
         "date": "2026-11-06T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/leenanein-guzellik-kralicesi-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
       },
       "reference": {
         "En uygun bilet": 7001
@@ -1700,6 +1700,26 @@
       },
       "first_seen": "2026-10-19",
       "last_seen": "2026-11-04"
+    },
+    "biletinial:sahane-pazar-sahnede@2026-12-23T20:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "sahane-pazar-sahnede@2026-12-23T20:30",
+        "title": "Şahane Pazar Sahnede",
+        "venue": "Kayseri Kadir Has Kongre Merkezi",
+        "date": "2026-12-23T20:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/sahane-pazar-sahnede",
+        "tiers": {
+          "En uygun bilet": 90000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 90000
+      },
+      "first_seen": "2026-11-05",
+      "last_seen": "2026-11-05"
     },
     "biletinial:simyaci@2026-12-07T20:00": {
       "event": {
@@ -3090,7 +3110,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 186,
+      "consecutive_failures": 187,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
