@@ -890,7 +890,7 @@
         "Protokol Fiyat": 175000
       },
       "first_seen": "2026-10-16",
-      "last_seen": "2026-11-04"
+      "last_seen": "2026-11-05"
     },
     "biletinial:konken-partisi@2026-11-08T23:00": {
       "event": {
@@ -1595,7 +1595,7 @@
         "En uygun bilet": 38400
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-04"
+      "last_seen": "2026-11-05"
     },
     "biletinial:pinokyo-cocuk-oyunu-@2026-11-29T17:00": {
       "event": {
@@ -1615,7 +1615,7 @@
         "En uygun bilet": 38400
       },
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-04"
+      "last_seen": "2026-11-05"
     },
     "biletinial:pinokyo-cocuk-oyunu-@2026-11-29T18:00": {
       "event": {
@@ -1721,6 +1721,26 @@
         "En uygun bilet": 75000
       },
       "first_seen": "2026-11-04",
+      "last_seen": "2026-11-05"
+    },
+    "biletinial:simyaci@2026-12-07T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "simyaci@2026-12-07T23:00",
+        "title": "Simyacı",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-12-07T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/simyaci",
+        "tiers": {
+          "En uygun bilet": 75000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 75000
+      },
+      "first_seen": "2026-11-05",
       "last_seen": "2026-11-05"
     },
     "biletinial:super-kediler-tiyatro-oyunu@2026-11-15T16:00": {
@@ -3072,7 +3092,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 184,
+      "consecutive_failures": 185,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
