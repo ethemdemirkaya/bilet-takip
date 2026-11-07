@@ -495,7 +495,7 @@
         "En uygun bilet": 140000
       },
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     "biletinial:karsu-konseri@2026-11-27T21:00": {
       "event": {
@@ -879,10 +879,8 @@
         "date": "2026-11-07T18:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/leenanein-guzellik-kralicesi-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -919,10 +917,8 @@
         "date": "2026-11-07T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/leenanein-guzellik-kralicesi-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -1120,15 +1116,15 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/mahseri-cumbus-sanart",
         "tiers": {
-          "En uygun bilet": 112000
+          "En uygun bilet": 134400
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 112000
+        "En uygun bilet": 134400
       },
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-04"
+      "last_seen": "2026-11-07"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-11T14:00": {
       "event": {
@@ -1244,7 +1240,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-22T14:00": {
       "event": {
@@ -1284,7 +1280,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-29T14:00": {
       "event": {
@@ -1324,7 +1320,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T20:00": {
       "event": {
@@ -1513,7 +1509,7 @@
         "En uygun bilet": 38400
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     "biletinial:pinokyo-cocuk-oyunu-@2026-11-29T20:00": {
       "event": {
@@ -1533,7 +1529,7 @@
         "En uygun bilet": 38400
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-06"
+      "last_seen": "2026-11-07"
     },
     "biletinial:sahane-pazar-sahnede@2026-11-15T20:30": {
       "event": {
@@ -3006,7 +3002,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 193,
+      "consecutive_failures": 194,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
