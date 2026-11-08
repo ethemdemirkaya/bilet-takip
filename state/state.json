@@ -40,7 +40,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-08"
     },
     "biletinial:agustos-parki-dt@2026-11-08T14:00": {
       "event": {
@@ -317,7 +317,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-08"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-19T23:00": {
       "event": {
@@ -355,7 +355,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-08"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-20T23:00": {
       "event": {
@@ -395,7 +395,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-08"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T18:00": {
       "event": {
@@ -435,7 +435,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-08"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T23:00": {
       "event": {
@@ -848,7 +848,7 @@
         "En uygun bilet": 100000
       },
       "first_seen": "2026-10-15",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-08"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-12T20:00": {
       "event": {
@@ -1028,7 +1028,7 @@
         "En uygun bilet": 134400
       },
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-08"
     },
     "biletinial:mahseri-cumbus-sanart@2026-11-18T23:00": {
       "event": {
@@ -1870,7 +1870,7 @@
         "En uygun bilet": 150000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-08"
     },
     "biletix:5ADBS": {
       "event": {
@@ -2901,7 +2901,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 197,
+      "consecutive_failures": 198,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
