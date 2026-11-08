@@ -51,8 +51,10 @@
         "date": "2026-11-08T14:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
       },
       "reference": {
         "En uygun bilet": 7001
@@ -199,7 +201,7 @@
         "En uygun bilet": 160000
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-08"
     },
     "biletinial:cok-guzel-hareketler@2026-11-22T20:30": {
       "event": {
@@ -239,7 +241,7 @@
         "En uygun bilet": 160000
       },
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-08"
     },
     "biletinial:deli-bayrami-cat-kapi@2026-11-15T19:00": {
       "event": {
@@ -1164,7 +1166,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-08"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-22T14:00": {
       "event": {
@@ -1204,7 +1206,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-08"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-29T14:00": {
       "event": {
@@ -1244,7 +1246,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-08"
     },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T20:00": {
       "event": {
@@ -2901,7 +2903,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 198,
+      "consecutive_failures": 199,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
