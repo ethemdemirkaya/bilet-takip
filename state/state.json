@@ -265,6 +265,26 @@
       "first_seen": "2026-10-31",
       "last_seen": "2026-11-09"
     },
+    "biletinial:deli-bayrami-cat-kapi@2026-11-28T22:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "deli-bayrami-cat-kapi@2026-11-28T22:00",
+        "title": "Deli Bayramı",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-11-28T22:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/deli-bayrami-cat-kapi",
+        "tiers": {
+          "En uygun bilet": 35000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 35000
+      },
+      "first_seen": "2026-11-09",
+      "last_seen": "2026-11-09"
+    },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-19T20:00": {
       "event": {
         "source": "Biletinial",
@@ -299,7 +319,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-09"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-20T20:00": {
       "event": {
@@ -339,7 +359,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-09"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T15:00": {
       "event": {
@@ -379,7 +399,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-09"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T20:00": {
       "event": {
@@ -419,7 +439,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-09"
     },
     "biletinial:edi-ile-budu@2026-12-14T20:00": {
       "event": {
@@ -805,7 +825,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-09"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-13T20:00": {
       "event": {
@@ -845,7 +865,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-09"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-14T15:00": {
       "event": {
@@ -885,7 +905,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-09"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-14T20:00": {
       "event": {
@@ -925,7 +945,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-09"
     },
     "biletinial:mahseri-cumbus-sanart@2026-11-18T20:00": {
       "event": {
@@ -957,12 +977,12 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/mahseri-cumbus-sanart",
         "tiers": {
-          "En uygun bilet": 134400
+          "En uygun bilet": 168000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 134400
+        "En uygun bilet": 168000
       },
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-09"
@@ -1081,7 +1101,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-09"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-22T14:00": {
       "event": {
@@ -1121,7 +1141,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-09"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-29T14:00": {
       "event": {
@@ -1161,7 +1181,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-09"
     },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T20:00": {
       "event": {
@@ -1350,7 +1370,7 @@
         "En uygun bilet": 38400
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-09"
     },
     "biletinial:pinokyo-cocuk-oyunu-@2026-11-29T20:00": {
       "event": {
@@ -1370,7 +1390,7 @@
         "En uygun bilet": 38400
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-09"
     },
     "biletinial:sahane-pazar-sahnede@2026-11-15T20:30": {
       "event": {
@@ -1496,7 +1516,7 @@
         "En uygun bilet": 75000
       },
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-09"
     },
     "biletinial:super-kediler-tiyatro-oyunu@2026-11-15T16:00": {
       "event": {
@@ -1576,7 +1596,7 @@
         "En uygun bilet": 35000
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-04"
+      "last_seen": "2026-11-09"
     },
     "biletinial:ustun-dokmen-ile-kucuk-seyler@2026-11-19T20:00": {
       "event": {
@@ -2009,12 +2029,12 @@
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5LWI0/TURKIYE/tr",
         "tiers": {
-          "1. Kategori": 137250
+          "1. Kategori": 96125
         },
         "sold_out": false
       },
       "reference": {
-        "1. Kategori": 137250,
+        "1. Kategori": 96125,
         "2. Kategori": 114400
       },
       "first_seen": "2026-09-29",
@@ -2676,7 +2696,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 203,
+      "consecutive_failures": 204,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2690,7 +2710,7 @@
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 38,
+      "last_count": 37,
       "last_error": null
     }
   },
