@@ -505,7 +505,7 @@
         "En uygun bilet": 145000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-09"
     },
     "biletinial:kayip-renkler-dt@2026-11-25T11:00": {
       "event": {
@@ -1456,7 +1456,7 @@
         "En uygun bilet": 90000
       },
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-09"
     },
     "biletinial:simyaci@2026-12-07T20:00": {
       "event": {
@@ -1600,7 +1600,7 @@
         "En uygun bilet": 140000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-09"
     },
     "biletinial:ustun-dokmen-ile-kucuk-seyler@2026-11-19T23:00": {
       "event": {
@@ -1665,7 +1665,7 @@
         "En uygun bilet": 171000
       },
       "first_seen": "2026-10-08",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-09"
     },
     "biletinial:yetenek-biziz@2026-11-22T13:00": {
       "event": {
@@ -2676,7 +2676,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 201,
+      "consecutive_failures": 202,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
