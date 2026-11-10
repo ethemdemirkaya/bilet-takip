@@ -40,7 +40,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-10"
     },
     "biletinial:anna-karenina-oyunu-biletleri@2026-11-22T20:00": {
       "event": {
@@ -143,7 +143,7 @@
         "En uygun bilet": 160000
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-10"
     },
     "biletinial:cok-guzel-hareketler@2026-11-22T18:30": {
       "event": {
@@ -183,7 +183,7 @@
         "En uygun bilet": 160000
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-10"
     },
     "biletinial:cok-guzel-hareketler@2026-11-22T23:30": {
       "event": {
@@ -319,7 +319,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-10"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-20T20:00": {
       "event": {
@@ -348,16 +348,14 @@
         "date": "2026-11-20T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-10"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T15:00": {
       "event": {
@@ -386,16 +384,14 @@
         "date": "2026-11-21T18:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-10"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T20:00": {
       "event": {
@@ -426,16 +422,14 @@
         "date": "2026-11-21T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-10"
     },
     "biletinial:edi-ile-budu@2026-12-14T20:00": {
       "event": {
@@ -561,7 +555,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-10"
     },
     "biletinial:kayseride-buyuk-cocuk-senligi@2026-11-28T13:30": {
       "event": {
@@ -2553,7 +2547,7 @@
         "id": "5YHE2",
         "title": "No.1",
         "venue": "EKM Erciyes Kültür Merkezi",
-        "date": "2026-11-15T18:00:00Z",
+        "date": "2026-11-29T18:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5YHE2/TURKIYE/tr",
         "tiers": {
@@ -2567,6 +2561,32 @@
         "VIP": 150000
       },
       "first_seen": "2026-10-09",
+      "last_seen": "2026-11-10"
+    },
+    "biletix:5YHE3": {
+      "event": {
+        "source": "Biletix",
+        "id": "5YHE3",
+        "title": "Kerimcan Durmaz",
+        "venue": "EKM Erciyes Kültür Merkezi",
+        "date": "2026-12-23T18:00:00Z",
+        "category": "Konser",
+        "url": "https://www.biletix.com/etkinlik/5YHE3/TURKIYE/tr",
+        "tiers": {
+          "Genel Giriş": 110000,
+          "Queen Vip Bistro": 850000,
+          "Sahne Önü": 300000,
+          "VIP Bistro": 650000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "Genel Giriş": 110000,
+        "Queen Vip Bistro": 850000,
+        "Sahne Önü": 300000,
+        "VIP Bistro": 650000
+      },
+      "first_seen": "2026-11-10",
       "last_seen": "2026-11-10"
     },
     "biletix:6JB01": {
@@ -2607,7 +2627,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 206,
+      "consecutive_failures": 207,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2621,7 +2641,7 @@
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 37,
+      "last_count": 36,
       "last_error": null
     }
   },
