@@ -455,7 +455,7 @@
         "En uygun bilet": 140000
       },
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-10"
     },
     "biletinial:edi-ile-budu@2026-12-14T23:00": {
       "event": {
@@ -661,7 +661,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-10"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-27T20:00": {
       "event": {
@@ -701,7 +701,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-10"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-28T15:00": {
       "event": {
@@ -741,7 +741,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-10"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-28T20:00": {
       "event": {
@@ -781,7 +781,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-10"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-12T20:00": {
       "event": {
@@ -821,7 +821,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-10"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-13T20:00": {
       "event": {
@@ -861,7 +861,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-10"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-14T15:00": {
       "event": {
@@ -901,7 +901,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-10"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-14T20:00": {
       "event": {
@@ -941,7 +941,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-10"
     },
     "biletinial:mahseri-cumbus-sanart@2026-11-18T20:00": {
       "event": {
@@ -953,15 +953,15 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/mahseri-cumbus-sanart",
         "tiers": {
-          "En uygun bilet": 134400
+          "En uygun bilet": 168000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 134400
+        "En uygun bilet": 168000
       },
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-10"
     },
     "biletinial:mahseri-cumbus-sanart@2026-11-18T23:00": {
       "event": {
@@ -1028,10 +1028,8 @@
         "date": "2026-11-22T14:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/masal-gulleri-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -1164,7 +1162,7 @@
         "En uygun bilet": 67200
       },
       "first_seen": "2026-10-09",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-10"
     },
     "biletinial:nazim@2026-11-21T20:00": {
       "event": {
@@ -1186,7 +1184,7 @@
         "En uygun bilet": 67200
       },
       "first_seen": "2026-10-17",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-10"
     },
     "biletinial:nazim@2026-11-21T21:00": {
       "event": {
@@ -1556,7 +1554,7 @@
         "En uygun bilet": 140000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-10"
     },
     "biletinial:yasar-jj@2026-11-22T19:00": {
       "event": {
@@ -1581,7 +1579,7 @@
         "Protokol Fiyat": 400000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-10"
     },
     "biletinial:yasar-jj@2026-11-22T22:00": {
       "event": {
@@ -2082,10 +2080,7 @@
         "date": "2026-11-15T18:00:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5OSAX/TURKIYE/tr",
-        "tiers": {
-          "Genel Giriş": 80000,
-          "Sahne Önü": 150000
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -2612,7 +2607,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 205,
+      "consecutive_failures": 206,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
