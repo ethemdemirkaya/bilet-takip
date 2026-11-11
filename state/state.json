@@ -40,7 +40,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     "biletinial:anna-karenina-oyunu-biletleri@2026-11-22T20:00": {
       "event": {
@@ -1174,7 +1174,7 @@
         "En uygun bilet": 67200
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     "biletinial:nazim@2026-11-21T23:00": {
       "event": {
@@ -1194,7 +1194,7 @@
         "En uygun bilet": 67200
       },
       "first_seen": "2026-10-18",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-11"
     },
     "biletinial:pinokyo-cocuk-oyunu-@2026-11-29T15:00": {
       "event": {
@@ -1254,7 +1254,7 @@
         "En uygun bilet": 38400
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-11"
     },
     "biletinial:pinokyo-cocuk-oyunu-@2026-11-29T20:00": {
       "event": {
@@ -1274,7 +1274,7 @@
         "En uygun bilet": 38400
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-09"
+      "last_seen": "2026-11-11"
     },
     "biletinial:sahane-pazar-sahnede@2026-11-15T20:30": {
       "event": {
@@ -2623,7 +2623,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 210,
+      "consecutive_failures": 211,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2637,7 +2637,7 @@
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 36,
+      "last_count": 35,
       "last_error": null
     }
   },
