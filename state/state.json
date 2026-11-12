@@ -56,7 +56,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "biletinial:anna-karenina-oyunu-biletleri@2026-11-22T20:00": {
       "event": {
@@ -315,7 +315,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-20T20:00": {
       "event": {
@@ -351,7 +351,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T15:00": {
       "event": {
@@ -387,7 +387,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T20:00": {
       "event": {
@@ -423,7 +423,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "biletinial:edi-ile-budu@2026-12-14T20:00": {
       "event": {
@@ -809,7 +809,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-13T20:00": {
       "event": {
@@ -849,7 +849,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-14T15:00": {
       "event": {
@@ -889,7 +889,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-14T20:00": {
       "event": {
@@ -929,7 +929,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "biletinial:mahseri-cumbus-sanart@2026-11-18T20:00": {
       "event": {
@@ -2639,7 +2639,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 213,
+      "consecutive_failures": 214,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
