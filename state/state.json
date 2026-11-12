@@ -16,6 +16,22 @@
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12"
     },
+    "biletinial:7-kocali-hurmuz-muzikali@2027-01-23T00:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "7-kocali-hurmuz-muzikali@2027-01-23T00:00",
+        "title": "7 Kocalı Hürmüz Müzikali",
+        "venue": "Kayseri Erciyes Kültür Merkezi",
+        "date": "2027-01-23T00:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/7-kocali-hurmuz-muzikali",
+        "tiers": {},
+        "sold_out": false
+      },
+      "reference": {},
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12"
+    },
     "biletinial:afacan-kardesler-oyun-kuruyor@2026-11-15T14:00": {
       "event": {
         "source": "Biletinial",
@@ -76,6 +92,26 @@
         "En uygun bilet": 75000
       },
       "first_seen": "2026-11-04",
+      "last_seen": "2026-11-12"
+    },
+    "biletinial:anna-karenina-oyunu-biletleri@2026-11-22T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "anna-karenina-oyunu-biletleri@2026-11-22T23:00",
+        "title": "Anna Karenina",
+        "venue": "Kayseri Kültür Merkezi I. Alaeddin Keykubat Salonu",
+        "date": "2026-11-22T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/anna-karenina-oyunu-biletleri",
+        "tiers": {
+          "En uygun bilet": 75000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 75000
+      },
+      "first_seen": "2026-11-12",
       "last_seen": "2026-11-12"
     },
     "biletinial:ask-ve-sifa@2026-11-15T19:30": {
@@ -1005,7 +1041,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-22T14:00": {
       "event": {
@@ -1041,7 +1077,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-29T14:00": {
       "event": {
@@ -1081,7 +1117,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T20:00": {
       "event": {
@@ -1126,7 +1162,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-03",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "biletinial:nazim@2026-11-21T18:00": {
       "event": {
@@ -1416,7 +1452,7 @@
         "En uygun bilet": 75000
       },
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "biletinial:super-kediler-tiyatro-oyunu@2026-11-15T16:00": {
       "event": {
@@ -1456,7 +1492,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-25",
-      "last_seen": "2026-11-07"
+      "last_seen": "2026-11-12"
     },
     "biletinial:tirat-gecesi@2026-11-15T19:00": {
       "event": {
@@ -2639,7 +2675,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 214,
+      "consecutive_failures": 215,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2647,13 +2683,13 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 45,
+      "last_count": 44,
       "last_error": null
     },
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 35,
+      "last_count": 34,
       "last_error": null
     }
   },
