@@ -159,7 +159,7 @@
         "En uygun bilet": 160000
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "biletinial:cok-guzel-hareketler@2026-11-22T18:30": {
       "event": {
@@ -199,7 +199,7 @@
         "En uygun bilet": 160000
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "biletinial:cok-guzel-hareketler@2026-11-22T23:30": {
       "event": {
@@ -362,10 +362,8 @@
         "date": "2026-11-21T15:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -651,7 +649,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-12"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-27T20:00": {
       "event": {
@@ -691,7 +689,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-12"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-28T15:00": {
       "event": {
@@ -731,7 +729,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-12"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-28T20:00": {
       "event": {
@@ -771,7 +769,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-10"
+      "last_seen": "2026-11-12"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-12T20:00": {
       "event": {
@@ -951,7 +949,7 @@
         "En uygun bilet": 168000
       },
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-12"
     },
     "biletinial:mahseri-cumbus-sanart@2026-11-18T23:00": {
       "event": {
@@ -2641,7 +2639,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 212,
+      "consecutive_failures": 213,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
