@@ -9,10 +9,14 @@
         "date": "2027-01-22T21:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/7-kocali-hurmuz-muzikali",
-        "tiers": {},
+        "tiers": {
+          "En uygun bilet": 135000
+        },
         "sold_out": false
       },
-      "reference": {},
+      "reference": {
+        "En uygun bilet": 135000
+      },
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-13"
     },
@@ -434,8 +438,10 @@
         "date": "2026-11-21T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
       },
       "reference": {
         "En uygun bilet": 7001
@@ -807,6 +813,26 @@
       "first_seen": "2026-11-04",
       "last_seen": "2026-11-13"
     },
+    "biletinial:kuvayi-milliye-destani-hop@2026-11-28T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kuvayi-milliye-destani-hop@2026-11-28T19:00",
+        "title": "Kuvayi Milliye Destanı",
+        "venue": "Kayseri İl Kültür Merkezi",
+        "date": "2026-11-28T19:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kuvayi-milliye-destani-hop",
+        "tiers": {
+          "En uygun bilet": 67200
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 67200
+      },
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-13"
+    },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-13T20:00": {
       "event": {
         "source": "Biletinial",
@@ -816,10 +842,8 @@
         "date": "2026-11-13T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/leenanein-guzellik-kralicesi-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -1266,7 +1290,7 @@
         "En uygun bilet": 38400
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-13"
     },
     "biletinial:pinokyo-cocuk-oyunu-@2026-11-29T20:00": {
       "event": {
@@ -1286,7 +1310,7 @@
         "En uygun bilet": 38400
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-13"
     },
     "biletinial:sahane-pazar-sahnede@2026-11-15T20:30": {
       "event": {
@@ -1452,7 +1476,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-25",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-13"
     },
     "biletinial:tirat-gecesi@2026-11-15T19:00": {
       "event": {
@@ -2604,7 +2628,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 217,
+      "consecutive_failures": 218,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2624,5 +2648,5 @@
   },
   "telegram_offset": 770271864,
   "min_drop_percent_override": null,
-  "keepalive": "2026-11-06T12:39:31.735461815Z"
+  "keepalive": "2026-11-13T15:41:39.557442332Z"
 }
