@@ -60,7 +60,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-14"
     },
     "biletinial:afacan-kardesler-oyun-kuruyor@2026-11-15T17:00": {
       "event": {
@@ -864,16 +864,14 @@
         "date": "2026-11-14T18:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/leenanein-guzellik-kralicesi-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-14"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-11-14T20:00": {
       "event": {
@@ -913,7 +911,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-14"
     },
     "biletinial:mahseri-cumbus-sanart@2026-11-18T20:00": {
       "event": {
@@ -933,7 +931,7 @@
         "En uygun bilet": 168000
       },
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-14"
     },
     "biletinial:mahseri-cumbus-sanart@2026-11-18T23:00": {
       "event": {
@@ -2562,7 +2560,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 220,
+      "consecutive_failures": 221,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
