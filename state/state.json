@@ -18,7 +18,7 @@
         "En uygun bilet": 135000
       },
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-14"
     },
     "biletinial:7-kocali-hurmuz-muzikali@2027-01-23T00:00": {
       "event": {
@@ -533,7 +533,7 @@
         "VIP": 425000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-14"
     },
     "biletinial:karsu-konseri@2026-11-28T00:00": {
       "event": {
@@ -673,7 +673,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-14"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-26T23:00": {
       "event": {
@@ -713,7 +713,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-14"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-27T23:00": {
       "event": {
@@ -753,7 +753,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-14"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-28T18:00": {
       "event": {
@@ -793,7 +793,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-14"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-28T23:00": {
       "event": {
@@ -1340,7 +1340,7 @@
         "En uygun bilet": 90000
       },
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-14"
     },
     "biletinial:sahane-pazar-sahnede@2026-12-23T23:30": {
       "event": {
@@ -1380,7 +1380,7 @@
         "En uygun bilet": 75000
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-14"
     },
     "biletinial:simyaci@2026-12-07T23:00": {
       "event": {
@@ -1420,7 +1420,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-14"
     },
     "biletinial:super-kediler-tiyatro-oyunu@2026-11-15T19:00": {
       "event": {
@@ -1544,7 +1544,7 @@
         "En uygun bilet": 140000
       },
       "first_seen": "2026-10-07",
-      "last_seen": "2026-11-11"
+      "last_seen": "2026-11-14"
     },
     "biletinial:yasar-jj@2026-11-22T19:00": {
       "event": {
@@ -2562,7 +2562,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 219,
+      "consecutive_failures": 220,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
