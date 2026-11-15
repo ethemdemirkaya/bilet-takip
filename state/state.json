@@ -38,7 +38,7 @@
         "En uygun bilet": 135000
       },
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     "biletinial:afacan-kardesler-oyun-kuruyor@2026-11-15T14:00": {
       "event": {
@@ -546,8 +546,10 @@
         "date": "2026-11-21T15:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
       },
       "reference": {
         "En uygun bilet": 7001
@@ -733,7 +735,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-13"
+      "last_seen": "2026-11-15"
     },
     "biletinial:kayseride-buyuk-cocuk-senligi@2026-11-28T13:30": {
       "event": {
@@ -833,7 +835,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-27T20:00": {
       "event": {
@@ -873,7 +875,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-28T15:00": {
       "event": {
@@ -913,7 +915,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-28T20:00": {
       "event": {
@@ -953,7 +955,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     "biletinial:kuvayi-milliye-destani-hop@2026-11-28T19:00": {
       "event": {
@@ -1846,7 +1848,6 @@
           "1. Kategori": 170000,
           "2. Kategori": 140000,
           "3. Kategori": 110000,
-          "4. Kategori": 80000,
           "Protokol": 200000
         },
         "sold_out": false
@@ -2682,7 +2683,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 226,
+      "consecutive_failures": 227,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2690,7 +2691,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 44,
+      "last_count": 41,
       "last_error": null
     },
     "Biletix": {
