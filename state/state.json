@@ -223,7 +223,7 @@
         "En uygun bilet": 160000
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-15"
     },
     "biletinial:cok-guzel-hareketler@2026-11-22T20:30": {
       "event": {
@@ -263,7 +263,7 @@
         "En uygun bilet": 160000
       },
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-15"
     },
     "biletinial:deli-bayrami-cat-kapi@2026-11-28T19:00": {
       "event": {
@@ -1005,12 +1005,12 @@
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/mahseri-cumbus-sanart",
         "tiers": {
-          "En uygun bilet": 168000
+          "En uygun bilet": 112000
         },
         "sold_out": false
       },
       "reference": {
-        "En uygun bilet": 168000
+        "En uygun bilet": 112000
       },
       "first_seen": "2026-11-03",
       "last_seen": "2026-11-15"
@@ -2682,7 +2682,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 225,
+      "consecutive_failures": 226,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2690,7 +2690,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 46,
+      "last_count": 44,
       "last_error": null
     },
     "Biletix": {
