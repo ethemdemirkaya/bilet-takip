@@ -60,7 +60,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-10",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     "biletinial:afacan-kardesler-oyun-kuruyor@2026-11-15T17:00": {
       "event": {
@@ -100,7 +100,7 @@
         "En uygun bilet": 75000
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     "biletinial:anna-karenina-oyunu-biletleri@2026-11-22T23:00": {
       "event": {
@@ -305,6 +305,26 @@
       "first_seen": "2026-11-09",
       "last_seen": "2026-11-09"
     },
+    "biletinial:diktat-dt@2026-12-03T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "diktat-dt@2026-12-03T20:00",
+        "title": "DİKTAT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-03T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/diktat-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15"
+    },
     "biletinial:diktat-dt@2026-12-03T23:00": {
       "event": {
         "source": "Biletinial",
@@ -323,6 +343,26 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-14",
+      "last_seen": "2026-11-15"
+    },
+    "biletinial:diktat-dt@2026-12-04T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "diktat-dt@2026-12-04T20:00",
+        "title": "DİKTAT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-04T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/diktat-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-15",
       "last_seen": "2026-11-15"
     },
     "biletinial:diktat-dt@2026-12-04T23:00": {
@@ -345,6 +385,26 @@
       "first_seen": "2026-11-14",
       "last_seen": "2026-11-15"
     },
+    "biletinial:diktat-dt@2026-12-05T15:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "diktat-dt@2026-12-05T15:00",
+        "title": "DİKTAT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-05T15:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/diktat-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-15"
+    },
     "biletinial:diktat-dt@2026-12-05T18:00": {
       "event": {
         "source": "Biletinial",
@@ -363,6 +423,26 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-14",
+      "last_seen": "2026-11-15"
+    },
+    "biletinial:diktat-dt@2026-12-05T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "diktat-dt@2026-12-05T20:00",
+        "title": "DİKTAT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-05T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/diktat-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-15",
       "last_seen": "2026-11-15"
     },
     "biletinial:diktat-dt@2026-12-05T23:00": {
@@ -419,7 +499,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-15"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-20T20:00": {
       "event": {
@@ -455,7 +535,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-15"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T15:00": {
       "event": {
@@ -491,7 +571,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-15"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T20:00": {
       "event": {
@@ -527,7 +607,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-15"
     },
     "biletinial:edi-ile-budu@2026-12-14T20:00": {
       "event": {
@@ -893,7 +973,7 @@
         "En uygun bilet": 67200
       },
       "first_seen": "2026-11-13",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     "biletinial:kuvayi-milliye-destani-hop@2026-11-28T22:00": {
       "event": {
@@ -971,7 +1051,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-18T17:00": {
       "event": {
@@ -1007,7 +1087,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-22T17:00": {
       "event": {
@@ -1045,7 +1125,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-29T17:00": {
       "event": {
@@ -1340,7 +1420,7 @@
         "En uygun bilet": 90000
       },
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     "biletinial:sahane-pazar-sahnede@2026-12-23T23:30": {
       "event": {
@@ -1420,7 +1500,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     "biletinial:sirk-atesi@2026-12-06T17:00": {
       "event": {
@@ -1460,7 +1540,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-24",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-15"
     },
     "biletinial:super-kediler-tiyatro-oyunu@2026-11-15T19:00": {
       "event": {
@@ -2602,7 +2682,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 224,
+      "consecutive_failures": 225,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
