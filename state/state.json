@@ -18,7 +18,7 @@
         "En uygun bilet": 135000
       },
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     "biletinial:7-kocali-hurmuz-muzikali@2027-01-23T00:00": {
       "event": {
@@ -118,7 +118,7 @@
         "En uygun bilet": 160000
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     "biletinial:cok-guzel-hareketler@2026-11-22T20:30": {
       "event": {
@@ -158,7 +158,7 @@
         "En uygun bilet": 160000
       },
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     "biletinial:deli-bayrami-cat-kapi@2026-11-28T19:00": {
       "event": {
@@ -376,7 +376,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-19T23:00": {
       "event": {
@@ -412,7 +412,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-20T23:00": {
       "event": {
@@ -441,16 +441,14 @@
         "date": "2026-11-21T15:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T18:00": {
       "event": {
@@ -486,7 +484,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-30",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T23:00": {
       "event": {
@@ -590,7 +588,7 @@
         "En uygun bilet": 145000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-11-14"
+      "last_seen": "2026-11-16"
     },
     "biletinial:kayip-renkler-dt@2026-11-25T11:00": {
       "event": {
@@ -710,7 +708,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-26T23:00": {
       "event": {
@@ -750,7 +748,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-27T23:00": {
       "event": {
@@ -790,7 +788,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-28T18:00": {
       "event": {
@@ -830,7 +828,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-05",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-28T23:00": {
       "event": {
@@ -910,7 +908,7 @@
         "En uygun bilet": 112000
       },
       "first_seen": "2026-11-03",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     "biletinial:mahseri-cumbus-sanart@2026-11-18T23:00": {
       "event": {
@@ -1291,7 +1289,7 @@
         "En uygun bilet": 90000
       },
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-15"
+      "last_seen": "2026-11-16"
     },
     "biletinial:simyaci@2026-12-07T20:00": {
       "event": {
@@ -2433,7 +2431,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 228,
+      "consecutive_failures": 229,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
