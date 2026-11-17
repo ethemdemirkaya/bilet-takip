@@ -20,6 +20,26 @@
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-17"
     },
+    "biletinial:7-kocali-hurmuz-muzikali@2027-01-22T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "7-kocali-hurmuz-muzikali@2027-01-22T23:00",
+        "title": "7 Kocalı Hürmüz Müzikali",
+        "venue": "Kayseri Erciyes Kültür Merkezi",
+        "date": "2027-01-22T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/7-kocali-hurmuz-muzikali",
+        "tiers": {
+          "En uygun bilet": 135000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 135000
+      },
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
     "biletinial:7-kocali-hurmuz-muzikali@2027-01-23T00:00": {
       "event": {
         "source": "Biletinial",
@@ -389,14 +409,16 @@
         "date": "2026-11-19T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-20T20:00": {
       "event": {
@@ -427,14 +449,16 @@
         "date": "2026-11-20T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T15:00": {
       "event": {
@@ -463,14 +487,16 @@
         "date": "2026-11-21T18:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T20:00": {
       "event": {
@@ -506,7 +532,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     "biletinial:edi-ile-budu@2026-12-14T20:00": {
       "event": {
@@ -968,7 +994,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-22T14:00": {
       "event": {
@@ -1004,7 +1030,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-29T14:00": {
       "event": {
@@ -1040,7 +1066,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T20:00": {
       "event": {
@@ -1085,7 +1111,7 @@
         "En uygun bilet": 56000
       },
       "first_seen": "2026-10-03",
-      "last_seen": "2026-11-12"
+      "last_seen": "2026-11-17"
     },
     "biletinial:nazim@2026-11-21T18:00": {
       "event": {
@@ -1289,7 +1315,7 @@
         "En uygun bilet": 90000
       },
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     "biletinial:simyaci@2026-12-07T20:00": {
       "event": {
@@ -2431,7 +2457,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 232,
+      "consecutive_failures": 233,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2439,13 +2465,13 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 39,
+      "last_count": 38,
       "last_error": null
     },
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 34,
+      "last_count": 33,
       "last_error": null
     }
   },
