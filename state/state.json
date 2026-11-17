@@ -1,5 +1,25 @@
 {
   "events": {
+    "biletinial:7-kocali-hurmuz-muzikali@2027-01-22T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "7-kocali-hurmuz-muzikali@2027-01-22T20:00",
+        "title": "7 Kocalı Hürmüz Müzikali",
+        "venue": "Kayseri Erciyes Kültür Merkezi",
+        "date": "2027-01-22T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/7-kocali-hurmuz-muzikali",
+        "tiers": {
+          "En uygun bilet": 135000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 135000
+      },
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
     "biletinial:7-kocali-hurmuz-muzikali@2027-01-22T21:00": {
       "event": {
         "source": "Biletinial",
@@ -59,6 +79,46 @@
       },
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-16"
+    },
+    "biletinial:alice-harikalar-diyarinda-kybm@2026-12-20T13:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "alice-harikalar-diyarinda-kybm@2026-12-20T13:00",
+        "title": "Alice Harikalar Diyarında",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-12-20T13:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/alice-harikalar-diyarinda-kybm",
+        "tiers": {
+          "En uygun bilet": 60000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 60000
+      },
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
+    "biletinial:alice-harikalar-diyarinda-kybm@2026-12-20T15:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "alice-harikalar-diyarinda-kybm@2026-12-20T15:00",
+        "title": "Alice Harikalar Diyarında",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-12-20T15:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/alice-harikalar-diyarinda-kybm",
+        "tiers": {
+          "En uygun bilet": 60000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 60000
+      },
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
     },
     "biletinial:anna-karenina-oyunu-biletleri@2026-11-22T20:00": {
       "event": {
@@ -179,6 +239,26 @@
       },
       "first_seen": "2026-11-02",
       "last_seen": "2026-11-16"
+    },
+    "biletinial:deli-bayrami-cat-kapi@2026-11-22T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "deli-bayrami-cat-kapi@2026-11-22T19:00",
+        "title": "Deli Bayramı",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-11-22T19:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/deli-bayrami-cat-kapi",
+        "tiers": {
+          "En uygun bilet": 35000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 35000
+      },
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
     },
     "biletinial:deli-bayrami-cat-kapi@2026-11-28T19:00": {
       "event": {
@@ -449,10 +529,8 @@
         "date": "2026-11-20T23:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -487,10 +565,8 @@
         "date": "2026-11-21T18:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/dugun-ya-da-davul-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -958,7 +1034,7 @@
         "En uygun bilet": 112000
       },
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-16"
+      "last_seen": "2026-11-17"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-18T14:00": {
       "event": {
@@ -1197,6 +1273,26 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-11-13"
     },
+    "biletinial:ozel-bir-gun-@2026-12-26T19:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "ozel-bir-gun-@2026-12-26T19:30",
+        "title": "Özel Bir Gün",
+        "venue": "Melikgazi Belediye Tiyatro Salonu",
+        "date": "2026-12-26T19:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/ozel-bir-gun-",
+        "tiers": {
+          "En uygun bilet": 33600
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 33600
+      },
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
+    },
     "biletinial:pinokyo-cocuk-oyunu-@2026-11-29T15:00": {
       "event": {
         "source": "Biletinial",
@@ -1396,6 +1492,26 @@
       },
       "first_seen": "2026-11-14",
       "last_seen": "2026-11-16"
+    },
+    "biletinial:super-kahramanlar@2026-12-26T12:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "super-kahramanlar@2026-12-26T12:00",
+        "title": "Süper Kahramanlar",
+        "venue": "Melikgazi Belediye Tiyatro Salonu",
+        "date": "2026-12-26T12:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/super-kahramanlar",
+        "tiers": {
+          "En uygun bilet": 28000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 28000
+      },
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17"
     },
     "biletinial:tirat-gecesi@2026-11-21T19:00": {
       "event": {
@@ -1626,7 +1742,7 @@
         "En uygun bilet": 150000
       },
       "first_seen": "2026-09-26",
-      "last_seen": "2026-11-08"
+      "last_seen": "2026-11-17"
     },
     "biletix:5ADBS": {
       "event": {
@@ -2457,7 +2573,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 233,
+      "consecutive_failures": 234,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2465,13 +2581,13 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 38,
+      "last_count": 43,
       "last_error": null
     },
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 33,
+      "last_count": 32,
       "last_error": null
     }
   },
