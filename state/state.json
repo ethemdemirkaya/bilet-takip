@@ -18,7 +18,7 @@
         "En uygun bilet": 135000
       },
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "biletinial:7-kocali-hurmuz-muzikali@2027-01-22T21:00": {
       "event": {
@@ -178,7 +178,7 @@
         "En uygun bilet": 160000
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "biletinial:cok-guzel-hareketler@2026-11-22T18:30": {
       "event": {
@@ -218,7 +218,7 @@
         "En uygun bilet": 160000
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "biletinial:cok-guzel-hareketler@2026-11-22T23:30": {
       "event": {
@@ -516,7 +516,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-19"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-20T20:00": {
       "event": {
@@ -552,7 +552,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-19"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T15:00": {
       "event": {
@@ -588,7 +588,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-19"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T20:00": {
       "event": {
@@ -624,7 +624,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-17"
+      "last_seen": "2026-11-19"
     },
     "biletinial:edi-ile-budu@2026-12-14T20:00": {
       "event": {
@@ -1012,6 +1012,26 @@
       "first_seen": "2026-11-15",
       "last_seen": "2026-11-18"
     },
+    "biletinial:kuvayi-milliye-destani-hop@2026-11-29T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kuvayi-milliye-destani-hop@2026-11-29T19:00",
+        "title": "Kuvayi Milliye Destanı",
+        "venue": "Kayseri İl Kültür Merkezi",
+        "date": "2026-11-29T19:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kuvayi-milliye-destani-hop",
+        "tiers": {
+          "En uygun bilet": 67200
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 67200
+      },
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19"
+    },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-22T14:00": {
       "event": {
         "source": "Biletinial",
@@ -1149,7 +1169,7 @@
         "En uygun bilet": 67200
       },
       "first_seen": "2026-10-09",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "biletinial:nazim@2026-11-21T20:00": {
       "event": {
@@ -1171,7 +1191,7 @@
         "En uygun bilet": 67200
       },
       "first_seen": "2026-10-17",
-      "last_seen": "2026-11-18"
+      "last_seen": "2026-11-19"
     },
     "biletinial:nazim@2026-11-21T21:00": {
       "event": {
@@ -2430,7 +2450,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 238,
+      "consecutive_failures": 239,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
