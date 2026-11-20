@@ -554,7 +554,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T15:00": {
       "event": {
@@ -590,7 +590,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-21T20:00": {
       "event": {
@@ -626,7 +626,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "biletinial:edi-ile-budu@2026-12-14T20:00": {
       "event": {
@@ -667,6 +667,26 @@
       },
       "first_seen": "2026-11-06",
       "last_seen": "2026-11-13"
+    },
+    "biletinial:haybeden-gercekustu-ask-kyb@2026-12-20T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "haybeden-gercekustu-ask-kyb@2026-12-20T20:00",
+        "title": "Haybeden Gerçeküstü Aşk",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-12-20T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/haybeden-gercekustu-ask-kyb",
+        "tiers": {
+          "En uygun bilet": 72000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 72000
+      },
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
     },
     "biletinial:haybeden-gercekustu-ask-kyb@2026-12-20T23:00": {
       "event": {
@@ -792,7 +812,7 @@
         "En uygun bilet": 145000
       },
       "first_seen": "2026-09-25",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "biletinial:kayip-renkler-dt@2026-11-25T11:00": {
       "event": {
@@ -1114,6 +1134,86 @@
       "first_seen": "2026-11-19",
       "last_seen": "2026-11-20"
     },
+    "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-12-10T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "leenanein-guzellik-kralicesi-kayseri-dt@2026-12-10T20:00",
+        "title": "LEENANE'İN GÜZELLİK KRALİÇESİ - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-10T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/leenanein-guzellik-kralicesi-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
+    },
+    "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-12-11T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "leenanein-guzellik-kralicesi-kayseri-dt@2026-12-11T20:00",
+        "title": "LEENANE'İN GÜZELLİK KRALİÇESİ - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-11T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/leenanein-guzellik-kralicesi-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
+    },
+    "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-12-12T15:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "leenanein-guzellik-kralicesi-kayseri-dt@2026-12-12T15:00",
+        "title": "LEENANE'İN GÜZELLİK KRALİÇESİ - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-12T15:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/leenanein-guzellik-kralicesi-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
+    },
+    "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-12-12T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "leenanein-guzellik-kralicesi-kayseri-dt@2026-12-12T20:00",
+        "title": "LEENANE'İN GÜZELLİK KRALİÇESİ - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-12T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/leenanein-guzellik-kralicesi-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
+    },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-22T14:00": {
       "event": {
         "source": "Biletinial",
@@ -1184,6 +1284,26 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-06",
+      "last_seen": "2026-11-20"
+    },
+    "biletinial:masal-gulleri-kayseri-dt@2026-12-09T11:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "masal-gulleri-kayseri-dt@2026-12-09T11:00",
+        "title": "MASAL GÜLLERİ",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-09T11:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/masal-gulleri-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-20",
       "last_seen": "2026-11-20"
     },
     "biletinial:memleket-kumasi-sunay-akin@2026-11-25T20:00": {
@@ -2471,7 +2591,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 242,
+      "consecutive_failures": 243,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2479,7 +2599,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 44,
+      "last_count": 49,
       "last_error": null
     },
     "Biletix": {
@@ -2491,5 +2611,5 @@
   },
   "telegram_offset": 770271864,
   "min_drop_percent_override": null,
-  "keepalive": "2026-11-13T15:41:39.557442332Z"
+  "keepalive": "2026-11-20T16:21:18.317852211Z"
 }
