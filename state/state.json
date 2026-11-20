@@ -18,7 +18,7 @@
         "En uygun bilet": 135000
       },
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "biletinial:7-kocali-hurmuz-muzikali@2027-01-22T21:00": {
       "event": {
@@ -120,6 +120,26 @@
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-20"
     },
+    "biletinial:alice-harikalar-diyarinda-kybm@2026-12-20T17:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "alice-harikalar-diyarinda-kybm@2026-12-20T17:00",
+        "title": "Alice Harikalar Diyarında",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-12-20T17:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/alice-harikalar-diyarinda-kybm",
+        "tiers": {
+          "En uygun bilet": 60000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 60000
+      },
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
+    },
     "biletinial:anna-karenina-oyunu-biletleri@2026-11-22T20:00": {
       "event": {
         "source": "Biletinial",
@@ -178,7 +198,7 @@
         "En uygun bilet": 160000
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "biletinial:cok-guzel-hareketler@2026-11-22T18:30": {
       "event": {
@@ -218,7 +238,7 @@
         "En uygun bilet": 160000
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "biletinial:cok-guzel-hareketler@2026-11-22T23:30": {
       "event": {
@@ -358,7 +378,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "biletinial:diktat-dt@2026-12-04T20:00": {
       "event": {
@@ -398,7 +418,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "biletinial:diktat-dt@2026-12-05T15:00": {
       "event": {
@@ -438,7 +458,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "biletinial:diktat-dt@2026-12-05T20:00": {
       "event": {
@@ -478,7 +498,27 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
+    },
+    "biletinial:dogu-demirkol-stand-up-gosterisi@2026-12-13T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "dogu-demirkol-stand-up-gosterisi@2026-12-13T23:00",
+        "title": "Doğu Demirkol",
+        "venue": "Kayseri Kadir Has Gösteri ve Sanat Merkezi",
+        "date": "2026-12-13T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/dogu-demirkol-stand-up-gosterisi",
+        "tiers": {
+          "En uygun bilet": 150000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 150000
+      },
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
     },
     "biletinial:dugun-ya-da-davul-kayseri-dt@2026-11-20T20:00": {
       "event": {
@@ -627,6 +667,86 @@
       },
       "first_seen": "2026-11-06",
       "last_seen": "2026-11-13"
+    },
+    "biletinial:haybeden-gercekustu-ask-kyb@2026-12-20T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "haybeden-gercekustu-ask-kyb@2026-12-20T23:00",
+        "title": "Haybeden Gerçeküstü Aşk",
+        "venue": "Kayseri Kültür Merkezi",
+        "date": "2026-12-20T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/haybeden-gercekustu-ask-kyb",
+        "tiers": {
+          "En uygun bilet": 72000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 72000
+      },
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
+    },
+    "biletinial:huysuz-palyaco-ve-sihirbaz@2026-12-20T13:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "huysuz-palyaco-ve-sihirbaz@2026-12-20T13:00",
+        "title": "Huysuz Palyaço ve Sihirbaz",
+        "venue": "Kadir Has Kongre ve Kültür Merkezi",
+        "date": "2026-12-20T13:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/huysuz-palyaco-ve-sihirbaz",
+        "tiers": {
+          "En uygun bilet": 57200
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 57200
+      },
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
+    },
+    "biletinial:huysuz-palyaco-ve-sihirbaz@2026-12-20T15:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "huysuz-palyaco-ve-sihirbaz@2026-12-20T15:00",
+        "title": "Huysuz Palyaço ve Sihirbaz",
+        "venue": "Kadir Has Kongre ve Kültür Merkezi",
+        "date": "2026-12-20T15:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/huysuz-palyaco-ve-sihirbaz",
+        "tiers": {
+          "En uygun bilet": 57200
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 57200
+      },
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
+    },
+    "biletinial:huysuz-palyaco-ve-sihirbaz@2026-12-20T17:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "huysuz-palyaco-ve-sihirbaz@2026-12-20T17:00",
+        "title": "Huysuz Palyaço ve Sihirbaz",
+        "venue": "Kadir Has Kongre ve Kültür Merkezi",
+        "date": "2026-12-20T17:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/huysuz-palyaco-ve-sihirbaz",
+        "tiers": {
+          "En uygun bilet": 57200
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 57200
+      },
+      "first_seen": "2026-11-20",
+      "last_seen": "2026-11-20"
     },
     "biletinial:karsu-konseri@2026-11-27T21:00": {
       "event": {
@@ -812,7 +932,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-27T20:00": {
       "event": {
@@ -852,7 +972,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-28T15:00": {
       "event": {
@@ -892,7 +1012,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-28T20:00": {
       "event": {
@@ -932,7 +1052,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "biletinial:kuvayi-milliye-destani-hop@2026-11-28T19:00": {
       "event": {
@@ -1010,7 +1130,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-22T17:00": {
       "event": {
@@ -1046,7 +1166,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-29T17:00": {
       "event": {
@@ -1131,7 +1251,7 @@
         "En uygun bilet": 67200
       },
       "first_seen": "2026-10-09",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "biletinial:nazim@2026-11-21T20:00": {
       "event": {
@@ -1153,7 +1273,7 @@
         "En uygun bilet": 67200
       },
       "first_seen": "2026-10-17",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "biletinial:nazim@2026-11-21T21:00": {
       "event": {
@@ -1393,7 +1513,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-19"
+      "last_seen": "2026-11-20"
     },
     "biletinial:sirk-atesi@2026-12-06T17:00": {
       "event": {
@@ -2351,7 +2471,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 241,
+      "consecutive_failures": 242,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2359,7 +2479,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 38,
+      "last_count": 44,
       "last_error": null
     },
     "Biletix": {
