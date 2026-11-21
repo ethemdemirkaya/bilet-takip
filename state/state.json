@@ -58,7 +58,7 @@
         "En uygun bilet": 135000
       },
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     "biletinial:7-kocali-hurmuz-muzikali@2027-01-23T00:00": {
       "event": {
@@ -499,6 +499,26 @@
       },
       "first_seen": "2026-11-14",
       "last_seen": "2026-11-20"
+    },
+    "biletinial:dogu-demirkol-stand-up-gosterisi@2026-12-13T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "dogu-demirkol-stand-up-gosterisi@2026-12-13T20:00",
+        "title": "Doğu Demirkol",
+        "venue": "Kayseri Kadir Has Gösteri ve Sanat Merkezi",
+        "date": "2026-12-13T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/dogu-demirkol-stand-up-gosterisi",
+        "tiers": {
+          "En uygun bilet": 150000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 150000
+      },
+      "first_seen": "2026-11-21",
+      "last_seen": "2026-11-21"
     },
     "biletinial:dogu-demirkol-stand-up-gosterisi@2026-12-13T23:00": {
       "event": {
@@ -1335,7 +1355,7 @@
         "En uygun bilet": 67200
       },
       "first_seen": "2026-10-09",
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     "biletinial:nazim@2026-11-21T20:00": {
       "event": {
@@ -1357,7 +1377,7 @@
         "En uygun bilet": 67200
       },
       "first_seen": "2026-10-17",
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     "biletinial:nazim@2026-11-21T21:00": {
       "event": {
@@ -2491,7 +2511,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 244,
+      "consecutive_failures": 245,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
