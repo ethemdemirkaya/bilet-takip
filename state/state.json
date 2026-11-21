@@ -218,7 +218,7 @@
         "En uygun bilet": 160000
       },
       "first_seen": "2026-11-01",
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     "biletinial:cok-guzel-hareketler@2026-11-22T20:30": {
       "event": {
@@ -258,7 +258,7 @@
         "En uygun bilet": 160000
       },
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     "biletinial:deli-bayrami-cat-kapi@2026-11-22T19:00": {
       "event": {
@@ -378,7 +378,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     "biletinial:diktat-dt@2026-12-04T20:00": {
       "event": {
@@ -418,7 +418,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     "biletinial:diktat-dt@2026-12-05T15:00": {
       "event": {
@@ -458,7 +458,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     "biletinial:diktat-dt@2026-12-05T20:00": {
       "event": {
@@ -498,7 +498,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-20"
+      "last_seen": "2026-11-21"
     },
     "biletinial:dogu-demirkol-stand-up-gosterisi@2026-12-13T20:00": {
       "event": {
@@ -2382,7 +2382,6 @@
         "category": "Tiyatro",
         "url": "https://www.biletix.com/etkinlik/5T9O4/TURKIYE/tr",
         "tiers": {
-          "1. Kategori": 275000,
           "2. Kategori": 230000,
           "3. Kategori": 200000,
           "4. Kategori": 160000,
@@ -2511,7 +2510,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 246,
+      "consecutive_failures": 247,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2519,7 +2518,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 48,
+      "last_count": 44,
       "last_error": null
     },
     "Biletix": {
