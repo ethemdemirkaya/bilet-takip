@@ -744,7 +744,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     "biletinial:kayip-renkler-dt@2026-11-25T14:00": {
       "event": {
@@ -784,7 +784,7 @@
         "En uygun bilet": 33600
       },
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     "biletinial:kayseride-buyuk-cocuk-senligi@2026-11-28T15:30": {
       "event": {
@@ -804,7 +804,7 @@
         "En uygun bilet": 33600
       },
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     "biletinial:kayseride-buyuk-cocuk-senligi@2026-11-28T16:30": {
       "event": {
@@ -864,7 +864,7 @@
         "En uygun bilet": 33600
       },
       "first_seen": "2026-10-22",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     "biletinial:kayseride-buyuk-cocuk-senligi@2026-11-28T22:00": {
       "event": {
@@ -1124,7 +1124,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-12-10T23:00": {
       "event": {
@@ -1164,7 +1164,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-12-11T23:00": {
       "event": {
@@ -1204,7 +1204,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-12-12T18:00": {
       "event": {
@@ -1244,7 +1244,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-12-12T23:00": {
       "event": {
@@ -1282,7 +1282,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-22T17:00": {
       "event": {
@@ -1318,7 +1318,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-29T17:00": {
       "event": {
@@ -1356,7 +1356,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-12-09T14:00": {
       "event": {
@@ -2465,7 +2465,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 248,
+      "consecutive_failures": 249,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
