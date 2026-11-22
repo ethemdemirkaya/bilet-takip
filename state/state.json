@@ -378,7 +378,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     "biletinial:diktat-dt@2026-12-04T20:00": {
       "event": {
@@ -418,7 +418,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     "biletinial:diktat-dt@2026-12-05T15:00": {
       "event": {
@@ -458,7 +458,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     "biletinial:diktat-dt@2026-12-05T20:00": {
       "event": {
@@ -498,7 +498,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     "biletinial:dogu-demirkol-stand-up-gosterisi@2026-12-13T20:00": {
       "event": {
@@ -538,7 +538,7 @@
         "En uygun bilet": 150000
       },
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-22"
     },
     "biletinial:edi-ile-budu@2026-12-14T20:00": {
       "event": {
@@ -2465,7 +2465,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 250,
+      "consecutive_failures": 251,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2473,13 +2473,13 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 41,
+      "last_count": 38,
       "last_error": null
     },
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 30,
+      "last_count": 28,
       "last_error": null
     }
   },
