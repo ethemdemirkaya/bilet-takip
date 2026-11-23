@@ -58,7 +58,7 @@
         "En uygun bilet": 135000
       },
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-21"
+      "last_seen": "2026-11-23"
     },
     "biletinial:7-kocali-hurmuz-muzikali@2027-01-23T00:00": {
       "event": {
@@ -398,7 +398,7 @@
         "En uygun bilet": 150000
       },
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "biletinial:edi-ile-budu@2026-12-14T20:00": {
       "event": {
@@ -1285,7 +1285,7 @@
         "En uygun bilet": 38400
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "biletinial:pinokyo-cocuk-oyunu-@2026-11-29T17:00": {
       "event": {
@@ -1305,7 +1305,7 @@
         "En uygun bilet": 38400
       },
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "biletinial:pinokyo-cocuk-oyunu-@2026-11-29T18:00": {
       "event": {
@@ -2128,7 +2128,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 252,
+      "consecutive_failures": 253,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
