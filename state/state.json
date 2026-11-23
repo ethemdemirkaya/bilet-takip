@@ -784,7 +784,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-27T20:00": {
       "event": {
@@ -824,7 +824,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-28T15:00": {
       "event": {
@@ -864,7 +864,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-28T20:00": {
       "event": {
@@ -904,7 +904,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "biletinial:kuvayi-milliye-destani-hop@2026-11-28T19:00": {
       "event": {
@@ -1004,7 +1004,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-12-11T20:00": {
       "event": {
@@ -1044,7 +1044,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-12-12T15:00": {
       "event": {
@@ -1084,7 +1084,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "biletinial:leenanein-guzellik-kralicesi-kayseri-dt@2026-12-12T20:00": {
       "event": {
@@ -1124,7 +1124,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-22",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "biletinial:masal-gulleri-kayseri-dt@2026-11-29T14:00": {
       "event": {
@@ -1465,7 +1465,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-22"
+      "last_seen": "2026-11-23"
     },
     "biletinial:super-kahramanlar@2026-12-26T12:00": {
       "event": {
@@ -2128,7 +2128,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 253,
+      "consecutive_failures": 254,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
