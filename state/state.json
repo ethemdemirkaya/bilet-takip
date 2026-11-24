@@ -764,7 +764,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-27T20:00": {
       "event": {
@@ -804,7 +804,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-28T15:00": {
       "event": {
@@ -844,7 +844,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-28T20:00": {
       "event": {
@@ -884,7 +884,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     "biletinial:kuvayi-milliye-destani-hop@2026-11-28T19:00": {
       "event": {
@@ -1445,7 +1445,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-23"
+      "last_seen": "2026-11-24"
     },
     "biletinial:super-kahramanlar@2026-12-26T12:00": {
       "event": {
@@ -2107,7 +2107,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 255,
+      "consecutive_failures": 256,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2115,7 +2115,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 38,
+      "last_count": 37,
       "last_error": null
     },
     "Biletix": {
