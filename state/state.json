@@ -160,6 +160,46 @@
       "first_seen": "2026-11-20",
       "last_seen": "2026-11-26"
     },
+    "biletinial:bir-garip-orhan-veli@2026-12-26T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "bir-garip-orhan-veli@2026-12-26T19:00",
+        "title": "Bir Garip Orhan Veli",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-12-26T19:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/bir-garip-orhan-veli",
+        "tiers": {
+          "En uygun bilet": 40000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 40000
+      },
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26"
+    },
+    "biletinial:bir-garip-orhan-veli@2026-12-27T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "bir-garip-orhan-veli@2026-12-27T19:00",
+        "title": "Bir Garip Orhan Veli",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-12-27T19:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/bir-garip-orhan-veli",
+        "tiers": {
+          "En uygun bilet": 40000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 40000
+      },
+      "first_seen": "2026-11-26",
+      "last_seen": "2026-11-26"
+    },
     "biletinial:deli-bayrami-cat-kapi@2026-11-28T19:00": {
       "event": {
         "source": "Biletinial",
@@ -813,8 +853,10 @@
         "date": "2026-11-27T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/kesanli-ali-destani-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
       },
       "reference": {
         "En uygun bilet": 7001
@@ -889,10 +931,8 @@
         "date": "2026-11-28T20:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/kesanli-ali-destani-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
@@ -1374,7 +1414,7 @@
         "En uygun bilet": 90000
       },
       "first_seen": "2026-11-06",
-      "last_seen": "2026-11-25"
+      "last_seen": "2026-11-26"
     },
     "biletinial:simyaci@2026-12-07T20:00": {
       "event": {
@@ -1485,9 +1525,7 @@
         "date": "2026-11-28T17:30:00Z",
         "category": "Konser",
         "url": "https://www.biletix.com/etkinlik/5ADBS/TURKIYE/tr",
-        "tiers": {
-          "2. Kategori": 140000
-        },
+        "tiers": {},
         "sold_out": false
       },
       "reference": {
@@ -2093,7 +2131,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 261,
+      "consecutive_failures": 262,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2101,7 +2139,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 36,
+      "last_count": 37,
       "last_error": null
     },
     "Biletix": {
