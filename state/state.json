@@ -18,7 +18,7 @@
         "En uygun bilet": 135000
       },
       "first_seen": "2026-11-17",
-      "last_seen": "2026-11-26"
+      "last_seen": "2026-11-27"
     },
     "biletinial:7-kocali-hurmuz-muzikali@2027-01-22T20:30": {
       "event": {
@@ -119,6 +119,26 @@
       },
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-16"
+    },
+    "biletinial:agustos-parki-dt@2026-12-27T14:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "agustos-parki-dt@2026-12-27T14:00",
+        "title": "AĞUSTOS PARKI (Filozof Çocuklar Projesi)",
+        "venue": "Kayseri DT Fuaye Sahnesi",
+        "date": "2026-12-27T14:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/agustos-parki-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27"
     },
     "biletinial:alice-harikalar-diyarinda-kybm@2026-12-20T13:00": {
       "event": {
@@ -318,6 +338,26 @@
         "En uygun bilet": 35000
       },
       "first_seen": "2026-11-18",
+      "last_seen": "2026-11-27"
+    },
+    "biletinial:deli-bayrami-cat-kapi@2026-12-06T19:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "deli-bayrami-cat-kapi@2026-12-06T19:00",
+        "title": "Deli Bayramı",
+        "venue": "Çat Kapı Sahne",
+        "date": "2026-12-06T19:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/deli-bayrami-cat-kapi",
+        "tiers": {
+          "En uygun bilet": 35000
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 35000
+      },
+      "first_seen": "2026-11-27",
       "last_seen": "2026-11-27"
     },
     "biletinial:diktat-dt@2026-12-03T20:00": {
@@ -560,6 +600,26 @@
       "first_seen": "2026-11-06",
       "last_seen": "2026-11-13"
     },
+    "biletinial:golgenin-cani-kayseri-dt@2026-12-15T11:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "golgenin-cani-kayseri-dt@2026-12-15T11:00",
+        "title": "GÖLGENİN CANI",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-15T11:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/golgenin-cani-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27"
+    },
     "biletinial:haybeden-gercekustu-ask-kyb@2026-12-20T20:00": {
       "event": {
         "source": "Biletinial",
@@ -720,6 +780,126 @@
       "first_seen": "2026-11-25",
       "last_seen": "2026-11-27"
     },
+    "biletinial:kafesten-bir-kus-uctu-kayseri-dt@2026-12-22T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kafesten-bir-kus-uctu-kayseri-dt@2026-12-22T20:00",
+        "title": "KAFESTEN BİR KUŞ UÇTU - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-22T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kafesten-bir-kus-uctu-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27"
+    },
+    "biletinial:kafesten-bir-kus-uctu-kayseri-dt@2026-12-23T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kafesten-bir-kus-uctu-kayseri-dt@2026-12-23T20:00",
+        "title": "KAFESTEN BİR KUŞ UÇTU - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-23T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kafesten-bir-kus-uctu-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27"
+    },
+    "biletinial:kafesten-bir-kus-uctu-kayseri-dt@2026-12-24T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kafesten-bir-kus-uctu-kayseri-dt@2026-12-24T20:00",
+        "title": "KAFESTEN BİR KUŞ UÇTU - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-24T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kafesten-bir-kus-uctu-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27"
+    },
+    "biletinial:kafesten-bir-kus-uctu-kayseri-dt@2026-12-25T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kafesten-bir-kus-uctu-kayseri-dt@2026-12-25T20:00",
+        "title": "KAFESTEN BİR KUŞ UÇTU - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-25T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kafesten-bir-kus-uctu-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27"
+    },
+    "biletinial:kafesten-bir-kus-uctu-kayseri-dt@2026-12-26T15:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kafesten-bir-kus-uctu-kayseri-dt@2026-12-26T15:00",
+        "title": "KAFESTEN BİR KUŞ UÇTU - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-26T15:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kafesten-bir-kus-uctu-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27"
+    },
+    "biletinial:kafesten-bir-kus-uctu-kayseri-dt@2026-12-26T20:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kafesten-bir-kus-uctu-kayseri-dt@2026-12-26T20:00",
+        "title": "KAFESTEN BİR KUŞ UÇTU - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-26T20:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kafesten-bir-kus-uctu-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27"
+    },
     "biletinial:karsu-konseri@2026-11-27T21:00": {
       "event": {
         "source": "Biletinial",
@@ -765,6 +945,26 @@
       },
       "first_seen": "2026-09-25",
       "last_seen": "2026-11-25"
+    },
+    "biletinial:kayip-renkler-dt@2026-12-16T11:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kayip-renkler-dt@2026-12-16T11:00",
+        "title": "KAYIP RENKLER",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-16T11:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kayip-renkler-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-27",
+      "last_seen": "2026-11-27"
     },
     "biletinial:kayseride-buyuk-cocuk-senligi@2026-11-28T13:30": {
       "event": {
@@ -951,8 +1151,10 @@
         "date": "2026-11-28T18:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/kesanli-ali-destani-kayseri-dt",
-        "tiers": {},
-        "sold_out": true
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
       },
       "reference": {
         "En uygun bilet": 7001
@@ -2167,7 +2369,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 264,
+      "consecutive_failures": 265,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2175,17 +2377,17 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 37,
+      "last_count": 45,
       "last_error": null
     },
     "Biletix": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 11,
+      "last_count": 10,
       "last_error": null
     }
   },
   "telegram_offset": 770271864,
   "min_drop_percent_override": null,
-  "keepalive": "2026-11-20T16:21:18.317852211Z"
+  "keepalive": "2026-11-27T19:45:50.331887603Z"
 }
