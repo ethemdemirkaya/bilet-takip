@@ -198,7 +198,7 @@
         "En uygun bilet": 60000
       },
       "first_seen": "2026-11-27",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "biletinial:alice-harikalar-diyarinda-kybm@2026-12-20T17:00": {
       "event": {
@@ -238,7 +238,7 @@
         "En uygun bilet": 60000
       },
       "first_seen": "2026-11-27",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "biletinial:alice-harikalar-diyarinda-kybm@2026-12-20T20:00": {
       "event": {
@@ -258,7 +258,7 @@
         "En uygun bilet": 60000
       },
       "first_seen": "2026-11-27",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "biletinial:bir-garip-orhan-veli@2026-12-26T19:00": {
       "event": {
@@ -558,7 +558,7 @@
         "En uygun bilet": 150000
       },
       "first_seen": "2026-11-20",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "biletinial:golgenin-cani-kayseri-dt@2026-12-15T11:00": {
       "event": {
@@ -678,7 +678,7 @@
         "En uygun bilet": 57200
       },
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "biletinial:huysuz-palyaco-ve-sihirbaz@2026-12-20T17:00": {
       "event": {
@@ -718,7 +718,7 @@
         "En uygun bilet": 57200
       },
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "biletinial:huysuz-palyaco-ve-sihirbaz@2026-12-20T20:00": {
       "event": {
@@ -738,7 +738,7 @@
         "En uygun bilet": 57200
       },
       "first_seen": "2026-11-25",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "biletinial:kafesten-bir-kus-uctu-kayseri-dt@2026-12-22T20:00": {
       "event": {
@@ -758,6 +758,26 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-27",
+      "last_seen": "2026-11-28"
+    },
+    "biletinial:kafesten-bir-kus-uctu-kayseri-dt@2026-12-22T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kafesten-bir-kus-uctu-kayseri-dt@2026-12-22T23:00",
+        "title": "KAFESTEN BİR KUŞ UÇTU - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-22T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kafesten-bir-kus-uctu-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-28",
       "last_seen": "2026-11-28"
     },
     "biletinial:kafesten-bir-kus-uctu-kayseri-dt@2026-12-23T20:00": {
@@ -780,6 +800,26 @@
       "first_seen": "2026-11-27",
       "last_seen": "2026-11-28"
     },
+    "biletinial:kafesten-bir-kus-uctu-kayseri-dt@2026-12-23T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kafesten-bir-kus-uctu-kayseri-dt@2026-12-23T23:00",
+        "title": "KAFESTEN BİR KUŞ UÇTU - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-23T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kafesten-bir-kus-uctu-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28"
+    },
     "biletinial:kafesten-bir-kus-uctu-kayseri-dt@2026-12-24T20:00": {
       "event": {
         "source": "Biletinial",
@@ -798,6 +838,26 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-27",
+      "last_seen": "2026-11-28"
+    },
+    "biletinial:kafesten-bir-kus-uctu-kayseri-dt@2026-12-24T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kafesten-bir-kus-uctu-kayseri-dt@2026-12-24T23:00",
+        "title": "KAFESTEN BİR KUŞ UÇTU - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-24T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kafesten-bir-kus-uctu-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-28",
       "last_seen": "2026-11-28"
     },
     "biletinial:kafesten-bir-kus-uctu-kayseri-dt@2026-12-25T20:00": {
@@ -820,6 +880,26 @@
       "first_seen": "2026-11-27",
       "last_seen": "2026-11-28"
     },
+    "biletinial:kafesten-bir-kus-uctu-kayseri-dt@2026-12-25T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kafesten-bir-kus-uctu-kayseri-dt@2026-12-25T23:00",
+        "title": "KAFESTEN BİR KUŞ UÇTU - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-25T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kafesten-bir-kus-uctu-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28"
+    },
     "biletinial:kafesten-bir-kus-uctu-kayseri-dt@2026-12-26T15:00": {
       "event": {
         "source": "Biletinial",
@@ -840,6 +920,26 @@
       "first_seen": "2026-11-27",
       "last_seen": "2026-11-28"
     },
+    "biletinial:kafesten-bir-kus-uctu-kayseri-dt@2026-12-26T18:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kafesten-bir-kus-uctu-kayseri-dt@2026-12-26T18:00",
+        "title": "KAFESTEN BİR KUŞ UÇTU - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-26T18:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kafesten-bir-kus-uctu-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28"
+    },
     "biletinial:kafesten-bir-kus-uctu-kayseri-dt@2026-12-26T20:00": {
       "event": {
         "source": "Biletinial",
@@ -858,6 +958,26 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-27",
+      "last_seen": "2026-11-28"
+    },
+    "biletinial:kafesten-bir-kus-uctu-kayseri-dt@2026-12-26T23:00": {
+      "event": {
+        "source": "Biletinial",
+        "id": "kafesten-bir-kus-uctu-kayseri-dt@2026-12-26T23:00",
+        "title": "KAFESTEN BİR KUŞ UÇTU - KAYSERİ DT",
+        "venue": "Kayseri Devlet Tiyatrosu Sahnesi",
+        "date": "2026-12-26T23:00:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/kafesten-bir-kus-uctu-kayseri-dt",
+        "tiers": {
+          "En uygun bilet": 7001
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 7001
+      },
+      "first_seen": "2026-11-28",
       "last_seen": "2026-11-28"
     },
     "biletinial:karsu-konseri@2026-11-28T00:00": {
@@ -1047,16 +1167,14 @@
         "date": "2026-11-28T18:00:00+03:00",
         "category": "Tiyatro",
         "url": "https://biletinial.com/tr-tr/tiyatro/kesanli-ali-destani-kayseri-dt",
-        "tiers": {
-          "En uygun bilet": 7001
-        },
-        "sold_out": false
+        "tiers": {},
+        "sold_out": true
       },
       "reference": {
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "biletinial:kesanli-ali-destani-kayseri-dt@2026-11-28T20:00": {
       "event": {
@@ -1092,7 +1210,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-04",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "biletinial:kuvayi-milliye-destani-hop@2026-11-28T19:00": {
       "event": {
@@ -1430,6 +1548,26 @@
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-28"
     },
+    "biletinial:ozel-bir-gun-@2026-12-26T22:30": {
+      "event": {
+        "source": "Biletinial",
+        "id": "ozel-bir-gun-@2026-12-26T22:30",
+        "title": "Özel Bir Gün",
+        "venue": "Melikgazi Belediye Tiyatro Salonu",
+        "date": "2026-12-26T22:30:00+03:00",
+        "category": "Tiyatro",
+        "url": "https://biletinial.com/tr-tr/tiyatro/ozel-bir-gun-",
+        "tiers": {
+          "En uygun bilet": 33600
+        },
+        "sold_out": false
+      },
+      "reference": {
+        "En uygun bilet": 33600
+      },
+      "first_seen": "2026-11-28",
+      "last_seen": "2026-11-28"
+    },
     "biletinial:pinokyo-cocuk-oyunu-@2026-11-29T15:00": {
       "event": {
         "source": "Biletinial",
@@ -1448,7 +1586,7 @@
         "En uygun bilet": 38400
       },
       "first_seen": "2026-10-31",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "biletinial:pinokyo-cocuk-oyunu-@2026-11-29T17:00": {
       "event": {
@@ -1468,7 +1606,7 @@
         "En uygun bilet": 38400
       },
       "first_seen": "2026-11-02",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "biletinial:pinokyo-cocuk-oyunu-@2026-11-29T18:00": {
       "event": {
@@ -1628,7 +1766,7 @@
         "En uygun bilet": 7001
       },
       "first_seen": "2026-11-14",
-      "last_seen": "2026-11-27"
+      "last_seen": "2026-11-28"
     },
     "biletinial:super-kahramanlar@2026-12-26T12:00": {
       "event": {
@@ -2135,7 +2273,7 @@
   ],
   "health": {
     "Bubilet": {
-      "consecutive_failures": 266,
+      "consecutive_failures": 267,
       "alerted": true,
       "last_count": 24,
       "last_error": "Cloudflare bot koruması engelledi (403 Forbidden): https://www.bubilet.com.tr/kayseri"
@@ -2143,7 +2281,7 @@
     "Biletinial": {
       "consecutive_failures": 0,
       "alerted": false,
-      "last_count": 45,
+      "last_count": 44,
       "last_error": null
     },
     "Biletix": {
